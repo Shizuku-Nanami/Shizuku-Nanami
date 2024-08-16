@@ -212,7 +212,7 @@ ${topStar5}
       gc('FOOTER'),
       m`
     <p align="center">此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！
-    <b>设计参考为 <a href="https://github.com/MoYoez/MoYoez">Moyoez</a> 的 Github Profile, Thanks.</b>
+    <b>设计参考为 <a href="https://github.com/chitsanfei/chitsanfei">chitsanfei</a> 的 Github Profile, Thanks.</b>
     </br>
     刷新于：${now.toLocaleString(undefined, {
         timeStyle: 'short',
