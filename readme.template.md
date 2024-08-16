@@ -1,11 +1,13 @@
-<div align = "center">
+<!-- <div align = "center">
 <img src = "./asset/headshot.png" height = "200"></img>
 <h1> ShizukuNanami </h1>
-</div>
+</div> -->
+
+<img src = "./asset/banner.png"></img>
 
 - 这里是 **Shizuku Nanami** 喵！
-- 关注主播谢谢喵，关注主播谢谢喵！フォローして、ありがとうにゃん！
-- 图文无关。
+- 关注主播喵，关注主播谢谢喵！フォローして、ありがとうにゃん！
+- 星街すいせい 很帅不是吗。
 
 ---
 
