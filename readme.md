@@ -1,11 +1,13 @@
-<div align = "center">
+<!-- <div align = "center">
 <img src = "./asset/headshot.png" height = "200"></img>
 <h1> ShizukuNanami </h1>
-</div>
+</div> -->
+
+<img src = "./asset/banner.png"></img>
 
 - 这里是 **Shizuku Nanami** 喵！
-- 关注主播谢谢喵，关注主播谢谢喵！フォローして、ありがとうにゃん！
-- 图文无关。
+- 关注主播喵，关注主播谢谢喵！フォローして、ありがとうにゃん！
+- 星街すいせい 很帅不是吗。
 
 ---
 
@@ -77,9 +79,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/upptime/upptime>upptime/upptime</a><p>⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary</p></li><li><a href=https://github.com/1250422131/bilibilias>1250422131/bilibilias</a><p>哔哩哔哩解析工具，一个辅助缓存下载B站视频番剧的APP，帮助你快速便捷的缓存B站视频和番剧。</p></li><li><a href=https://github.com/casdoor/casdoor>casdoor/casdoor</a><p>An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos</p></li><li><a href=https://github.com/sequentialread/pow-captcha>sequentialread/pow-captcha</a><p>A proof of work based "captcha" similar to friendly captcha, but lightweight, self-hosted and GPLv3 licensed.</p></li><li><a href=https://github.com/moke-game/platform>moke-game/platform</a><p>moke-game 公共中台服务</p></li></ul>
+<ul><li><a href=https://github.com/Hikarisame-Technology/SYSTools>Hikarisame-Technology/SYSTools</a><p>适用于Windows的多功能工具箱</p></li><li><a href=https://github.com/carloscuesta/gitmoji>carloscuesta/gitmoji</a><p>An emoji guide for your commit messages. 😜</p></li><li><a href=https://github.com/FriendlyCaptcha/friendly-pow>FriendlyCaptcha/friendly-pow</a><p>The PoW challenge library used by Friendly Captcha</p></li><li><a href=https://github.com/chitsanfei/rin-asf-bot>chitsanfei/rin-asf-bot</a><p>Rin bot is designed for giving steam gamers better experience, based ArchiSteamFarm.</p></li><li><a href=https://github.com/yj94/BinarySpy>yj94/BinarySpy</a><p>一个手动或自动patch shellcode到二进制文件的免杀工具/A tool for manual or automatic patch shellcode into binary file oder to bypass AV.</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/17/24, 12:36 AM<br>下一次刷新：8/18/24, 12:36 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/17/24, 12:40 AM<br>下一次刷新：8/18/24, 12:40 AM</p>
