@@ -4,7 +4,7 @@ export const opensource = {
         'Hikarisame-Technology/AdbTools',
         'Hikarisame-Technology/Suspend-Classroom-System',
         'Hikarisame-Technology/ACGManager',
-        'Forever331/Dell_G5_5500_Hackintosh_OpenCore',
+        // 'Forever331/Dell_G5_5500_Hackintosh_OpenCore',
       //'',
     ],
     toys: {
