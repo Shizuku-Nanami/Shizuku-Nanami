@@ -22,7 +22,7 @@
 
 <br />
 
-😈 | 我使用的语言喵
+**😈 | 我使用的语言喵**
 
 <p>
 <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge" alt="Bash" />
@@ -73,7 +73,8 @@
 <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=for-the-badge" alt="YAML" />
 <img src="https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff&style=for-the-badge" alt="Zig" />
 </p>
-🤭 | 我使用的开发集成方案喵
+
+**🤭 | 我使用的开发集成方案喵**
 
 <p>
   <img alt="docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
@@ -82,7 +83,8 @@
   <img alt="github actions" src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img alt="MacOS" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0&style=for-the-badge" />
 </p>
-☢️ | 我使用的环境喵
+
+**☢️ | 我使用的环境喵**
 
 <p>
 <img src="https://img.shields.io/badge/Battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white&style=for-the-badge" alt="Battle.net" />
