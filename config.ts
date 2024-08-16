@@ -1,9 +1,10 @@
 export const opensource = {
     active: [
-        'Hikarisame-Technology/SYSTools',
-        'Hikarisame-Technology/AdbTools',
-        'Hikarisame-Technology/Suspend-Classroom-System',
-        'Hikarisame-Technology/ACGManager',
+        'Shizuku-Nanami/Movies_Books',
+        // 'Hikarisame-Technology/SYSTools',
+        // 'Hikarisame-Technology/AdbTools',
+        // 'Hikarisame-Technology/Suspend-Classroom-System',
+        // 'Hikarisame-Technology/ACGManager',
         // 'Forever331/Dell_G5_5500_Hackintosh_OpenCore',
       //'',
     ],
@@ -11,7 +12,8 @@ export const opensource = {
       limit: 3,
       random: true,
       repos: [
-        'Shizuku-Nanami/Minigeki',
+          'Shizuku-Nanami/Minigeki',
+          'Hikarisame-Technology/SYSTools',
         //'',
       ],
     },
