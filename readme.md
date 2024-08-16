@@ -5,6 +5,8 @@
 
 <img src = "./asset/banner.png"></img>
 
+---
+
 - 这里是 **Shizuku Nanami** 喵！
 - 关注主播喵，关注主播谢谢喵！フォローして、ありがとうにゃん！
 - 星街すいせい 很帅不是吗。
@@ -79,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/Hikarisame-Technology/SYSTools>Hikarisame-Technology/SYSTools</a><p>适用于Windows的多功能工具箱</p></li><li><a href=https://github.com/carloscuesta/gitmoji>carloscuesta/gitmoji</a><p>An emoji guide for your commit messages. 😜</p></li><li><a href=https://github.com/FriendlyCaptcha/friendly-pow>FriendlyCaptcha/friendly-pow</a><p>The PoW challenge library used by Friendly Captcha</p></li><li><a href=https://github.com/chitsanfei/rin-asf-bot>chitsanfei/rin-asf-bot</a><p>Rin bot is designed for giving steam gamers better experience, based ArchiSteamFarm.</p></li><li><a href=https://github.com/yj94/BinarySpy>yj94/BinarySpy</a><p>一个手动或自动patch shellcode到二进制文件的免杀工具/A tool for manual or automatic patch shellcode into binary file oder to bypass AV.</p></li></ul>
+<ul><li><a href=https://github.com/digitalocean/nginxconfig.io>digitalocean/nginxconfig.io</a><p>⚙️ NGINX config generator on steroids 💉</p></li><li><a href=https://github.com/alist-org/alist>alist-org/alist</a><p>🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。</p></li><li><a href=https://github.com/louislam/uptime-kuma>louislam/uptime-kuma</a><p>A fancy self-hosted monitoring tool</p></li><li><a href=https://github.com/GStones/moke-kit>GStones/moke-kit</a><p>An IoC framework for microservice development</p></li><li><a href=https://github.com/wenlng/go-captcha>wenlng/go-captcha</a><p>🖖 Go Captcha is a behavior security CAPTCHA, which implements text click verification, slide verification and rotation verification.</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/17/24, 12:40 AM<br>下一次刷新：8/18/24, 12:40 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/17/24, 12:41 AM<br>下一次刷新：8/18/24, 12:41 AM</p>
