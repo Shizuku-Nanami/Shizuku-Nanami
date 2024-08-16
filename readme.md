@@ -119,9 +119,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/yj94/BinarySpy>yj94/BinarySpy</a><p>一个手动或自动patch shellcode到二进制文件的免杀工具/A tool for manual or automatic patch shellcode into binary file oder to bypass AV.</p></li><li><a href=https://github.com/tw93/Pake>tw93/Pake</a><p>🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</p></li><li><a href=https://github.com/moke-game/platform>moke-game/platform</a><p>moke-game 公共中台服务</p></li><li><a href=https://github.com/JustArchiNET/ArchiSteamFarm>JustArchiNET/ArchiSteamFarm</a><p>C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.</p></li><li><a href=https://github.com/sequentialread/pow-captcha>sequentialread/pow-captcha</a><p>A proof of work based "captcha" similar to friendly captcha, but lightweight, self-hosted and GPLv3 licensed.</p></li></ul>
+<ul><li><a href=https://github.com/FriendlyCaptcha/friendly-pow>FriendlyCaptcha/friendly-pow</a><p>The PoW challenge library used by Friendly Captcha</p></li><li><a href=https://github.com/wenlng/go-captcha>wenlng/go-captcha</a><p>🖖 Go Captcha is a behavior security CAPTCHA, which implements text click verification, slide verification and rotation verification.</p></li><li><a href=https://github.com/GStones/moke-kit>GStones/moke-kit</a><p>An IoC framework for microservice development</p></li><li><a href=https://github.com/nicepkg/aide>nicepkg/aide</a><p>Conquer Any Code in VSCode: One-Click Comments, Conversions, UI-to-Code, and AI Batch Processing of Files! 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪</p></li><li><a href=https://github.com/louislam/uptime-kuma>louislam/uptime-kuma</a><p>A fancy self-hosted monitoring tool</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/16/24, 11:15 PM<br>下一次刷新：8/17/24, 11:15 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/16/24, 11:16 PM<br>下一次刷新：8/17/24, 11:16 PM</p>
