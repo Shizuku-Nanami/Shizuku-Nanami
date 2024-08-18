@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/XDSEC/WebSocketReflectorX>XDSEC/WebSocketReflectorX</a><p>Controlled TCP-over-WebSocket forwarding tunnel.</p></li><li><a href=https://github.com/digitalocean/nginxconfig.io>digitalocean/nginxconfig.io</a><p>⚙️ NGINX config generator on steroids 💉</p></li><li><a href=https://github.com/1250422131/bilibilias>1250422131/bilibilias</a><p>哔哩哔哩解析工具，一个辅助缓存下载B站视频番剧的APP，帮助你快速便捷的缓存B站视频和番剧。</p></li><li><a href=https://github.com/louislam/uptime-kuma>louislam/uptime-kuma</a><p>A fancy self-hosted monitoring tool</p></li><li><a href=https://github.com/casdoor/casdoor>casdoor/casdoor</a><p>An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos</p></li></ul>
+<ul><li><a href=https://github.com/JustArchiNET/ArchiSteamFarm>JustArchiNET/ArchiSteamFarm</a><p>C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.</p></li><li><a href=https://github.com/Hikarisame-Technology/SYSTools>Hikarisame-Technology/SYSTools</a><p>适用于Windows的多功能工具箱</p></li><li><a href=https://github.com/zetaloop/PowerToys-CN>zetaloop/PowerToys-CN</a><p>PowerToys Simplified Chinese Translation 微软增强工具箱 自制汉化</p></li><li><a href=https://github.com/carloscuesta/gitmoji>carloscuesta/gitmoji</a><p>An emoji guide for your commit messages. 😜</p></li><li><a href=https://github.com/chitsanfei/rin-asf-bot>chitsanfei/rin-asf-bot</a><p>Rin bot is designed for giving steam gamers better experience, based ArchiSteamFarm.</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/17/24, 8:38 AM<br>下一次刷新：8/18/24, 8:38 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/18/24, 8:43 AM<br>下一次刷新：8/19/24, 8:43 AM</p>
