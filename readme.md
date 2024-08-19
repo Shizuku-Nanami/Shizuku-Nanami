@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/imadr/Unity-game-hacking>imadr/Unity-game-hacking</a><p>A guide for hacking unity games</p></li><li><a href=https://github.com/JustArchiNET/ArchiSteamFarm>JustArchiNET/ArchiSteamFarm</a><p>C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.</p></li><li><a href=https://github.com/sequentialread/pow-captcha>sequentialread/pow-captcha</a><p>A proof of work based "captcha" similar to friendly captcha, but lightweight, self-hosted and GPLv3 licensed.</p></li><li><a href=https://github.com/tw93/Pake>tw93/Pake</a><p>🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</p></li><li><a href=https://github.com/RubyMetric/chsrc>RubyMetric/chsrc</a><p>chsrc 全平台通用换源工具. Change Source for every software on every platform from the command line.</p></li></ul>
+<ul><li><a href=https://github.com/moke-game/platform>moke-game/platform</a><p>moke-game 公共中台服务</p></li><li><a href=https://github.com/louislam/uptime-kuma>louislam/uptime-kuma</a><p>A fancy self-hosted monitoring tool</p></li><li><a href=https://github.com/yj94/BinarySpy>yj94/BinarySpy</a><p>一个手动或自动patch shellcode到二进制文件的免杀工具/A tool for manual or automatic patch shellcode into binary file oder to bypass AV.</p></li><li><a href=https://github.com/JustArchiNET/ArchiSteamFarm>JustArchiNET/ArchiSteamFarm</a><p>C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.</p></li><li><a href=https://github.com/XDSEC/WebSocketReflectorX>XDSEC/WebSocketReflectorX</a><p>Controlled TCP-over-WebSocket forwarding tunnel.</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/18/24, 11:30 PM<br>下一次刷新：8/19/24, 11:30 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/19/24, 8:40 AM<br>下一次刷新：8/20/24, 8:40 AM</p>
