@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/carloscuesta/gitmoji>carloscuesta/gitmoji</a><p>An emoji guide for your commit messages. 😜</p></li><li><a href=https://github.com/sequentialread/pow-captcha>sequentialread/pow-captcha</a><p>A proof of work based "captcha" similar to friendly captcha, but lightweight, self-hosted and GPLv3 licensed.</p></li><li><a href=https://github.com/tw93/Pake>tw93/Pake</a><p>🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</p></li><li><a href=https://github.com/zetaloop/PowerToys-CN>zetaloop/PowerToys-CN</a><p>PowerToys Simplified Chinese Translation 微软增强工具箱 自制汉化</p></li><li><a href=https://github.com/tabelf/ai-gallery>tabelf/ai-gallery</a><p>ai-gallery is a front-end and back-end separation system based on Go-Zero + SD Plugin + Vite/React + Ant Design technology, which is used to uniformly manage SD painting tasks. ai-gallery 是一个基于 Go-Zero + SD Plugin + Vite/React + Ant Design 技术的前后端分离系统，用于统一管理 SD 绘画任务。</p></li></ul>
+<ul><li><a href=https://github.com/GStones/moke-kit>GStones/moke-kit</a><p>An IoC framework for microservice development</p></li><li><a href=https://github.com/Hikarisame-Technology/SYSTools>Hikarisame-Technology/SYSTools</a><p>适用于Windows的多功能工具箱</p></li><li><a href=https://github.com/Adminisme/ServerScan>Adminisme/ServerScan</a><p>ServerScan一款使用Golang开发的高并发网络扫描、服务探测工具。</p></li><li><a href=https://github.com/nicepkg/aide>nicepkg/aide</a><p>Conquer Any Code in VSCode: One-Click Comments, Conversions, UI-to-Code, and AI Batch Processing of Files! 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪</p></li><li><a href=https://github.com/alist-org/alist>alist-org/alist</a><p>🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/20/24, 8:40 AM<br>下一次刷新：8/21/24, 8:40 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/21/24, 8:40 AM<br>下一次刷新：8/22/24, 8:40 AM</p>
