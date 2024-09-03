@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/HolodexNet/Holodex>HolodexNet/Holodex</a><p>Holodex frontend source code</p></li><li><a href=https://github.com/lionsoul2014/ip2region>lionsoul2014/ip2region</a><p>Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages</p></li><li><a href=https://github.com/topjohncian/cloudreve-epay>topjohncian/cloudreve-epay</a><p>Cloudreve Pro 易支付 支持 (点个 Star 不迷路~)</p></li><li><a href=https://github.com/juicy0range/zikao-CS-Courses>juicy0range/zikao-CS-Courses</a><p>项目名称：计算机专业自考本科课程攻略计划</p></li><li><a href=https://github.com/kubesre/docker-registry-mirrors>kubesre/docker-registry-mirrors</a><p>多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.</p></li></ul>
+<ul><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a><p>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</p></li><li><a href=https://github.com/kubesre/docker-registry-mirrors>kubesre/docker-registry-mirrors</a><p>多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.</p></li><li><a href=https://github.com/tagphi/czdb_searcher_php>tagphi/czdb_searcher_php</a><p>A PHP library for efficient IP geolocation using compact database formats.</p></li><li><a href=https://github.com/NaN-NULL/AI-minato_aqua-with-Gradio-WebUI>NaN-NULL/AI-minato_aqua-with-Gradio-WebUI</a><p>基于soVITS-svc的AI-minato_aqua WebUI版</p></li><li><a href=https://github.com/Ferry-200/coriander_player>Ferry-200/coriander_player</a><p>Windows端本地音乐播放器，使用Material You配色。Dart (Flutter) + Rust (lofty, windows-rs) + C (bass lib) 多语言项目。绝赞开发中。</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/2/24, 8:43 AM<br>下一次刷新：9/3/24, 8:43 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/3/24, 8:41 AM<br>下一次刷新：9/4/24, 8:41 AM</p>
