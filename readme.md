@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/zyzsdy/aqua-button>zyzsdy/aqua-button</a></li><li><a href=https://github.com/tiny-craft/tiny-rdm>tiny-craft/tiny-rdm</a><p>Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.</p></li><li><a href=https://github.com/AvaloniaUI/Avalonia>AvaloniaUI/Avalonia</a><p>Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology</p></li><li><a href=https://github.com/breezy-weather/breezy-weather>breezy-weather/breezy-weather</a><p>A Material Design Weather Application</p></li><li><a href=https://github.com/P3TERX/GeoLite.mmdb>P3TERX/GeoLite.mmdb</a><p>MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases</p></li></ul>
+<ul><li><a href=https://github.com/zyzsdy/aqua-button>zyzsdy/aqua-button</a></li><li><a href=https://github.com/kubesre/docker-registry-mirrors>kubesre/docker-registry-mirrors</a><p>多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.</p></li><li><a href=https://github.com/lionsoul2014/ip2region>lionsoul2014/ip2region</a><p>Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages</p></li><li><a href=https://github.com/yj94/Anti-Sandbox>yj94/Anti-Sandbox</a></li><li><a href=https://github.com/AvaloniaUI/Avalonia>AvaloniaUI/Avalonia</a><p>Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/7/24, 8:41 AM<br>下一次刷新：9/8/24, 8:41 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/8/24, 8:46 AM<br>下一次刷新：9/9/24, 8:46 AM</p>
