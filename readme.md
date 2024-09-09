@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/zyzsdy/aqua-button>zyzsdy/aqua-button</a></li><li><a href=https://github.com/kubesre/docker-registry-mirrors>kubesre/docker-registry-mirrors</a><p>多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.</p></li><li><a href=https://github.com/lionsoul2014/ip2region>lionsoul2014/ip2region</a><p>Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages</p></li><li><a href=https://github.com/yj94/Anti-Sandbox>yj94/Anti-Sandbox</a></li><li><a href=https://github.com/AvaloniaUI/Avalonia>AvaloniaUI/Avalonia</a><p>Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology</p></li></ul>
+<ul><li><a href=https://github.com/minio/minio>minio/minio</a><p>MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.</p></li><li><a href=https://github.com/Kyomotoi/ATRI>Kyomotoi/ATRI</a><p>A project for ATRI, use go-cqhttp and Nonebot2.</p></li><li><a href=https://github.com/Ferry-200/coriander_player>Ferry-200/coriander_player</a><p>Windows端本地音乐播放器，使用Material You配色。Dart (Flutter) + Rust (lofty, windows-rs) + C (bass lib) 多语言项目。绝赞开发中。</p></li><li><a href=https://github.com/yj94/Anti-Sandbox>yj94/Anti-Sandbox</a></li><li><a href=https://github.com/limitcool/bilistream>limitcool/bilistream</a><p>bilistream是一个支持无人值守自动转播Twitch和Youtube（包括预告类型直播）的B站直播自动转播工具。</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/8/24, 8:46 AM<br>下一次刷新：9/9/24, 8:46 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/9/24, 8:44 AM<br>下一次刷新：9/10/24, 8:44 AM</p>
