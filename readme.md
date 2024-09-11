@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/dbeaver/dbeaver>dbeaver/dbeaver</a><p>Free universal database tool and SQL client</p></li><li><a href=https://github.com/lionsoul2014/ip2region>lionsoul2014/ip2region</a><p>Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages</p></li><li><a href=https://github.com/AvaloniaUI/Avalonia>AvaloniaUI/Avalonia</a><p>Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology</p></li><li><a href=https://github.com/HunterXuan/wx-tfjs-demo>HunterXuan/wx-tfjs-demo</a><p>微信小程序运行 TensorFlow 的 Demo</p></li><li><a href=https://github.com/P3TERX/GeoLite.mmdb>P3TERX/GeoLite.mmdb</a><p>MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases</p></li></ul>
+<ul><li><a href=https://github.com/yj94/Anti-Sandbox>yj94/Anti-Sandbox</a></li><li><a href=https://github.com/lionsoul2014/ip2region>lionsoul2014/ip2region</a><p>Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages</p></li><li><a href=https://github.com/dbeaver/dbeaver>dbeaver/dbeaver</a><p>Free universal database tool and SQL client</p></li><li><a href=https://github.com/CommunityToolkit/Maui>CommunityToolkit/Maui</a><p>The .NET MAUI Community Toolkit is a community-created library that contains .NET MAUI Extensions, Advanced UI/UX Controls, and Behaviors to help make your life as a .NET MAUI developer easier</p></li><li><a href=https://github.com/bilibili/Index-1.9B>bilibili/Index-1.9B</a><p>A SOTA lightweight multilingual LLM</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/10/24, 8:42 AM<br>下一次刷新：9/11/24, 8:42 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/11/24, 8:41 AM<br>下一次刷新：9/12/24, 8:41 AM</p>
