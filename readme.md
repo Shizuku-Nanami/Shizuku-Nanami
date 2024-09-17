@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/limitcool/bilistream>limitcool/bilistream</a><p>bilistream是一个支持无人值守自动转播Twitch和Youtube（包括预告类型直播）的B站直播自动转播工具。</p></li><li><a href=https://github.com/jackfrued/Python-100-Days>jackfrued/Python-100-Days</a><p>Python - 100天从新手到大师</p></li><li><a href=https://github.com/urlappgroup/urlapp>urlappgroup/urlapp</a><p>A place for using, publishing, discussing, and developing urlapp.</p></li><li><a href=https://github.com/Ferry-200/coriander_player>Ferry-200/coriander_player</a><p>Windows端本地音乐播放器，使用Material You配色。Dart (Flutter) + Rust (lofty, windows-rs) + C (bass lib) 多语言项目。绝赞开发中。</p></li><li><a href=https://github.com/FunnyWolf/Viper>FunnyWolf/Viper</a><p>Attack Surface Management & Red Team Simulation Platform 互联网攻击面管理&红队模拟平台</p></li></ul>
+<ul><li><a href=https://github.com/NaN-NULL/AI-minato_aqua-with-Gradio-WebUI>NaN-NULL/AI-minato_aqua-with-Gradio-WebUI</a><p>基于soVITS-svc的AI-minato_aqua WebUI版</p></li><li><a href=https://github.com/jackfrued/Python-100-Days>jackfrued/Python-100-Days</a><p>Python - 100天从新手到大师</p></li><li><a href=https://github.com/kubesre/docker-registry-mirrors>kubesre/docker-registry-mirrors</a><p>多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.</p></li><li><a href=https://github.com/emptysuns/Hi_Hysteria>emptysuns/Hi_Hysteria</a><p>Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。</p></li><li><a href=https://github.com/hatoo/oha>hatoo/oha</a><p>Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/16/24, 8:45 AM<br>下一次刷新：9/17/24, 8:45 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/17/24, 8:35 AM<br>下一次刷新：9/18/24, 8:35 AM</p>
