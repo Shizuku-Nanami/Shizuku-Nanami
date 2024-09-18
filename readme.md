@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/NaN-NULL/AI-minato_aqua-with-Gradio-WebUI>NaN-NULL/AI-minato_aqua-with-Gradio-WebUI</a><p>基于soVITS-svc的AI-minato_aqua WebUI版</p></li><li><a href=https://github.com/jackfrued/Python-100-Days>jackfrued/Python-100-Days</a><p>Python - 100天从新手到大师</p></li><li><a href=https://github.com/kubesre/docker-registry-mirrors>kubesre/docker-registry-mirrors</a><p>多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.</p></li><li><a href=https://github.com/emptysuns/Hi_Hysteria>emptysuns/Hi_Hysteria</a><p>Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。</p></li><li><a href=https://github.com/hatoo/oha>hatoo/oha</a><p>Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</p></li></ul>
+<ul><li><a href=https://github.com/koishijs/koishi>koishijs/koishi</a><p>Cross-platform chatbot framework made with love</p></li><li><a href=https://github.com/emptysuns/Hi_Hysteria>emptysuns/Hi_Hysteria</a><p>Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。</p></li><li><a href=https://github.com/HunterXuan/wx-tfjs-demo>HunterXuan/wx-tfjs-demo</a><p>微信小程序运行 TensorFlow 的 Demo</p></li><li><a href=https://github.com/TideSec/Mars>TideSec/Mars</a><p>Mars(战神)——资产发现、子域名枚举、C段扫描、资产变更监测、端口变更监测、域名解析变更监测、Awvs扫描、POC检测、web指纹探测、端口指纹探测、CDN探测、操作系统指纹探测、泛解析探测、WAF探测、敏感信息检测等等</p></li><li><a href=https://github.com/hatoo/oha>hatoo/oha</a><p>Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/17/24, 8:35 AM<br>下一次刷新：9/18/24, 8:35 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/18/24, 8:42 AM<br>下一次刷新：9/19/24, 8:42 AM</p>
