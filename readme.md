@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/emptysuns/Hi_Hysteria>emptysuns/Hi_Hysteria</a><p>Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。</p></li><li><a href=https://github.com/wa-lang/wa>wa-lang/wa</a><p>The Wa Programming Language</p></li><li><a href=https://github.com/FunnyWolf/Viper>FunnyWolf/Viper</a><p>Attack Surface Management & Red Team Simulation Platform 互联网攻击面管理&红队模拟平台</p></li><li><a href=https://github.com/Zxilly/playground-cj>Zxilly/playground-cj</a><p>仓颉 playground</p></li><li><a href=https://github.com/QwenLM/Qwen2.5-Coder>QwenLM/Qwen2.5-Coder</a><p>Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.</p></li></ul>
+<ul><li><a href=https://github.com/erri120/Playnite.Extensions>erri120/Playnite.Extensions</a><p>Collection of Extensions I created for Playnite (DLsite, F95zone, Fanza and more)</p></li><li><a href=https://github.com/QwenLM/Qwen2.5-Coder>QwenLM/Qwen2.5-Coder</a><p>Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.</p></li><li><a href=https://github.com/PBH-BTN/PeerBanHelper>PBH-BTN/PeerBanHelper</a><p>BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。PeerId黑名单/UserAgent黑名单/IP CIDR/假进度/超量下载/进度回退/多播追猎/连锁封禁/伪装检测 支持 qBittorrent/Transmission/Deluge/BiglyBT/Vuze(Azureus)/BitComet</p></li><li><a href=https://github.com/spiritLHLS/ecs>spiritLHLS/ecs</a><p>VPS融合怪服务器测评脚本(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)</p></li><li><a href=https://github.com/FunnyWolf/Viper>FunnyWolf/Viper</a><p>Attack Surface Management & Red Team Simulation Platform 互联网攻击面管理&红队模拟平台</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/30/24, 8:46 AM<br>下一次刷新：10/1/24, 8:46 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/1/24, 8:50 AM<br>下一次刷新：10/2/24, 8:50 AM</p>
