@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/halo-dev/halo>halo-dev/halo</a><p>强大易用的开源建站工具。</p></li><li><a href=https://github.com/erri120/Playnite.Extensions>erri120/Playnite.Extensions</a><p>Collection of Extensions I created for Playnite (DLsite, F95zone, Fanza and more)</p></li><li><a href=https://github.com/shadow1ng/fscan>shadow1ng/fscan</a><p>一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。</p></li><li><a href=https://github.com/QwenLM/Qwen2.5-Coder>QwenLM/Qwen2.5-Coder</a><p>Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.</p></li><li><a href=https://github.com/canton7/Stylet>canton7/Stylet</a><p>A very lightweight but powerful ViewModel-First MVVM framework for WPF for .NET Framework and .NET Core, inspired by Caliburn.Micro.</p></li></ul>
+<ul><li><a href=https://github.com/Zxilly/playground-cj>Zxilly/playground-cj</a><p>仓颉 playground</p></li><li><a href=https://github.com/urlappgroup/urlapp>urlappgroup/urlapp</a><p>A place for using, publishing, discussing, and developing urlapp.</p></li><li><a href=https://github.com/limitcool/bilistream>limitcool/bilistream</a><p>bilistream是一个支持无人值守自动转播Twitch和Youtube（包括预告类型直播）的B站直播自动转播工具。</p></li><li><a href=https://github.com/wa-lang/wa>wa-lang/wa</a><p>The Wa Programming Language</p></li><li><a href=https://github.com/JosefNemec/Playnite>JosefNemec/Playnite</a><p>Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/3/24, 8:44 AM<br>下一次刷新：10/4/24, 8:44 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/4/24, 8:44 AM<br>下一次刷新：10/5/24, 8:44 AM</p>
