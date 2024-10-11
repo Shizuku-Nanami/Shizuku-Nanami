@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/gdy666/lucky>gdy666/lucky</a><p>软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser</p></li><li><a href=https://github.com/halo-dev/halo>halo-dev/halo</a><p>强大易用的开源建站工具。</p></li><li><a href=https://github.com/shadow1ng/fscan>shadow1ng/fscan</a><p>一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。</p></li><li><a href=https://github.com/FunnyWolf/Viper>FunnyWolf/Viper</a><p>Attack Surface Management & Red Team Simulation Platform 互联网攻击面管理&红队模拟平台</p></li><li><a href=https://github.com/wa-lang/wa>wa-lang/wa</a><p>The Wa Programming Language</p></li></ul>
+<ul><li><a href=https://github.com/yodhcn/dlsite-doujin-renamer>yodhcn/dlsite-doujin-renamer</a><p>「DLsite 同人作品重命名工具」依据 RJ|VJ|BJ 号从 dlsite.com 爬取 "标题" 和 "社团" 等信息，按照自定义模板对文件夹批量格式化命名，并将文件夹封面修改为作品封面。</p></li><li><a href=https://github.com/MCSLTeam/MCServerLauncher-Future>MCSLTeam/MCServerLauncher-Future</a><p>Future version of MCSL, a brand new server management tool. Redefined, Versatile, Easy to use. (WPF Launcher & Daemon)</p></li><li><a href=https://github.com/erri120/Playnite.Extensions>erri120/Playnite.Extensions</a><p>Collection of Extensions I created for Playnite (DLsite, F95zone, Fanza and more)</p></li><li><a href=https://github.com/canton7/Stylet>canton7/Stylet</a><p>A very lightweight but powerful ViewModel-First MVVM framework for WPF for .NET Framework and .NET Core, inspired by Caliburn.Micro.</p></li><li><a href=https://github.com/PaddlePaddle/PaddleOCR>PaddlePaddle/PaddleOCR</a><p>Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/10/24, 8:44 AM<br>下一次刷新：10/11/24, 8:44 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/11/24, 8:44 AM<br>下一次刷新：10/12/24, 8:44 AM</p>
