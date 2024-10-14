@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/crzidea/doh>crzidea/doh</a><p>Country-Aware DNS over HTTPS for Optimized CDN Routing</p></li><li><a href=https://github.com/wa-lang/wa>wa-lang/wa</a><p>The Wa Programming Language</p></li><li><a href=https://github.com/koishijs/koishi>koishijs/koishi</a><p>Cross-platform chatbot framework made with love</p></li><li><a href=https://github.com/halo-dev/halo>halo-dev/halo</a><p>强大易用的开源建站工具。</p></li><li><a href=https://github.com/erri120/Playnite.Extensions>erri120/Playnite.Extensions</a><p>Collection of Extensions I created for Playnite (DLsite, F95zone, Fanza and more)</p></li></ul>
+<ul><li><a href=https://github.com/FW27623/qqwry>FW27623/qqwry</a><p>纯真IP数据库，每天从官方授权方式自动抓取最新文件</p></li><li><a href=https://github.com/P3TERX/Aria2-Pro-Docker>P3TERX/Aria2-Pro-Docker</a><p>Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像</p></li><li><a href=https://github.com/MCSLTeam/MCServerLauncher-Future>MCSLTeam/MCServerLauncher-Future</a><p>Future version of MCSL, a brand new server management tool. Redefined, Versatile, Easy to use. (WPF Launcher & Daemon)</p></li><li><a href=https://github.com/FunnyWolf/Viper>FunnyWolf/Viper</a><p>Attack Surface Management & Red Team Simulation Platform 互联网攻击面管理&红队模拟平台</p></li><li><a href=https://github.com/yodhcn/dlsite-doujin-renamer>yodhcn/dlsite-doujin-renamer</a><p>「DLsite 同人作品重命名工具」依据 RJ|VJ|BJ 号从 dlsite.com 爬取 "标题" 和 "社团" 等信息，按照自定义模板对文件夹批量格式化命名，并将文件夹封面修改为作品封面。</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/13/24, 8:48 AM<br>下一次刷新：10/14/24, 8:48 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/14/24, 8:46 AM<br>下一次刷新：10/15/24, 8:46 AM</p>
