@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/PBH-BTN/PeerBanHelper>PBH-BTN/PeerBanHelper</a><p>BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。PeerId黑名单/UserAgent黑名单/IP CIDR/假进度/超量下载/进度回退/多播追猎/连锁封禁/伪装检测 支持 qBittorrent/Transmission/Deluge/BiglyBT/Vuze(Azureus)/BitComet</p></li><li><a href=https://github.com/microsoft/ntttcp>microsoft/ntttcp</a></li><li><a href=https://github.com/yodhcn/dlsite-doujin-renamer>yodhcn/dlsite-doujin-renamer</a><p>「DLsite 同人作品重命名工具」依据 RJ|VJ|BJ 号从 dlsite.com 爬取 "标题" 和 "社团" 等信息，按照自定义模板对文件夹批量格式化命名，并将文件夹封面修改为作品封面。</p></li><li><a href=https://github.com/JosefNemec/Playnite>JosefNemec/Playnite</a><p>Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.</p></li><li><a href=https://github.com/erri120/Playnite.Extensions>erri120/Playnite.Extensions</a><p>Collection of Extensions I created for Playnite (DLsite, F95zone, Fanza and more)</p></li></ul>
+<ul><li><a href=https://github.com/canton7/Stylet>canton7/Stylet</a><p>A very lightweight but powerful ViewModel-First MVVM framework for WPF for .NET Framework and .NET Core, inspired by Caliburn.Micro.</p></li><li><a href=https://github.com/gdy666/lucky>gdy666/lucky</a><p>软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser</p></li><li><a href=https://github.com/TwilightLemon/WindowEffectTest>TwilightLemon/WindowEffectTest</a><p>测试win10/11的模糊效果</p></li><li><a href=https://github.com/FW27623/qqwry>FW27623/qqwry</a><p>纯真IP数据库，每天从官方授权方式自动抓取最新文件</p></li><li><a href=https://github.com/doimet/AuxTools>doimet/AuxTools</a><p>图形化渗透测试辅助工具</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/20/24, 8:50 AM<br>下一次刷新：10/21/24, 8:50 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/21/24, 8:46 AM<br>下一次刷新：10/22/24, 8:46 AM</p>
