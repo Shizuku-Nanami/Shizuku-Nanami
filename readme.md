@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass>MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass</a><p>A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.</p></li><li><a href=https://github.com/Taiizor/ReaLTaiizor>Taiizor/ReaLTaiizor</a><p>ReaLTaiizor is a .NET WinForms control library that offers a wide range of components and is user-friendly and design-focused.</p></li><li><a href=https://github.com/markmap/markmap>markmap/markmap</a><p>Build mindmaps with plain text</p></li><li><a href=https://github.com/JosefNemec/Playnite>JosefNemec/Playnite</a><p>Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.</p></li><li><a href=https://github.com/GoldenSheep402/Hermes>GoldenSheep402/Hermes</a><p>Hermes who delivers data in modern days</p></li></ul>
+<ul><li><a href=https://github.com/microsoft/ntttcp>microsoft/ntttcp</a></li><li><a href=https://github.com/underway2014/DBA>underway2014/DBA</a><p>Free PostgreSQL desktop tool</p></li><li><a href=https://github.com/mixmoe/HibiAPI>mixmoe/HibiAPI</a><p>一个实现了多种常用站点的易用化API的程序 / A program that implements easy-to-use APIs for a variety of commonly used sites.</p></li><li><a href=https://github.com/PBH-BTN/PeerBanHelper>PBH-BTN/PeerBanHelper</a><p>BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。PeerId黑名单/UserAgent黑名单/IP CIDR/假进度/超量下载/进度回退/多播追猎/连锁封禁/伪装检测 支持 qBittorrent/Transmission/Deluge/BiglyBT/Vuze(Azureus)/BitComet</p></li><li><a href=https://github.com/xmexg/xyks>xmexg/xyks</a><p>小猿口算逆向笔记 (已实现纯协议答题模板)</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/27/24, 8:50 AM<br>下一次刷新：10/28/24, 8:50 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/28/24, 8:48 AM<br>下一次刷新：10/29/24, 8:48 AM</p>
