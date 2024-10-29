@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/microsoft/ntttcp>microsoft/ntttcp</a></li><li><a href=https://github.com/underway2014/DBA>underway2014/DBA</a><p>Free PostgreSQL desktop tool</p></li><li><a href=https://github.com/mixmoe/HibiAPI>mixmoe/HibiAPI</a><p>一个实现了多种常用站点的易用化API的程序 / A program that implements easy-to-use APIs for a variety of commonly used sites.</p></li><li><a href=https://github.com/PBH-BTN/PeerBanHelper>PBH-BTN/PeerBanHelper</a><p>BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。PeerId黑名单/UserAgent黑名单/IP CIDR/假进度/超量下载/进度回退/多播追猎/连锁封禁/伪装检测 支持 qBittorrent/Transmission/Deluge/BiglyBT/Vuze(Azureus)/BitComet</p></li><li><a href=https://github.com/xmexg/xyks>xmexg/xyks</a><p>小猿口算逆向笔记 (已实现纯协议答题模板)</p></li></ul>
+<ul><li><a href=https://github.com/QwenLM/Qwen2.5-Coder>QwenLM/Qwen2.5-Coder</a><p>Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.</p></li><li><a href=https://github.com/xmexg/xyks>xmexg/xyks</a><p>小猿口算逆向笔记 (已实现纯协议答题模板)</p></li><li><a href=https://github.com/RoyalShooter/Playnite-DLsite-Metadata-Rename-to-DL-ID>RoyalShooter/Playnite-DLsite-Metadata-Rename-to-DL-ID</a><p>This script is designed to use with erri120's Playnite DLsite metadata Extensions. All it does is to help you translate your DLsite games name into DLsite game ID for erri120's DLsite metadata to work properly.</p></li><li><a href=https://github.com/ctripxchuang/dotnetfly>ctripxchuang/dotnetfly</a><p>关注 windbg 在 .NET 领域下的探究，带你一起解读.NET程序生产级事故！</p></li><li><a href=https://github.com/wanghongenpin/proxypin>wanghongenpin/proxypin</a><p>Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/28/24, 8:48 AM<br>下一次刷新：10/29/24, 8:48 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/29/24, 8:46 AM<br>下一次刷新：10/30/24, 8:46 AM</p>
