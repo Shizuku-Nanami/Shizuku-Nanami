@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/QwenLM/Qwen2.5-Coder>QwenLM/Qwen2.5-Coder</a><p>Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.</p></li><li><a href=https://github.com/xmexg/xyks>xmexg/xyks</a><p>小猿口算逆向笔记 (已实现纯协议答题模板)</p></li><li><a href=https://github.com/RoyalShooter/Playnite-DLsite-Metadata-Rename-to-DL-ID>RoyalShooter/Playnite-DLsite-Metadata-Rename-to-DL-ID</a><p>This script is designed to use with erri120's Playnite DLsite metadata Extensions. All it does is to help you translate your DLsite games name into DLsite game ID for erri120's DLsite metadata to work properly.</p></li><li><a href=https://github.com/ctripxchuang/dotnetfly>ctripxchuang/dotnetfly</a><p>关注 windbg 在 .NET 领域下的探究，带你一起解读.NET程序生产级事故！</p></li><li><a href=https://github.com/wanghongenpin/proxypin>wanghongenpin/proxypin</a><p>Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems</p></li></ul>
+<ul><li><a href=https://github.com/P3TERX/Aria2-Pro-Docker>P3TERX/Aria2-Pro-Docker</a><p>Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像</p></li><li><a href=https://github.com/gdy666/lucky>gdy666/lucky</a><p>软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser</p></li><li><a href=https://github.com/microsoft/ntttcp-for-linux>microsoft/ntttcp-for-linux</a><p>A Linux network throughput multiple-thread benchmark tool.</p></li><li><a href=https://github.com/xmexg/xyks>xmexg/xyks</a><p>小猿口算逆向笔记 (已实现纯协议答题模板)</p></li><li><a href=https://github.com/FantasticFiasco/mvvm-dialogs>FantasticFiasco/mvvm-dialogs</a><p>Library simplifying the concept of opening dialogs from a view model when using MVVM in WPF</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/29/24, 8:46 AM<br>下一次刷新：10/30/24, 8:46 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/30/24, 8:45 AM<br>下一次刷新：10/31/24, 8:45 AM</p>
