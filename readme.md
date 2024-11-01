@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/markmap/markmap>markmap/markmap</a><p>Build mindmaps with plain text</p></li><li><a href=https://github.com/ctripxchuang/dotnetfly>ctripxchuang/dotnetfly</a><p>关注 windbg 在 .NET 领域下的探究，带你一起解读.NET程序生产级事故！</p></li><li><a href=https://github.com/xmexg/xyks>xmexg/xyks</a><p>小猿口算逆向笔记 (已实现纯协议答题模板)</p></li><li><a href=https://github.com/TwilightLemon/WindowEffectTest>TwilightLemon/WindowEffectTest</a><p>测试win10/11的模糊效果</p></li><li><a href=https://github.com/FantasticFiasco/mvvm-dialogs>FantasticFiasco/mvvm-dialogs</a><p>Library simplifying the concept of opening dialogs from a view model when using MVVM in WPF</p></li></ul>
+<ul><li><a href=https://github.com/cockpit-project/cockpit>cockpit-project/cockpit</a><p>Cockpit is a web-based graphical interface for servers.</p></li><li><a href=https://github.com/markmap/markmap>markmap/markmap</a><p>Build mindmaps with plain text</p></li><li><a href=https://github.com/doimet/AuxTools>doimet/AuxTools</a><p>图形化渗透测试辅助工具</p></li><li><a href=https://github.com/PBH-BTN/PeerBanHelper>PBH-BTN/PeerBanHelper</a><p>BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。PeerId黑名单/UserAgent黑名单/IP CIDR/假进度/超量下载/进度回退/多播追猎/连锁封禁/伪装检测 支持 qBittorrent/Transmission/Deluge/BiglyBT/Vuze(Azureus)/BitComet</p></li><li><a href=https://github.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx>Yuri-YuzuChaN/nonebot-plugin-maimaidx</a><p>街机音游 舞萌DX 的 nonebot2 插件</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/31/24, 8:45 AM<br>下一次刷新：11/1/24, 8:45 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/1/24, 8:50 AM<br>下一次刷新：11/2/24, 8:50 AM</p>
