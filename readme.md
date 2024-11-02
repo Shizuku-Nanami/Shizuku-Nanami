@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/cockpit-project/cockpit>cockpit-project/cockpit</a><p>Cockpit is a web-based graphical interface for servers.</p></li><li><a href=https://github.com/markmap/markmap>markmap/markmap</a><p>Build mindmaps with plain text</p></li><li><a href=https://github.com/doimet/AuxTools>doimet/AuxTools</a><p>图形化渗透测试辅助工具</p></li><li><a href=https://github.com/PBH-BTN/PeerBanHelper>PBH-BTN/PeerBanHelper</a><p>BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。PeerId黑名单/UserAgent黑名单/IP CIDR/假进度/超量下载/进度回退/多播追猎/连锁封禁/伪装检测 支持 qBittorrent/Transmission/Deluge/BiglyBT/Vuze(Azureus)/BitComet</p></li><li><a href=https://github.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx>Yuri-YuzuChaN/nonebot-plugin-maimaidx</a><p>街机音游 舞萌DX 的 nonebot2 插件</p></li></ul>
+<ul><li><a href=https://github.com/JosefNemec/Playnite>JosefNemec/Playnite</a><p>Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.</p></li><li><a href=https://github.com/MCSLTeam/MCServerLauncher-Future>MCSLTeam/MCServerLauncher-Future</a><p>Future version of MCSL, a brand new server management tool. Redefined, Versatile, Easy to use. (WPF Launcher & Daemon)</p></li><li><a href=https://github.com/QwenLM/Qwen2.5-Coder>QwenLM/Qwen2.5-Coder</a><p>Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.</p></li><li><a href=https://github.com/underway2014/DBA>underway2014/DBA</a><p>Free PostgreSQL desktop tool</p></li><li><a href=https://github.com/wanghongenpin/proxypin>wanghongenpin/proxypin</a><p>Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/1/24, 8:50 AM<br>下一次刷新：11/2/24, 8:50 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/2/24, 8:44 AM<br>下一次刷新：11/3/24, 8:44 AM</p>
