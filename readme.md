@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/gdy666/lucky>gdy666/lucky</a><p>软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser</p></li><li><a href=https://github.com/Taiizor/ReaLTaiizor>Taiizor/ReaLTaiizor</a><p>ReaLTaiizor is a .NET WinForms control library that offers a wide range of components and is user-friendly and design-focused.</p></li><li><a href=https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass>MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass</a><p>A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.</p></li><li><a href=https://github.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx>Yuri-YuzuChaN/nonebot-plugin-maimaidx</a><p>街机音游 舞萌DX 的 nonebot2 插件</p></li><li><a href=https://github.com/MCSLTeam/MCServerLauncher-Future>MCSLTeam/MCServerLauncher-Future</a><p>Future version of MCSL, a brand new server management tool. Redefined, Versatile, Easy to use. (WPF Launcher & Daemon)</p></li></ul>
+<ul><li><a href=https://github.com/canton7/Stylet>canton7/Stylet</a><p>A very lightweight but powerful ViewModel-First MVVM framework for WPF for .NET Framework and .NET Core, inspired by Caliburn.Micro.</p></li><li><a href=https://github.com/xmexg/xyks>xmexg/xyks</a><p>小猿口算逆向笔记 (已实现纯协议答题模板)</p></li><li><a href=https://github.com/P3TERX/Aria2-Pro-Docker>P3TERX/Aria2-Pro-Docker</a><p>Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像</p></li><li><a href=https://github.com/mixmoe/HibiAPI>mixmoe/HibiAPI</a><p>一个实现了多种常用站点的易用化API的程序 / A program that implements easy-to-use APIs for a variety of commonly used sites.</p></li><li><a href=https://github.com/microsoft/ntttcp-for-linux>microsoft/ntttcp-for-linux</a><p>A Linux network throughput multiple-thread benchmark tool.</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/3/24, 8:50 AM<br>下一次刷新：11/4/24, 8:50 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/4/24, 8:47 AM<br>下一次刷新：11/5/24, 8:47 AM</p>
