@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/underway2014/DBA>underway2014/DBA</a><p>Free PostgreSQL desktop tool</p></li><li><a href=https://github.com/ctripxchuang/dotnetfly>ctripxchuang/dotnetfly</a><p>关注 windbg 在 .NET 领域下的探究，带你一起解读.NET程序生产级事故！</p></li><li><a href=https://github.com/MCSLTeam/MCServerLauncher-Future>MCSLTeam/MCServerLauncher-Future</a><p>Future version of MCSL, a brand new server management tool. Redefined, Versatile, Easy to use. (WPF Launcher & Daemon)</p></li><li><a href=https://github.com/doimet/AuxTools>doimet/AuxTools</a><p>图形化渗透测试辅助工具</p></li><li><a href=https://github.com/wushuo894/ani-rss>wushuo894/ani-rss</a><p>自动追番、订阅、下载 蜜柑RSS动漫</p></li></ul>
+<ul><li><a href=https://github.com/xmexg/xyks>xmexg/xyks</a><p>小猿口算逆向笔记 (已实现纯协议答题模板)</p></li><li><a href=https://github.com/canton7/Stylet>canton7/Stylet</a><p>A very lightweight but powerful ViewModel-First MVVM framework for WPF for .NET Framework and .NET Core, inspired by Caliburn.Micro.</p></li><li><a href=https://github.com/microsoft/ntttcp-for-linux>microsoft/ntttcp-for-linux</a><p>A Linux network throughput multiple-thread benchmark tool.</p></li><li><a href=https://github.com/microsoft/ntttcp>microsoft/ntttcp</a></li><li><a href=https://github.com/ctripxchuang/dotnetfly>ctripxchuang/dotnetfly</a><p>关注 windbg 在 .NET 领域下的探究，带你一起解读.NET程序生产级事故！</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/9/24, 8:43 AM<br>下一次刷新：11/10/24, 8:43 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/10/24, 8:48 AM<br>下一次刷新：11/11/24, 8:48 AM</p>
