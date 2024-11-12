@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/cockpit-project/cockpit>cockpit-project/cockpit</a><p>Cockpit is a web-based graphical interface for servers.</p></li><li><a href=https://github.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx>Yuri-YuzuChaN/nonebot-plugin-maimaidx</a><p>街机音游 舞萌DX 的 nonebot2 插件</p></li><li><a href=https://github.com/FW27623/qqwry>FW27623/qqwry</a><p>纯真IP数据库，每天从官方授权方式自动抓取最新文件</p></li><li><a href=https://github.com/microsoft/ntttcp-for-linux>microsoft/ntttcp-for-linux</a><p>A Linux network throughput multiple-thread benchmark tool.</p></li><li><a href=https://github.com/Taiizor/ReaLTaiizor>Taiizor/ReaLTaiizor</a><p>ReaLTaiizor is a .NET WinForms control library that offers a wide range of components and is user-friendly and design-focused.</p></li></ul>
+<ul><li><a href=https://github.com/canton7/Stylet>canton7/Stylet</a><p>A very lightweight but powerful ViewModel-First MVVM framework for WPF for .NET Framework and .NET Core, inspired by Caliburn.Micro.</p></li><li><a href=https://github.com/MCDReforged/MCDReforged>MCDReforged/MCDReforged</a><p>A rewritten version of MCDaemon, a python tool to control your Minecraft server</p></li><li><a href=https://github.com/cockpit-project/cockpit>cockpit-project/cockpit</a><p>Cockpit is a web-based graphical interface for servers.</p></li><li><a href=https://github.com/GoldenSheep402/Hermes>GoldenSheep402/Hermes</a><p>Hermes who delivers data in modern days</p></li><li><a href=https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass>MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass</a><p>A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/11/24, 8:45 AM<br>下一次刷新：11/12/24, 8:45 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/12/24, 8:43 AM<br>下一次刷新：11/13/24, 8:43 AM</p>
