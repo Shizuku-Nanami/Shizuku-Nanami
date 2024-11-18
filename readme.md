@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/TwilightLemon/WindowEffectTest>TwilightLemon/WindowEffectTest</a><p>测试win10/11的模糊效果</p></li><li><a href=https://github.com/doimet/AuxTools>doimet/AuxTools</a><p>图形化渗透测试辅助工具</p></li><li><a href=https://github.com/microsoft/ntttcp>microsoft/ntttcp</a></li><li><a href=https://github.com/GoldenSheep402/Hermes>GoldenSheep402/Hermes</a><p>Hermes who delivers data in modern days</p></li><li><a href=https://github.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx>Yuri-YuzuChaN/nonebot-plugin-maimaidx</a><p>街机音游 舞萌DX 的 nonebot2 插件</p></li></ul>
+<ul><li><a href=https://github.com/Pixeval/Pixeval>Pixeval/Pixeval</a><p>Wow. Yet another Pixiv client!</p></li><li><a href=https://github.com/ctripxchuang/dotnetfly>ctripxchuang/dotnetfly</a><p>关注 windbg 在 .NET 领域下的探究，带你一起解读.NET程序生产级事故！</p></li><li><a href=https://github.com/wushuo894/ani-rss>wushuo894/ani-rss</a><p>自动追番、订阅、下载 蜜柑RSS动漫</p></li><li><a href=https://github.com/underway2014/DBA>underway2014/DBA</a><p>Free PostgreSQL desktop tool</p></li><li><a href=https://github.com/microsoft/ntttcp>microsoft/ntttcp</a></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/17/24, 8:51 AM<br>下一次刷新：11/18/24, 8:51 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/18/24, 8:50 AM<br>下一次刷新：11/19/24, 8:50 AM</p>
