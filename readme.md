@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/underway2014/DBA>underway2014/DBA</a><p>Free PostgreSQL desktop tool</p></li><li><a href=https://github.com/mixmoe/HibiAPI>mixmoe/HibiAPI</a><p>一个实现了多种常用站点的易用化API的程序 / A program that implements easy-to-use APIs for a variety of commonly used sites.</p></li><li><a href=https://github.com/aniyomiorg/aniyomi>aniyomiorg/aniyomi</a><p>An app for manga and anime</p></li><li><a href=https://github.com/cockpit-project/cockpit>cockpit-project/cockpit</a><p>Cockpit is a web-based graphical interface for servers.</p></li><li><a href=https://github.com/Taiizor/ReaLTaiizor>Taiizor/ReaLTaiizor</a><p>ReaLTaiizor is a .NET WinForms control library that offers a wide range of components and is user-friendly and design-focused.</p></li></ul>
+<ul><li><a href=https://github.com/microsoft/ntttcp-for-linux>microsoft/ntttcp-for-linux</a><p>A Linux network throughput multiple-thread benchmark tool.</p></li><li><a href=https://github.com/Hideipnetwork/hideipnetwork-web>Hideipnetwork/hideipnetwork-web</a><p>Based on Node.js + services wokers</p></li><li><a href=https://github.com/GoldenSheep402/Hermes>GoldenSheep402/Hermes</a><p>Hermes who delivers data in modern days</p></li><li><a href=https://github.com/xmexg/xyks>xmexg/xyks</a><p>小猿口算逆向笔记 (已实现纯协议答题模板)</p></li><li><a href=https://github.com/TwilightLemon/WindowEffectTest>TwilightLemon/WindowEffectTest</a><p>测试win10/11的模糊效果</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/19/24, 8:48 AM<br>下一次刷新：11/20/24, 8:48 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/20/24, 8:47 AM<br>下一次刷新：11/21/24, 8:47 AM</p>
