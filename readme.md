@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/microsoft/ntttcp-for-linux>microsoft/ntttcp-for-linux</a><p>A Linux network throughput multiple-thread benchmark tool.</p></li><li><a href=https://github.com/Hideipnetwork/hideipnetwork-web>Hideipnetwork/hideipnetwork-web</a><p>Based on Node.js + services wokers</p></li><li><a href=https://github.com/GoldenSheep402/Hermes>GoldenSheep402/Hermes</a><p>Hermes who delivers data in modern days</p></li><li><a href=https://github.com/xmexg/xyks>xmexg/xyks</a><p>小猿口算逆向笔记 (已实现纯协议答题模板)</p></li><li><a href=https://github.com/TwilightLemon/WindowEffectTest>TwilightLemon/WindowEffectTest</a><p>测试win10/11的模糊效果</p></li></ul>
+<ul><li><a href=https://github.com/Pixeval/Pixeval>Pixeval/Pixeval</a><p>Wow. Yet another Pixiv client!</p></li><li><a href=https://github.com/markmap/markmap>markmap/markmap</a><p>Build mindmaps with plain text</p></li><li><a href=https://github.com/GoldenSheep402/Hermes>GoldenSheep402/Hermes</a><p>Hermes who delivers data in modern days</p></li><li><a href=https://github.com/wushuo894/ani-rss>wushuo894/ani-rss</a><p>自动追番、订阅、下载 蜜柑RSS动漫</p></li><li><a href=https://github.com/aniyomiorg/aniyomi>aniyomiorg/aniyomi</a><p>An app for manga and anime</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/20/24, 8:47 AM<br>下一次刷新：11/21/24, 8:47 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/21/24, 8:47 AM<br>下一次刷新：11/22/24, 8:47 AM</p>
