@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/imfile-io/imfile-desktop>imfile-io/imfile-desktop</a><p>A full-featured download manager.</p></li><li><a href=https://github.com/cockpit-project/cockpit>cockpit-project/cockpit</a><p>Cockpit is a web-based graphical interface for servers.</p></li><li><a href=https://github.com/MinatoAquaCrews/nonebot_plugin_fortune>MinatoAquaCrews/nonebot_plugin_fortune</a><p>Fortune divination plugin for nonebot2</p></li><li><a href=https://github.com/xmexg/xyks>xmexg/xyks</a><p>小猿口算逆向笔记 (已实现纯协议答题模板)</p></li><li><a href=https://github.com/doimet/AuxTools>doimet/AuxTools</a><p>图形化渗透测试辅助工具</p></li></ul>
+<ul><li><a href=https://github.com/xxss0903/drawstamputils>xxss0903/drawstamputils</a><p>Draw Stamp Utils with Javascript</p></li><li><a href=https://github.com/0xn0ne/weblogicScanner>0xn0ne/weblogicScanner</a><p>weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883</p></li><li><a href=https://github.com/Hideipnetwork/hideipnetwork-web>Hideipnetwork/hideipnetwork-web</a><p>Based on Node.js + services wokers</p></li><li><a href=https://github.com/mixmoe/HibiAPI>mixmoe/HibiAPI</a><p>一个实现了多种常用站点的易用化API的程序 / A program that implements easy-to-use APIs for a variety of commonly used sites.</p></li><li><a href=https://github.com/MinatoAquaCrews/nonebot_plugin_fortune>MinatoAquaCrews/nonebot_plugin_fortune</a><p>Fortune divination plugin for nonebot2</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/23/24, 8:46 AM<br>下一次刷新：11/24/24, 8:46 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/24/24, 8:53 AM<br>下一次刷新：11/25/24, 8:53 AM</p>
