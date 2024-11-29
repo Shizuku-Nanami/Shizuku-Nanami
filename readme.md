@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/elasticsearch-dump/elasticsearch-dump>elasticsearch-dump/elasticsearch-dump</a><p>Import and export tools for elasticsearch & opensearch</p></li><li><a href=https://github.com/0xn0ne/weblogicScanner>0xn0ne/weblogicScanner</a><p>weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883</p></li><li><a href=https://github.com/discoveryjs/cpupro>discoveryjs/cpupro</a><p>Rethinking of CPU profile analysis</p></li><li><a href=https://github.com/jujuforce/Mu3IO.NET>jujuforce/Mu3IO.NET</a><p>Segatools Io4 Module enhancement for Mu3 (SDDT).</p></li><li><a href=https://github.com/ImranR98/Obtainium>ImranR98/Obtainium</a><p>Get Android app updates straight from the source.</p></li></ul>
+<ul><li><a href=https://github.com/huaisha1224/Microsoft-Rewards>huaisha1224/Microsoft-Rewards</a><p>使用Python和Selenium赚取每日Microsoft Rewards积分的自动化解决方案，油猴脚本</p></li><li><a href=https://github.com/Hideipnetwork/hideipnetwork-web>Hideipnetwork/hideipnetwork-web</a><p>Based on Node.js + services wokers</p></li><li><a href=https://github.com/MinatoAquaCrews/nonebot_plugin_fortune>MinatoAquaCrews/nonebot_plugin_fortune</a><p>Fortune divination plugin for nonebot2</p></li><li><a href=https://github.com/ghost1372/DevWinUI>ghost1372/DevWinUI</a><p>DevWinUI is a collection of useful classes, controls, styles, and codes for WinUI 3. Create a WinUI 3 app in less than a minute with the built-in project templates and scaffolding tools.</p></li><li><a href=https://github.com/liwenka1/next-web-nav>liwenka1/next-web-nav</a><p>一个简单好用的导航网站</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/28/24, 8:49 AM<br>下一次刷新：11/29/24, 8:49 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/29/24, 8:49 AM<br>下一次刷新：11/30/24, 8:49 AM</p>
