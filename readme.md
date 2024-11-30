@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/huaisha1224/Microsoft-Rewards>huaisha1224/Microsoft-Rewards</a><p>使用Python和Selenium赚取每日Microsoft Rewards积分的自动化解决方案，油猴脚本</p></li><li><a href=https://github.com/Hideipnetwork/hideipnetwork-web>Hideipnetwork/hideipnetwork-web</a><p>Based on Node.js + services wokers</p></li><li><a href=https://github.com/MinatoAquaCrews/nonebot_plugin_fortune>MinatoAquaCrews/nonebot_plugin_fortune</a><p>Fortune divination plugin for nonebot2</p></li><li><a href=https://github.com/ghost1372/DevWinUI>ghost1372/DevWinUI</a><p>DevWinUI is a collection of useful classes, controls, styles, and codes for WinUI 3. Create a WinUI 3 app in less than a minute with the built-in project templates and scaffolding tools.</p></li><li><a href=https://github.com/liwenka1/next-web-nav>liwenka1/next-web-nav</a><p>一个简单好用的导航网站</p></li></ul>
+<ul><li><a href=https://github.com/jujuforce/Mu3IO.NET>jujuforce/Mu3IO.NET</a><p>Segatools Io4 Module enhancement for Mu3 (SDDT).</p></li><li><a href=https://github.com/IceWhaleTech/CasaOS>IceWhaleTech/CasaOS</a><p>CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.</p></li><li><a href=https://github.com/PowerShell/AIShell>PowerShell/AIShell</a><p>An interactive shell to work with AI-powered assistance providers</p></li><li><a href=https://github.com/ImranR98/Obtainium>ImranR98/Obtainium</a><p>Get Android app updates straight from the source.</p></li><li><a href=https://github.com/wanghongenpin/proxypin>wanghongenpin/proxypin</a><p>Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/29/24, 8:49 AM<br>下一次刷新：11/30/24, 8:49 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/30/24, 8:47 AM<br>下一次刷新：12/1/24, 8:47 AM</p>
