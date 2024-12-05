@@ -77,13 +77,13 @@ recent_posts_inject
 
 **💖 | 最近喜欢的项目**
 
-<ul><li><a href=https://github.com/paralax/awesome-honeypots>paralax/awesome-honeypots</a><p>an awesome list of honeypot resources</p></li><li><a href=https://github.com/DIYgod/DPlayer>DIYgod/DPlayer</a><p>:lollipop: Wow, such a lovely HTML5 danmaku video player</p></li><li><a href=https://github.com/DIYgod/RSSHub>DIYgod/RSSHub</a><p>🧡 Everything is RSSible</p></li><li><a href=https://github.com/sampotts/plyr>sampotts/plyr</a><p>A simple HTML5, YouTube and Vimeo player</p></li><li><a href=https://github.com/RSSNext/Follow>RSSNext/Follow</a><p>🧡 Follow your favorites in one inbox</p></li></ul>
+<ul><li><a href=https://github.com/anuraghazra/github-readme-stats>anuraghazra/github-readme-stats</a><p>:zap: Dynamically generated stats for your github readmes</p></li><li><a href=https://github.com/Xcube-Studio/Natsurainko.FluentLauncher>Xcube-Studio/Natsurainko.FluentLauncher</a><p>Natsurainko.FluentLauncher A Minecraft launcher designed for Windows 11</p></li><li><a href=https://github.com/paralax/awesome-honeypots>paralax/awesome-honeypots</a><p>an awesome list of honeypot resources</p></li><li><a href=https://github.com/DIYgod/DPlayer>DIYgod/DPlayer</a><p>:lollipop: Wow, such a lovely HTML5 danmaku video player</p></li><li><a href=https://github.com/DIYgod/RSSHub>DIYgod/RSSHub</a><p>🧡 Everything is RSSible</p></li></ul>
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/aniyomiorg/aniyomi>aniyomiorg/aniyomi</a><p>An app for manga and anime</p></li><li><a href=https://github.com/MCDReforged/MCDReforged>MCDReforged/MCDReforged</a><p>A rewritten version of MCDaemon, a python tool to control your Minecraft server</p></li><li><a href=https://github.com/liwenka1/next-web-nav>liwenka1/next-web-nav</a><p>一个简单好用的导航网站</p></li><li><a href=https://github.com/vietnh1009/ASCII-generator>vietnh1009/ASCII-generator</a><p>ASCII generator (image to text, image to image, video to video)</p></li><li><a href=https://github.com/discoveryjs/cpupro>discoveryjs/cpupro</a><p>Rethinking of CPU profile analysis</p></li></ul>
+<ul><li><a href=https://github.com/Hideipnetwork/hideipnetwork-web>Hideipnetwork/hideipnetwork-web</a><p>Based on Node.js + services wokers</p></li><li><a href=https://github.com/IceWhaleTech/CasaOS>IceWhaleTech/CasaOS</a><p>CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.</p></li><li><a href=https://github.com/RSSNext/Follow>RSSNext/Follow</a><p>🧡 Follow your favorites in one inbox</p></li><li><a href=https://github.com/elasticsearch-dump/elasticsearch-dump>elasticsearch-dump/elasticsearch-dump</a><p>Import and export tools for elasticsearch & opensearch</p></li><li><a href=https://github.com/xuxueli/xxl-api>xuxueli/xxl-api</a><p>A api management platform.（API管理平台XXL-API）</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：12/4/24, 8:51 AM<br>下一次刷新：12/5/24, 8:51 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：12/5/24, 8:50 AM<br>下一次刷新：12/6/24, 8:50 AM</p>
