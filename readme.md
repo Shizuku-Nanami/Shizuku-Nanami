@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/Hideipnetwork/hideipnetwork-web>Hideipnetwork/hideipnetwork-web</a><p>Based on Node.js + services wokers</p></li><li><a href=https://github.com/IceWhaleTech/CasaOS>IceWhaleTech/CasaOS</a><p>CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.</p></li><li><a href=https://github.com/RSSNext/Follow>RSSNext/Follow</a><p>🧡 Follow your favorites in one inbox</p></li><li><a href=https://github.com/elasticsearch-dump/elasticsearch-dump>elasticsearch-dump/elasticsearch-dump</a><p>Import and export tools for elasticsearch & opensearch</p></li><li><a href=https://github.com/xuxueli/xxl-api>xuxueli/xxl-api</a><p>A api management platform.（API管理平台XXL-API）</p></li></ul>
+<ul><li><a href=https://github.com/Erope/openwrt_nezha>Erope/openwrt_nezha</a><p>哪吒监控 For OpenWRT</p></li><li><a href=https://github.com/xuxueli/xxl-api>xuxueli/xxl-api</a><p>A api management platform.（API管理平台XXL-API）</p></li><li><a href=https://github.com/WinUICommunity/WinUICommunity>WinUICommunity/WinUICommunity</a><p>WinUICommunity is a collection of useful classes, controls, styles, and codes for WinUI 3. Create a WinUI 3 app in less than a minute with the built-in project templates and scaffolding tools.</p></li><li><a href=https://github.com/xxss0903/drawstamputils>xxss0903/drawstamputils</a><p>Draw Stamp Utils with Javascript</p></li><li><a href=https://github.com/MinatoAquaCrews/nonebot_plugin_fortune>MinatoAquaCrews/nonebot_plugin_fortune</a><p>Fortune divination plugin for nonebot2</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：12/5/24, 8:50 AM<br>下一次刷新：12/6/24, 8:50 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：12/6/24, 8:50 AM<br>下一次刷新：12/7/24, 8:50 AM</p>
