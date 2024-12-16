@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/ghost1372/DevWinUI>ghost1372/DevWinUI</a><p>DevWinUI is a collection of useful classes, controls, styles, and codes for WinUI 3. Create a WinUI 3 app in less than a minute with the built-in project templates and scaffolding tools.</p></li><li><a href=https://github.com/ImranR98/Obtainium>ImranR98/Obtainium</a><p>Get Android app updates straight from the source.</p></li><li><a href=https://github.com/Xcube-Studio/Natsurainko.FluentLauncher>Xcube-Studio/Natsurainko.FluentLauncher</a><p>Natsurainko.FluentLauncher A Minecraft launcher designed for Windows 11</p></li><li><a href=https://github.com/PowerShell/AIShell>PowerShell/AIShell</a><p>An interactive shell to work with AI-powered assistance providers</p></li><li><a href=https://github.com/sampotts/plyr>sampotts/plyr</a><p>A simple HTML5, YouTube and Vimeo player</p></li></ul>
+<ul><li><a href=https://github.com/RSSNext/Follow>RSSNext/Follow</a><p>🧡 Follow your favorites in one inbox</p></li><li><a href=https://github.com/imfile-io/imfile-desktop>imfile-io/imfile-desktop</a><p>A full-featured download manager.</p></li><li><a href=https://github.com/ImranR98/Obtainium>ImranR98/Obtainium</a><p>Get Android app updates straight from the source.</p></li><li><a href=https://github.com/xxnuo/dns-benchmark>xxnuo/dns-benchmark</a><p>dnspy 是一个批量 DNS 服务器基准测试工具，用于本地测量全世界的 DNS 服务器的可访问性和性能。生成可视化图表。dnspy is a bulk DNS server benchmarking tool used to measure the local accessibility and performance of DNS servers worldwide. It generates visual charts.</p></li><li><a href=https://github.com/elasticsearch-dump/elasticsearch-dump>elasticsearch-dump/elasticsearch-dump</a><p>Import and export tools for elasticsearch & opensearch</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：12/15/24, 8:54 AM<br>下一次刷新：12/16/24, 8:54 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：12/16/24, 8:52 AM<br>下一次刷新：12/17/24, 8:52 AM</p>
