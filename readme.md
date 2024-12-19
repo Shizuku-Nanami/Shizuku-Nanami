@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/Xcube-Studio/Natsurainko.FluentLauncher>Xcube-Studio/Natsurainko.FluentLauncher</a><p>Natsurainko.FluentLauncher A Minecraft launcher designed for Windows 11</p></li><li><a href=https://github.com/IceWhaleTech/CasaOS>IceWhaleTech/CasaOS</a><p>CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.</p></li><li><a href=https://github.com/xuxueli/xxl-api>xuxueli/xxl-api</a><p>A api management platform.（API管理平台XXL-API）</p></li><li><a href=https://github.com/PowerShell/AIShell>PowerShell/AIShell</a><p>An interactive shell to work with AI-powered assistance providers</p></li><li><a href=https://github.com/elasticsearch-dump/elasticsearch-dump>elasticsearch-dump/elasticsearch-dump</a><p>Import and export tools for elasticsearch & opensearch</p></li></ul>
+<ul><li><a href=https://github.com/IceWhaleTech/CasaOS>IceWhaleTech/CasaOS</a><p>CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.</p></li><li><a href=https://github.com/DIYgod/RSSHub>DIYgod/RSSHub</a><p>🧡 Everything is RSSible</p></li><li><a href=https://github.com/nacos-group/r-nacos>nacos-group/r-nacos</a><p>Nacos server re-implemented in Rust.</p></li><li><a href=https://github.com/PowerShell/AIShell>PowerShell/AIShell</a><p>An interactive shell to work with AI-powered assistance providers</p></li><li><a href=https://github.com/xuxueli/xxl-api>xuxueli/xxl-api</a><p>A api management platform.（API管理平台XXL-API）</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：12/18/24, 8:48 AM<br>下一次刷新：12/19/24, 8:48 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：12/19/24, 8:48 AM<br>下一次刷新：12/20/24, 8:48 AM</p>
