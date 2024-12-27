@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/DIYgod/DPlayer>DIYgod/DPlayer</a><p>:lollipop: Wow, such a lovely HTML5 danmaku video player</p></li><li><a href=https://github.com/IrineSistiana/mosdns>IrineSistiana/mosdns</a><p>一个 DNS 转发器</p></li><li><a href=https://github.com/drizzle888/CTFTools>drizzle888/CTFTools</a></li><li><a href=https://github.com/Aabyss-Team/CTF-Tools>Aabyss-Team/CTF-Tools</a><p>渊龙Sec安全团队CTF&AWD工具箱</p></li><li><a href=https://github.com/sampotts/plyr>sampotts/plyr</a><p>A simple HTML5, YouTube and Vimeo player</p></li></ul>
+<ul><li><a href=https://github.com/DIYgod/RSSHub>DIYgod/RSSHub</a><p>🧡 Everything is RSSible</p></li><li><a href=https://github.com/IrineSistiana/mosdns>IrineSistiana/mosdns</a><p>一个 DNS 转发器</p></li><li><a href=https://github.com/paralax/awesome-honeypots>paralax/awesome-honeypots</a><p>an awesome list of honeypot resources</p></li><li><a href=https://github.com/nacos-group/r-nacos>nacos-group/r-nacos</a><p>Nacos server re-implemented in Rust.</p></li><li><a href=https://github.com/WuKongIM/WuKongIM>WuKongIM/WuKongIM</a><p>More than just IM 不只是即时通讯( IM )</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：12/26/24, 8:44 AM<br>下一次刷新：12/27/24, 8:44 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：12/27/24, 8:45 AM<br>下一次刷新：12/28/24, 8:45 AM</p>
