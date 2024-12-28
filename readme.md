@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/DIYgod/RSSHub>DIYgod/RSSHub</a><p>🧡 Everything is RSSible</p></li><li><a href=https://github.com/IrineSistiana/mosdns>IrineSistiana/mosdns</a><p>一个 DNS 转发器</p></li><li><a href=https://github.com/paralax/awesome-honeypots>paralax/awesome-honeypots</a><p>an awesome list of honeypot resources</p></li><li><a href=https://github.com/nacos-group/r-nacos>nacos-group/r-nacos</a><p>Nacos server re-implemented in Rust.</p></li><li><a href=https://github.com/WuKongIM/WuKongIM>WuKongIM/WuKongIM</a><p>More than just IM 不只是即时通讯( IM )</p></li></ul>
+<ul><li><a href=https://github.com/LibreHardwareMonitor/LibreHardwareMonitor>LibreHardwareMonitor/LibreHardwareMonitor</a><p>Libre Hardware Monitor, home of the fork of Open Hardware Monitor</p></li><li><a href=https://github.com/Xcube-Studio/Natsurainko.FluentLauncher>Xcube-Studio/Natsurainko.FluentLauncher</a><p>Natsurainko.FluentLauncher A Minecraft launcher designed for Windows 11</p></li><li><a href=https://github.com/vietnh1009/ASCII-generator>vietnh1009/ASCII-generator</a><p>ASCII generator (image to text, image to image, video to video)</p></li><li><a href=https://github.com/sampotts/plyr>sampotts/plyr</a><p>A simple HTML5, YouTube and Vimeo player</p></li><li><a href=https://github.com/Aabyss-Team/CTF-Tools>Aabyss-Team/CTF-Tools</a><p>渊龙Sec安全团队CTF&AWD工具箱</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：12/27/24, 8:45 AM<br>下一次刷新：12/28/24, 8:45 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：12/28/24, 8:44 AM<br>下一次刷新：12/29/24, 8:44 AM</p>
