@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/sampotts/plyr>sampotts/plyr</a><p>A simple HTML5, YouTube and Vimeo player</p></li><li><a href=https://github.com/elasticsearch-dump/elasticsearch-dump>elasticsearch-dump/elasticsearch-dump</a><p>Import and export tools for elasticsearch & opensearch</p></li><li><a href=https://github.com/sml2h3/ddddocr>sml2h3/ddddocr</a><p>带带弟弟 通用验证码识别OCR pypi版</p></li><li><a href=https://github.com/vietnh1009/ASCII-generator>vietnh1009/ASCII-generator</a><p>ASCII generator (image to text, image to image, video to video)</p></li><li><a href=https://github.com/tsgrgo/windows-update-disabler>tsgrgo/windows-update-disabler</a><p>Disable/Enable Windows update with a lightweight batch tool.</p></li></ul>
+<ul><li><a href=https://github.com/jujuforce/Mu3IO.NET>jujuforce/Mu3IO.NET</a><p>Segatools Io4 Module enhancement for Mu3 (SDDT).</p></li><li><a href=https://github.com/tsgrgo/windows-update-disabler>tsgrgo/windows-update-disabler</a><p>Disable/Enable Windows update with a lightweight batch tool.</p></li><li><a href=https://github.com/nacos-group/r-nacos>nacos-group/r-nacos</a><p>Nacos server re-implemented in Rust.</p></li><li><a href=https://github.com/LibreHardwareMonitor/LibreHardwareMonitor>LibreHardwareMonitor/LibreHardwareMonitor</a><p>Libre Hardware Monitor, home of the fork of Open Hardware Monitor</p></li><li><a href=https://github.com/CatAnd-Dog/emailforward>CatAnd-Dog/emailforward</a></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：12/31/24, 8:44 AM<br>下一次刷新：1/1/25, 8:44 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：1/1/25, 8:51 AM<br>下一次刷新：1/2/25, 8:51 AM</p>
