@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/sampotts/plyr>sampotts/plyr</a><p>A simple HTML5, YouTube and Vimeo player</p></li><li><a href=https://github.com/WinUICommunity/WinUICommunity>WinUICommunity/WinUICommunity</a><p>WinUICommunity is a collection of useful classes, controls, styles, and codes for WinUI 3. Create a WinUI 3 app in less than a minute with the built-in project templates and scaffolding tools.</p></li><li><a href=https://github.com/jujuforce/Mu3IO.NET>jujuforce/Mu3IO.NET</a><p>Segatools Io4 Module enhancement for Mu3 (SDDT).</p></li><li><a href=https://github.com/uxiaohan/Tarot-Web>uxiaohan/Tarot-Web</a><p>你的塔罗牌占卜🔮小助手</p></li><li><a href=https://github.com/drizzle888/CTFTools>drizzle888/CTFTools</a></li></ul>
+<ul><li><a href=https://github.com/tsgrgo/windows-update-disabler>tsgrgo/windows-update-disabler</a><p>Disable/Enable Windows update with a lightweight batch tool.</p></li><li><a href=https://github.com/jujuforce/Mu3IO.NET>jujuforce/Mu3IO.NET</a><p>Segatools Io4 Module enhancement for Mu3 (SDDT).</p></li><li><a href=https://github.com/nacos-group/r-nacos>nacos-group/r-nacos</a><p>Nacos server re-implemented in Rust.</p></li><li><a href=https://github.com/RSSNext/Follow>RSSNext/Follow</a><p>🧡 Follow your favorites in one inbox</p></li><li><a href=https://github.com/Aabyss-Team/CTF-Tools>Aabyss-Team/CTF-Tools</a><p>渊龙Sec安全团队CTF&AWD工具箱</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：1/2/25, 8:44 AM<br>下一次刷新：1/3/25, 8:44 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：1/3/25, 8:45 AM<br>下一次刷新：1/4/25, 8:45 AM</p>
