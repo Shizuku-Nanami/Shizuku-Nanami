@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/wavetermdev/waveterm>wavetermdev/waveterm</a><p>An open-source, cross-platform terminal for seamless workflows</p></li><li><a href=https://github.com/CatAnd-Dog/emailforward>CatAnd-Dog/emailforward</a></li><li><a href=https://github.com/sml2h3/ddddocr>sml2h3/ddddocr</a><p>带带弟弟 通用验证码识别OCR pypi版</p></li><li><a href=https://github.com/DIYgod/DPlayer>DIYgod/DPlayer</a><p>:lollipop: Wow, such a lovely HTML5 danmaku video player</p></li><li><a href=https://github.com/xxnuo/dns-benchmark>xxnuo/dns-benchmark</a><p>dnspy 是一个批量 DNS 服务器基准测试工具，用于本地测量全世界的 DNS 服务器的可访问性和性能。生成可视化图表。dnspy is a bulk DNS server benchmarking tool used to measure the local accessibility and performance of DNS servers worldwide. It generates visual charts.</p></li></ul>
+<ul><li><a href=https://github.com/RSSNext/Follow>RSSNext/Follow</a><p>🧡 Follow your favorites in one inbox</p></li><li><a href=https://github.com/mobyw/GroupChatAnnualReport>mobyw/GroupChatAnnualReport</a><p>使用 Windows QQNT 聊天记录制作群聊年度报告！</p></li><li><a href=https://github.com/elasticsearch-dump/elasticsearch-dump>elasticsearch-dump/elasticsearch-dump</a><p>Import and export tools for elasticsearch & opensearch</p></li><li><a href=https://github.com/jujuforce/Mu3IO.NET>jujuforce/Mu3IO.NET</a><p>Segatools Io4 Module enhancement for Mu3 (SDDT).</p></li><li><a href=https://github.com/uxiaohan/Tarot-Web>uxiaohan/Tarot-Web</a><p>你的塔罗牌占卜🔮小助手</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：1/6/25, 8:48 AM<br>下一次刷新：1/7/25, 8:48 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：1/7/25, 8:45 AM<br>下一次刷新：1/8/25, 8:45 AM</p>
