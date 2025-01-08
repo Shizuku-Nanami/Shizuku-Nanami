@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/RSSNext/Follow>RSSNext/Follow</a><p>🧡 Follow your favorites in one inbox</p></li><li><a href=https://github.com/mobyw/GroupChatAnnualReport>mobyw/GroupChatAnnualReport</a><p>使用 Windows QQNT 聊天记录制作群聊年度报告！</p></li><li><a href=https://github.com/elasticsearch-dump/elasticsearch-dump>elasticsearch-dump/elasticsearch-dump</a><p>Import and export tools for elasticsearch & opensearch</p></li><li><a href=https://github.com/jujuforce/Mu3IO.NET>jujuforce/Mu3IO.NET</a><p>Segatools Io4 Module enhancement for Mu3 (SDDT).</p></li><li><a href=https://github.com/uxiaohan/Tarot-Web>uxiaohan/Tarot-Web</a><p>你的塔罗牌占卜🔮小助手</p></li></ul>
+<ul><li><a href=https://github.com/DIYgod/DPlayer>DIYgod/DPlayer</a><p>:lollipop: Wow, such a lovely HTML5 danmaku video player</p></li><li><a href=https://github.com/IrineSistiana/mosdns>IrineSistiana/mosdns</a><p>一个 DNS 转发器</p></li><li><a href=https://github.com/nacos-group/r-nacos>nacos-group/r-nacos</a><p>Nacos server re-implemented in Rust.</p></li><li><a href=https://github.com/RSSNext/Follow>RSSNext/Follow</a><p>🧡 Follow your favorites in one inbox</p></li><li><a href=https://github.com/XiaoMi/ha_xiaomi_home>XiaoMi/ha_xiaomi_home</a><p>Xiaomi Home Integration for Home Assistant</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：1/7/25, 8:45 AM<br>下一次刷新：1/8/25, 8:45 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：1/8/25, 8:45 AM<br>下一次刷新：1/9/25, 8:45 AM</p>
