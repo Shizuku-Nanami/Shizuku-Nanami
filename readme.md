@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/xxnuo/dns-benchmark>xxnuo/dns-benchmark</a><p>dnspy 是一个批量 DNS 服务器基准测试工具，用于本地测量全世界的 DNS 服务器的可访问性和性能。生成可视化图表。dnspy is a bulk DNS server benchmarking tool used to measure the local accessibility and performance of DNS servers worldwide. It generates visual charts.</p></li><li><a href=https://github.com/paralax/awesome-honeypots>paralax/awesome-honeypots</a><p>an awesome list of honeypot resources</p></li><li><a href=https://github.com/XiaoMi/ha_xiaomi_home>XiaoMi/ha_xiaomi_home</a><p>Xiaomi Home Integration for Home Assistant</p></li><li><a href=https://github.com/WuKongIM/WuKongIM>WuKongIM/WuKongIM</a><p>More than just IM 不只是即时通讯( IM )</p></li><li><a href=https://github.com/drizzle888/CTFTools>drizzle888/CTFTools</a></li></ul>
+<ul><li><a href=https://github.com/paralax/awesome-honeypots>paralax/awesome-honeypots</a><p>an awesome list of honeypot resources</p></li><li><a href=https://github.com/DIYgod/RSSHub>DIYgod/RSSHub</a><p>🧡 Everything is RSSible</p></li><li><a href=https://github.com/tsgrgo/windows-update-disabler>tsgrgo/windows-update-disabler</a><p>Disable/Enable Windows update with a lightweight batch tool.</p></li><li><a href=https://github.com/RSSNext/Follow>RSSNext/Follow</a><p>🧡 Follow your favorites in one inbox</p></li><li><a href=https://github.com/XiaoMi/ha_xiaomi_home>XiaoMi/ha_xiaomi_home</a><p>Xiaomi Home Integration for Home Assistant</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：1/12/25, 8:51 AM<br>下一次刷新：1/13/25, 8:51 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：1/13/25, 8:49 AM<br>下一次刷新：1/14/25, 8:49 AM</p>
