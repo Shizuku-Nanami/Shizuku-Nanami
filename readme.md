@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/tsgrgo/windows-update-disabler>tsgrgo/windows-update-disabler</a><p>Disable/Enable Windows update with a lightweight batch tool.</p></li><li><a href=https://github.com/DIYgod/DPlayer>DIYgod/DPlayer</a><p>:lollipop: Wow, such a lovely HTML5 danmaku video player</p></li><li><a href=https://github.com/OrgEleCho/EleCho.WpfSuite>OrgEleCho/EleCho.WpfSuite</a><p>WPF layout panels, controls, value converters, markup extensions, transitions and utilities. WPF 布局面板, 控件,值转换器, 标记拓展, 过渡与实用工具.</p></li><li><a href=https://github.com/ProbiusOfficial/SecToolKit>ProbiusOfficial/SecToolKit</a><p>Cybersecurity tool repository / Wiki 收录常用 / 前沿 的CTF和渗透工具以及其 官方/使用 文档，致力于让每个工具都能发挥作用ww，不管你是萌新还是领域从业者希望你都能在这里找到适合你的工具或者获得一定的启发。</p></li><li><a href=https://github.com/uxiaohan/Tarot-Web>uxiaohan/Tarot-Web</a><p>你的塔罗牌占卜🔮小助手</p></li></ul>
+<ul><li><a href=https://github.com/PKBeam/AMWin-RP>PKBeam/AMWin-RP</a><p>A Discord Rich Presence client for Apple Music's native Windows app.</p></li><li><a href=https://github.com/paralax/awesome-honeypots>paralax/awesome-honeypots</a><p>an awesome list of honeypot resources</p></li><li><a href=https://github.com/wavetermdev/waveterm>wavetermdev/waveterm</a><p>An open-source, cross-platform terminal for seamless workflows</p></li><li><a href=https://github.com/DIYgod/DPlayer>DIYgod/DPlayer</a><p>:lollipop: Wow, such a lovely HTML5 danmaku video player</p></li><li><a href=https://github.com/ProbiusOfficial/SecToolKit>ProbiusOfficial/SecToolKit</a><p>Cybersecurity tool repository / Wiki 收录常用 / 前沿 的CTF和渗透工具以及其 官方/使用 文档，致力于让每个工具都能发挥作用ww，不管你是萌新还是领域从业者希望你都能在这里找到适合你的工具或者获得一定的启发。</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：1/18/25, 8:42 AM<br>下一次刷新：1/19/25, 8:42 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：1/19/25, 8:48 AM<br>下一次刷新：1/20/25, 8:48 AM</p>
