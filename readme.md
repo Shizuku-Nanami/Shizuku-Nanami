@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/ProbiusOfficial/SecToolKit>ProbiusOfficial/SecToolKit</a><p>Cybersecurity tool repository / Wiki 收录常用 / 前沿 的CTF和渗透工具以及其 官方/使用 文档，致力于让每个工具都能发挥作用ww，不管你是萌新还是领域从业者希望你都能在这里找到适合你的工具或者获得一定的启发。</p></li><li><a href=https://github.com/XiaoMi/ha_xiaomi_home>XiaoMi/ha_xiaomi_home</a><p>Xiaomi Home Integration for Home Assistant</p></li><li><a href=https://github.com/DIYgod/DPlayer>DIYgod/DPlayer</a><p>:lollipop: Wow, such a lovely HTML5 danmaku video player</p></li><li><a href=https://github.com/sampotts/plyr>sampotts/plyr</a><p>A simple HTML5, YouTube and Vimeo player</p></li><li><a href=https://github.com/Xcube-Studio/Natsurainko.FluentLauncher>Xcube-Studio/Natsurainko.FluentLauncher</a><p>Natsurainko.FluentLauncher A Minecraft launcher designed for Windows 11</p></li></ul>
+<ul><li><a href=https://github.com/ProbiusOfficial/SecToolKit>ProbiusOfficial/SecToolKit</a><p>Cybersecurity tool repository / Wiki 收录常用 / 前沿 的CTF和渗透工具以及其 官方/使用 文档，致力于让每个工具都能发挥作用ww，不管你是萌新还是领域从业者希望你都能在这里找到适合你的工具或者获得一定的启发。</p></li><li><a href=https://github.com/anuraghazra/github-readme-stats>anuraghazra/github-readme-stats</a><p>:zap: Dynamically generated stats for your github readmes</p></li><li><a href=https://github.com/wavetermdev/waveterm>wavetermdev/waveterm</a><p>An open-source, cross-platform terminal for seamless workflows</p></li><li><a href=https://github.com/RSSNext/Follow>RSSNext/Follow</a><p>🧡 Follow your favorites in one inbox</p></li><li><a href=https://github.com/IrineSistiana/mosdns>IrineSistiana/mosdns</a><p>一个 DNS 转发器</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：1/20/25, 8:45 AM<br>下一次刷新：1/21/25, 8:45 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：1/21/25, 8:43 AM<br>下一次刷新：1/22/25, 8:43 AM</p>
