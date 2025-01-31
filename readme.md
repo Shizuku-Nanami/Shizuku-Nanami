@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/drizzle888/CTFTools>drizzle888/CTFTools</a></li><li><a href=https://github.com/CatAnd-Dog/emailforward>CatAnd-Dog/emailforward</a><p>无限别名邮箱收信/发信，通过api查信，提取验证码</p></li><li><a href=https://github.com/tsgrgo/windows-update-disabler>tsgrgo/windows-update-disabler</a><p>Disable/Enable Windows update with a lightweight batch tool.</p></li><li><a href=https://github.com/LibreHardwareMonitor/LibreHardwareMonitor>LibreHardwareMonitor/LibreHardwareMonitor</a><p>Libre Hardware Monitor, home of the fork of Open Hardware Monitor</p></li><li><a href=https://github.com/uxiaohan/Tarot-Web>uxiaohan/Tarot-Web</a><p>你的塔罗牌占卜🔮小助手</p></li></ul>
+<ul><li><a href=https://github.com/PKBeam/AMWin-RP>PKBeam/AMWin-RP</a><p>A Discord Rich Presence client for Apple Music's native Windows app.</p></li><li><a href=https://github.com/mobyw/GroupChatAnnualReport>mobyw/GroupChatAnnualReport</a><p>使用 Windows QQNT 聊天记录制作群聊年度报告！</p></li><li><a href=https://github.com/kabiiQ/FBK>kabiiQ/FBK</a><p>Public Discord utility bot with a range of commands, but with a focus on integration of other platforms (YouTube, Twitch, Bluesky, ...) for sending notifications in Discord channels.</p></li><li><a href=https://github.com/OrgEleCho/EleCho.WpfSuite>OrgEleCho/EleCho.WpfSuite</a><p>WPF layout panels, controls, value converters, markup extensions, transitions and utilities. WPF 布局面板, 控件,值转换器, 标记拓展, 过渡与实用工具.</p></li><li><a href=https://github.com/wavetermdev/waveterm>wavetermdev/waveterm</a><p>An open-source, cross-platform terminal for seamless workflows</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：1/30/25, 8:43 AM<br>下一次刷新：1/31/25, 8:43 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：1/31/25, 8:44 AM<br>下一次刷新：2/1/25, 8:44 AM</p>
