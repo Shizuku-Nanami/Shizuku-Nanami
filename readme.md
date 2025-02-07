@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/PKBeam/AMWin-RP>PKBeam/AMWin-RP</a><p>A Discord Rich Presence client for Apple Music's native Windows app.</p></li><li><a href=https://github.com/drizzle888/CTFTools>drizzle888/CTFTools</a></li><li><a href=https://github.com/massgravel/Microsoft-Activation-Scripts>massgravel/Microsoft-Activation-Scripts</a><p>Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</p></li><li><a href=https://github.com/CommunityToolkit/Windows>CommunityToolkit/Windows</a><p>Collection of controls for WinUI 2, WinUI 3, and Uno Platform developers. Simplifies and demonstrates common developer tasks building experiences for Windows with .NET.</p></li><li><a href=https://github.com/LibreHardwareMonitor/LibreHardwareMonitor>LibreHardwareMonitor/LibreHardwareMonitor</a><p>Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.</p></li></ul>
+<ul><li><a href=https://github.com/anuraghazra/github-readme-stats>anuraghazra/github-readme-stats</a><p>:zap: Dynamically generated stats for your github readmes</p></li><li><a href=https://github.com/DIYgod/DPlayer>DIYgod/DPlayer</a><p>:lollipop: Wow, such a lovely HTML5 danmaku video player</p></li><li><a href=https://github.com/itorr/homo>itorr/homo</a><p>💩「恶臭数字论证器」数字恶臭化工具</p></li><li><a href=https://github.com/nacos-group/r-nacos>nacos-group/r-nacos</a><p>Nacos server re-implemented in Rust.</p></li><li><a href=https://github.com/CatAnd-Dog/emailforward>CatAnd-Dog/emailforward</a><p>无限别名邮箱收信/发信，通过api查信，提取验证码</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：2/6/25, 8:45 AM<br>下一次刷新：2/7/25, 8:45 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：2/7/25, 8:45 AM<br>下一次刷新：2/8/25, 8:45 AM</p>
