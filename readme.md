@@ -77,13 +77,13 @@ recent_posts_inject
 
 **💖 | 最近喜欢的项目**
 
-<ul><li><a href=https://github.com/firerpa/lamda>firerpa/lamda</a><p>🤖 史上最强云手机远程桌面逆向抓包HOOK自动化取证能力集一体的安卓 RPA 框架，下一代移动数据自动化机器人。</p></li><li><a href=https://github.com/GeneralLibrary/GeneralUpdate>GeneralLibrary/GeneralUpdate</a><p>Unlimited Updates, Boundless Upgrades.</p></li><li><a href=https://github.com/deepseek-ai/DeepSeek-V3>deepseek-ai/DeepSeek-V3</a></li><li><a href=https://github.com/deepseek-ai/DeepSeek-R1>deepseek-ai/DeepSeek-R1</a></li><li><a href=https://github.com/Tropix126/fluent-svelte>Tropix126/fluent-svelte</a><p>A faithful implementation of Microsoft's Fluent Design System in Svelte.</p></li></ul>
+<ul><li><a href=https://github.com/wyf9/sleepy>wyf9/sleepy</a><p>Are you sleeping?</p></li><li><a href=https://github.com/firerpa/lamda>firerpa/lamda</a><p>🤖 史上最强云手机远程桌面逆向抓包HOOK自动化取证能力集一体的安卓 RPA 框架，下一代移动数据自动化机器人。</p></li><li><a href=https://github.com/GeneralLibrary/GeneralUpdate>GeneralLibrary/GeneralUpdate</a><p>Unlimited Updates, Boundless Upgrades.</p></li><li><a href=https://github.com/deepseek-ai/DeepSeek-V3>deepseek-ai/DeepSeek-V3</a></li><li><a href=https://github.com/deepseek-ai/DeepSeek-R1>deepseek-ai/DeepSeek-R1</a></li></ul>
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/PKBeam/AMWin-RP>PKBeam/AMWin-RP</a><p>A Discord Rich Presence client for Apple Music's native Windows app.</p></li><li><a href=https://github.com/nacos-group/r-nacos>nacos-group/r-nacos</a><p>Nacos server re-implemented in Rust.</p></li><li><a href=https://github.com/DIYgod/DPlayer>DIYgod/DPlayer</a><p>:lollipop: Wow, such a lovely HTML5 danmaku video player</p></li><li><a href=https://github.com/CommunityToolkit/Labs-Windows>CommunityToolkit/Labs-Windows</a><p>A safe space to collaborate and engineer solutions from the prototyping stage all the way through polished finalized component for the Windows Community Toolkit.</p></li><li><a href=https://github.com/mobyw/GroupChatAnnualReport>mobyw/GroupChatAnnualReport</a><p>使用 Windows QQNT 聊天记录制作群聊年度报告！</p></li></ul>
+<ul><li><a href=https://github.com/drizzle888/CTFTools>drizzle888/CTFTools</a></li><li><a href=https://github.com/CommunityToolkit/Labs-Windows>CommunityToolkit/Labs-Windows</a><p>A safe space to collaborate and engineer solutions from the prototyping stage all the way through polished finalized component for the Windows Community Toolkit.</p></li><li><a href=https://github.com/itorr/homo>itorr/homo</a><p>💩「恶臭数字论证器」数字恶臭化工具</p></li><li><a href=https://github.com/nacos-group/r-nacos>nacos-group/r-nacos</a><p>Nacos server re-implemented in Rust.</p></li><li><a href=https://github.com/OrgEleCho/EleCho.WpfSuite>OrgEleCho/EleCho.WpfSuite</a><p>WPF layout panels, controls, value converters, markup extensions, transitions and utilities. WPF 布局面板, 控件,值转换器, 标记拓展, 过渡与实用工具.</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：2/9/25, 8:49 AM<br>下一次刷新：2/10/25, 8:49 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：2/10/25, 8:47 AM<br>下一次刷新：2/11/25, 8:47 AM</p>
