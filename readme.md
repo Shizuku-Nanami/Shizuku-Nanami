@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/uxiaohan/Tarot-Web>uxiaohan/Tarot-Web</a><p>你的塔罗牌占卜🔮小助手</p></li><li><a href=https://github.com/nacos-group/r-nacos>nacos-group/r-nacos</a><p>Nacos server re-implemented in Rust.</p></li><li><a href=https://github.com/ProbiusOfficial/SecToolKit>ProbiusOfficial/SecToolKit</a><p>Cybersecurity tool repository / Wiki 收录常用 / 前沿 的CTF和渗透工具以及其 官方/使用 文档，致力于让每个工具都能发挥作用ww，不管你是萌新还是领域从业者希望你都能在这里找到适合你的工具或者获得一定的启发。</p></li><li><a href=https://github.com/Aabyss-Team/CTF-Tools>Aabyss-Team/CTF-Tools</a><p>渊龙Sec安全团队CTF&AWD工具箱</p></li><li><a href=https://github.com/NicPWNs/GitHub-Discord-Bot>NicPWNs/GitHub-Discord-Bot</a><p>Subscribe a Discord Channel to Events in your GitHub Repositories.</p></li></ul>
+<ul><li><a href=https://github.com/CatAnd-Dog/emailforward>CatAnd-Dog/emailforward</a><p>无限别名邮箱收信/发信，通过api查信，提取验证码</p></li><li><a href=https://github.com/anuraghazra/github-readme-stats>anuraghazra/github-readme-stats</a><p>:zap: Dynamically generated stats for your github readmes</p></li><li><a href=https://github.com/NicPWNs/GitHub-Discord-Bot>NicPWNs/GitHub-Discord-Bot</a><p>Subscribe a Discord Channel to Events in your GitHub Repositories.</p></li><li><a href=https://github.com/OrgEleCho/EleCho.WpfSuite>OrgEleCho/EleCho.WpfSuite</a><p>WPF layout panels, controls, value converters, markup extensions, transitions and utilities. WPF 布局面板, 控件,值转换器, 标记拓展, 过渡与实用工具.</p></li><li><a href=https://github.com/massgravel/Microsoft-Activation-Scripts>massgravel/Microsoft-Activation-Scripts</a><p>Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：2/11/25, 8:45 AM<br>下一次刷新：2/12/25, 8:45 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：2/12/25, 8:45 AM<br>下一次刷新：2/13/25, 8:45 AM</p>
