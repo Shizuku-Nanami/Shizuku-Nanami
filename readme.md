@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/wavetermdev/waveterm>wavetermdev/waveterm</a><p>An open-source, cross-platform terminal for seamless workflows</p></li><li><a href=https://github.com/mobyw/GroupChatAnnualReport>mobyw/GroupChatAnnualReport</a><p>使用 Windows QQNT 聊天记录制作群聊年度报告！</p></li><li><a href=https://github.com/deepseek-ai/DeepSeek-R1>deepseek-ai/DeepSeek-R1</a></li><li><a href=https://github.com/XiaoMi/ha_xiaomi_home>XiaoMi/ha_xiaomi_home</a><p>Xiaomi Home Integration for Home Assistant</p></li><li><a href=https://github.com/CatAnd-Dog/emailforward>CatAnd-Dog/emailforward</a><p>无限别名邮箱收信/发信，通过api查信，提取验证码</p></li></ul>
+<ul><li><a href=https://github.com/wavetermdev/waveterm>wavetermdev/waveterm</a><p>An open-source, cross-platform terminal for seamless workflows</p></li><li><a href=https://github.com/PKBeam/AMWin-RP>PKBeam/AMWin-RP</a><p>A Discord Rich Presence client for Apple Music's native Windows app.</p></li><li><a href=https://github.com/LibreHardwareMonitor/LibreHardwareMonitor>LibreHardwareMonitor/LibreHardwareMonitor</a><p>Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.</p></li><li><a href=https://github.com/Aabyss-Team/CTF-Tools>Aabyss-Team/CTF-Tools</a><p>渊龙Sec安全团队CTF&AWD工具箱</p></li><li><a href=https://github.com/tsgrgo/windows-update-disabler>tsgrgo/windows-update-disabler</a><p>Disable/Enable Windows update with a lightweight batch tool.</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：2/25/25, 8:46 AM<br>下一次刷新：2/26/25, 8:46 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：2/26/25, 8:46 AM<br>下一次刷新：2/27/25, 8:46 AM</p>
