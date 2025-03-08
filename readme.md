@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/Tropix126/fluent-svelte>Tropix126/fluent-svelte</a><p>A faithful implementation of Microsoft's Fluent Design System in Svelte.</p></li><li><a href=https://github.com/itorr/homo>itorr/homo</a><p>💩「恶臭数字论证器」数字恶臭化工具</p></li><li><a href=https://github.com/mobyw/GroupChatAnnualReport>mobyw/GroupChatAnnualReport</a><p>使用 Windows QQNT 聊天记录制作群聊年度报告！</p></li><li><a href=https://github.com/drizzle888/CTFTools>drizzle888/CTFTools</a></li><li><a href=https://github.com/OrgEleCho/EleCho.WpfSuite>OrgEleCho/EleCho.WpfSuite</a><p>WPF layout panels, controls, value converters, markup extensions, transitions and utilities. WPF 布局面板, 控件,值转换器, 标记拓展, 过渡与实用工具.</p></li></ul>
+<ul><li><a href=https://github.com/GeneralLibrary/GeneralUpdate>GeneralLibrary/GeneralUpdate</a><p>Unlimited Updates, Boundless Upgrades.</p></li><li><a href=https://github.com/XiaoMi/ha_xiaomi_home>XiaoMi/ha_xiaomi_home</a><p>Xiaomi Home Integration for Home Assistant</p></li><li><a href=https://github.com/Tropix126/fluent-svelte>Tropix126/fluent-svelte</a><p>A faithful implementation of Microsoft's Fluent Design System in Svelte.</p></li><li><a href=https://github.com/OrgEleCho/EleCho.WpfSuite>OrgEleCho/EleCho.WpfSuite</a><p>WPF layout panels, controls, value converters, markup extensions, transitions and utilities. WPF 布局面板, 控件,值转换器, 标记拓展, 过渡与实用工具.</p></li><li><a href=https://github.com/drizzle888/CTFTools>drizzle888/CTFTools</a></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/7/25, 8:05 AM<br>下一次刷新：3/8/25, 8:05 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/8/25, 8:04 AM<br>下一次刷新：3/9/25, 8:04 AM</p>
