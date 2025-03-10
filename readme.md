@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/kabiiQ/FBK>kabiiQ/FBK</a><p>Public Discord utility bot with a range of commands, but with a focus on integration of other platforms (YouTube, Twitch, Bluesky, ...) for sending notifications in Discord channels.</p></li><li><a href=https://github.com/yt-dlp/yt-dlp>yt-dlp/yt-dlp</a><p>A feature-rich command-line audio/video downloader</p></li><li><a href=https://github.com/itorr/homo>itorr/homo</a><p>💩「恶臭数字论证器」数字恶臭化工具</p></li><li><a href=https://github.com/massgravel/Microsoft-Activation-Scripts>massgravel/Microsoft-Activation-Scripts</a><p>Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</p></li><li><a href=https://github.com/CommunityToolkit/Labs-Windows>CommunityToolkit/Labs-Windows</a><p>A safe space to collaborate and engineer solutions from the prototyping stage all the way through polished finalized component for the Windows Community Toolkit.</p></li></ul>
+<ul><li><a href=https://github.com/firerpa/lamda>firerpa/lamda</a><p>🤖 史上最强云手机远程桌面逆向抓包HOOK自动化取证能力集一体的安卓 RPA 框架，下一代移动数据自动化机器人。</p></li><li><a href=https://github.com/itorr/homo>itorr/homo</a><p>💩「恶臭数字论证器」数字恶臭化工具</p></li><li><a href=https://github.com/5ec1cff/payload-dumper>5ec1cff/payload-dumper</a><p>Dump Android's payload.bin</p></li><li><a href=https://github.com/biliup/biliup>biliup/biliup</a><p>全自动录播、直播录制、分p投稿工具，支持twitch、ytb频道搬运。</p></li><li><a href=https://github.com/CommunityToolkit/Windows>CommunityToolkit/Windows</a><p>Collection of controls for WinUI 2, WinUI 3, and Uno Platform developers. Simplifies and demonstrates common developer tasks building experiences for Windows with .NET.</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/9/25, 8:05 AM<br>下一次刷新：3/10/25, 8:05 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/10/25, 8:05 AM<br>下一次刷新：3/11/25, 8:05 AM</p>
