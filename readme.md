@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/serverless-dns/serverless-dns>serverless-dns/serverless-dns</a><p>The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io</p></li><li><a href=https://github.com/massgravel/Microsoft-Activation-Scripts>massgravel/Microsoft-Activation-Scripts</a><p>Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</p></li><li><a href=https://github.com/kabiiQ/FBK>kabiiQ/FBK</a><p>Public Discord utility bot with a range of commands, but with a focus on integration of other platforms (YouTube, Twitch, Bluesky, ...) for sending notifications in Discord channels.</p></li><li><a href=https://github.com/GeneralLibrary/GeneralUpdate>GeneralLibrary/GeneralUpdate</a><p>Unlimited Updates, Boundless Upgrades.</p></li><li><a href=https://github.com/NicPWNs/GitHub-Discord-Bot>NicPWNs/GitHub-Discord-Bot</a><p>Subscribe a Discord Channel to Events in your GitHub Repositories.</p></li></ul>
+<ul><li><a href=https://github.com/wyf9/sleepy>wyf9/sleepy</a><p>Are you sleeping?</p></li><li><a href=https://github.com/veops/cmdb>veops/cmdb</a><p>CMDB: configuration and management of IT resources</p></li><li><a href=https://github.com/element-plus/element-plus>element-plus/element-plus</a><p>🎉 A Vue.js 3 UI Library made by Element team</p></li><li><a href=https://github.com/5ec1cff/payload-dumper>5ec1cff/payload-dumper</a><p>Dump Android's payload.bin</p></li><li><a href=https://github.com/massgravel/Microsoft-Activation-Scripts>massgravel/Microsoft-Activation-Scripts</a><p>Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/17/25, 8:06 AM<br>下一次刷新：3/18/25, 8:06 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/18/25, 8:05 AM<br>下一次刷新：3/19/25, 8:05 AM</p>
