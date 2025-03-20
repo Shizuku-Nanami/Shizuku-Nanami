@@ -77,13 +77,13 @@ recent_posts_inject
 
 **💖 | 最近喜欢的项目**
 
-<ul><li><a href=https://github.com/jxxghp/MoviePilot>jxxghp/MoviePilot</a><p>NAS媒体库自动化管理工具</p></li><li><a href=https://github.com/mdc-ng/mdc-ng>mdc-ng/mdc-ng</a><p>MDC next generation</p></li><li><a href=https://github.com/gchq/CyberChef>gchq/CyberChef</a><p>The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis</p></li><li><a href=https://github.com/envyafish/AutoLadyIssue>envyafish/AutoLadyIssue</a><p>收集issue</p></li><li><a href=https://github.com/holofans/holoapi>holofans/holoapi</a><p>Platform to serve Hololive content to the community tools.</p></li></ul>
+<ul><li><a href=https://github.com/Shizuku-Nanami/HoloDexWatcher>Shizuku-Nanami/HoloDexWatcher</a><p>基于HoloAPI V2的跨平台简易直播搜索器</p></li><li><a href=https://github.com/ombe1229/holodex>ombe1229/holodex</a><p>Holodex api Python wrapper</p></li><li><a href=https://github.com/EBro912/Holodex.NET>EBro912/Holodex.NET</a><p>A C# wrapper for the Holodex API</p></li><li><a href=https://github.com/Dreace/ChinaHolidayAPI>Dreace/ChinaHolidayAPI</a><p>中国大陆假期查询接口，可以指定日期或查询当天是否为工作日、周末、假期、调休和补班</p></li><li><a href=https://github.com/jxxghp/MoviePilot>jxxghp/MoviePilot</a><p>NAS媒体库自动化管理工具</p></li></ul>
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/CommunityToolkit/Labs-Windows>CommunityToolkit/Labs-Windows</a><p>A safe space to collaborate and engineer solutions from the prototyping stage all the way through polished finalized component for the Windows Community Toolkit.</p></li><li><a href=https://github.com/itorr/homo>itorr/homo</a><p>💩「恶臭数字论证器」数字恶臭化工具</p></li><li><a href=https://github.com/PKBeam/AMWin-RP>PKBeam/AMWin-RP</a><p>A Discord Rich Presence client for Apple Music's native Windows app.</p></li><li><a href=https://github.com/wyf9/sleepy>wyf9/sleepy</a><p>Are you sleeping?</p></li><li><a href=https://github.com/GeneralLibrary/GeneralUpdate>GeneralLibrary/GeneralUpdate</a><p>Unlimited Updates, Boundless Upgrades.</p></li></ul>
+<ul><li><a href=https://github.com/KarylDAZE/Maa-HBR>KarylDAZE/Maa-HBR</a><p>heaven burns red 炽焰天穹 自动化脚本</p></li><li><a href=https://github.com/envyafish/AutoLadyIssue>envyafish/AutoLadyIssue</a><p>收集issue</p></li><li><a href=https://github.com/firerpa/lamda>firerpa/lamda</a><p>🤖 史上最强云手机远程桌面逆向抓包HOOK自动化取证能力集一体的安卓 RPA 框架，下一代移动数据自动化机器人。</p></li><li><a href=https://github.com/holofans/holoapi>holofans/holoapi</a><p>Platform to serve Hololive content to the community tools.</p></li><li><a href=https://github.com/marcopiovanello/yt-dlp-web-ui>marcopiovanello/yt-dlp-web-ui</a><p>A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/19/25, 8:06 AM<br>下一次刷新：3/20/25, 8:06 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/20/25, 8:05 AM<br>下一次刷新：3/21/25, 8:05 AM</p>
