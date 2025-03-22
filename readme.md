@@ -77,13 +77,13 @@ recent_posts_inject
 
 **💖 | 最近喜欢的项目**
 
-<ul><li><a href=https://github.com/Shizuku-Nanami/HoloDexWatcher>Shizuku-Nanami/HoloDexWatcher</a><p>基于HoloAPI V2的跨平台简易直播搜索器</p></li><li><a href=https://github.com/ombe1229/holodex>ombe1229/holodex</a><p>Holodex api Python wrapper</p></li><li><a href=https://github.com/EBro912/Holodex.NET>EBro912/Holodex.NET</a><p>A C# wrapper for the Holodex API</p></li><li><a href=https://github.com/Dreace/ChinaHolidayAPI>Dreace/ChinaHolidayAPI</a><p>中国大陆假期查询接口，可以指定日期或查询当天是否为工作日、周末、假期、调休和补班</p></li><li><a href=https://github.com/jxxghp/MoviePilot>jxxghp/MoviePilot</a><p>NAS媒体库自动化管理工具</p></li></ul>
+<ul><li><a href=https://github.com/soruly/trace.moe>soruly/trace.moe</a><p>Anime Scene Search by Image</p></li><li><a href=https://github.com/Shizuku-Nanami/HoloDexWatcher>Shizuku-Nanami/HoloDexWatcher</a><p>基于HoloAPI V2的跨平台简易直播搜索器</p></li><li><a href=https://github.com/ombe1229/holodex>ombe1229/holodex</a><p>Holodex api Python wrapper</p></li><li><a href=https://github.com/EBro912/Holodex.NET>EBro912/Holodex.NET</a><p>A C# wrapper for the Holodex API</p></li><li><a href=https://github.com/Dreace/ChinaHolidayAPI>Dreace/ChinaHolidayAPI</a><p>中国大陆假期查询接口，可以指定日期或查询当天是否为工作日、周末、假期、调休和补班</p></li></ul>
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/NicPWNs/GitHub-Discord-Bot>NicPWNs/GitHub-Discord-Bot</a><p>Subscribe a Discord Channel to Events in your GitHub Repositories.</p></li><li><a href=https://github.com/1Panel-dev/MaxKB>1Panel-dev/MaxKB</a><p>💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, Qwen2, OpenAI and more.</p></li><li><a href=https://github.com/kabiiQ/FBK>kabiiQ/FBK</a><p>Public Discord utility bot with a range of commands, but with a focus on integration of other platforms (YouTube, Twitch, Bluesky, ...) for sending notifications in Discord channels.</p></li><li><a href=https://github.com/itorr/homo>itorr/homo</a><p>💩「恶臭数字论证器」数字恶臭化工具</p></li><li><a href=https://github.com/biliup/biliup>biliup/biliup</a><p>全自动录播、直播录制、分p投稿工具，支持twitch、ytb频道搬运。</p></li></ul>
+<ul><li><a href=https://github.com/kabiiQ/FBK>kabiiQ/FBK</a><p>Public Discord utility bot with a range of commands, but with a focus on integration of other platforms (YouTube, Twitch, Bluesky, ...) for sending notifications in Discord channels.</p></li><li><a href=https://github.com/deepseek-ai/DeepSeek-V3>deepseek-ai/DeepSeek-V3</a></li><li><a href=https://github.com/wyf9/sleepy>wyf9/sleepy</a><p>Are you sleeping?</p></li><li><a href=https://github.com/Tropix126/fluent-svelte>Tropix126/fluent-svelte</a><p>A faithful implementation of Microsoft's Fluent Design System in Svelte.</p></li><li><a href=https://github.com/element-plus/element-plus>element-plus/element-plus</a><p>🎉 A Vue.js 3 UI Library made by Element team</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/21/25, 8:05 AM<br>下一次刷新：3/22/25, 8:05 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/22/25, 8:05 AM<br>下一次刷新：3/23/25, 8:05 AM</p>
