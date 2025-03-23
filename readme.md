@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/kabiiQ/FBK>kabiiQ/FBK</a><p>Public Discord utility bot with a range of commands, but with a focus on integration of other platforms (YouTube, Twitch, Bluesky, ...) for sending notifications in Discord channels.</p></li><li><a href=https://github.com/deepseek-ai/DeepSeek-V3>deepseek-ai/DeepSeek-V3</a></li><li><a href=https://github.com/wyf9/sleepy>wyf9/sleepy</a><p>Are you sleeping?</p></li><li><a href=https://github.com/Tropix126/fluent-svelte>Tropix126/fluent-svelte</a><p>A faithful implementation of Microsoft's Fluent Design System in Svelte.</p></li><li><a href=https://github.com/element-plus/element-plus>element-plus/element-plus</a><p>🎉 A Vue.js 3 UI Library made by Element team</p></li></ul>
+<ul><li><a href=https://github.com/deepseek-ai/DeepSeek-V3>deepseek-ai/DeepSeek-V3</a></li><li><a href=https://github.com/1Panel-dev/MaxKB>1Panel-dev/MaxKB</a><p>💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, Qwen2, OpenAI and more.</p></li><li><a href=https://github.com/Tropix126/fluent-svelte>Tropix126/fluent-svelte</a><p>A faithful implementation of Microsoft's Fluent Design System in Svelte.</p></li><li><a href=https://github.com/GeneralLibrary/GeneralUpdate>GeneralLibrary/GeneralUpdate</a><p>Unlimited Updates, Boundless Upgrades.</p></li><li><a href=https://github.com/firerpa/lamda>firerpa/lamda</a><p>🤖 史上最强云手机远程桌面逆向抓包HOOK自动化取证能力集一体的安卓 RPA 框架，下一代移动数据自动化机器人。</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/22/25, 8:05 AM<br>下一次刷新：3/23/25, 8:05 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/23/25, 8:06 AM<br>下一次刷新：3/24/25, 8:06 AM</p>
