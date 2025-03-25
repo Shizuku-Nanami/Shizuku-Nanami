@@ -12,6 +12,7 @@ export const opensource = {
       limit: 3,
       random: true,
       repos: [
+          'Shizuku-Nanami/YT2RTMP',
           'Shizuku-Nanami/Minigeki',
         //'',
       ],
