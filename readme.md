@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/marcopiovanello/yt-dlp-web-ui>marcopiovanello/yt-dlp-web-ui</a><p>A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.</p></li><li><a href=https://github.com/GeneralLibrary/GeneralUpdate>GeneralLibrary/GeneralUpdate</a><p>Unlimited Updates, Boundless Upgrades.</p></li><li><a href=https://github.com/deepseek-ai/DeepSeek-R1>deepseek-ai/DeepSeek-R1</a></li><li><a href=https://github.com/itorr/homo>itorr/homo</a><p>💩「恶臭数字论证器」数字恶臭化工具</p></li><li><a href=https://github.com/jxxghp/MoviePilot>jxxghp/MoviePilot</a><p>NAS媒体库自动化管理工具</p></li></ul>
+<ul><li><a href=https://github.com/element-plus/element-plus>element-plus/element-plus</a><p>🎉 A Vue.js 3 UI Library made by Element team</p></li><li><a href=https://github.com/veops/cmdb>veops/cmdb</a><p>CMDB: configuration and management of IT resources</p></li><li><a href=https://github.com/gchq/CyberChef>gchq/CyberChef</a><p>The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis</p></li><li><a href=https://github.com/jxxghp/MoviePilot>jxxghp/MoviePilot</a><p>NAS媒体库自动化管理工具</p></li><li><a href=https://github.com/KarylDAZE/Maa-HBR>KarylDAZE/Maa-HBR</a><p>heaven burns red 炽焰天穹 自动化脚本</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/27/25, 8:05 AM<br>下一次刷新：3/28/25, 8:05 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/28/25, 8:05 AM<br>下一次刷新：3/29/25, 8:05 AM</p>
