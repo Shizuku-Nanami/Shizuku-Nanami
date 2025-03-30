@@ -68,7 +68,7 @@
 
 **🎩 | 小玩意儿**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Shizuku-Nanami/Minigeki target=_blank><b>Shizuku-Nanami/Minigeki</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Shizuku-Nanami/Minigeki?style=flat-square&labelColor=343b41"></td><td>10/24/2023</td><td>4/28/2022</td></tr><tr><td><a href=https://github.com/Shizuku-Nanami/YT2RTMP target=_blank><b>Shizuku-Nanami/YT2RTMP</b></a> <a href=https://hksstudio.work/archives/YT2RTMP target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Shizuku-Nanami/YT2RTMP?style=flat-square&labelColor=343b41"></td><td>3/25/2025</td><td>3/25/2025</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Shizuku-Nanami/YT2RTMP target=_blank><b>Shizuku-Nanami/YT2RTMP</b></a> <a href=https://hksstudio.work/archives/YT2RTMP target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Shizuku-Nanami/YT2RTMP?style=flat-square&labelColor=343b41"></td><td>3/25/2025</td><td>3/25/2025</td></tr><tr><td><a href=https://github.com/Shizuku-Nanami/Minigeki target=_blank><b>Shizuku-Nanami/Minigeki</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Shizuku-Nanami/Minigeki?style=flat-square&labelColor=343b41"></td><td>10/24/2023</td><td>4/28/2022</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/itorr/homo>itorr/homo</a><p>💩「恶臭数字论证器」数字恶臭化工具</p></li><li><a href=https://github.com/kabiiQ/FBK>kabiiQ/FBK</a><p>Public Discord utility bot with a range of commands, but with a focus on integration of other platforms (YouTube, Twitch, Bluesky, ...) for sending notifications in Discord channels.</p></li><li><a href=https://github.com/serverless-dns/serverless-dns>serverless-dns/serverless-dns</a><p>The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io</p></li><li><a href=https://github.com/firerpa/lamda>firerpa/lamda</a><p>🤖 史上最强云手机远程桌面逆向抓包HOOK自动化取证能力集一体的安卓 RPA 框架，下一代移动数据自动化机器人。</p></li><li><a href=https://github.com/GeneralLibrary/GeneralUpdate>GeneralLibrary/GeneralUpdate</a><p>Unlimited Updates, Boundless Upgrades.</p></li></ul>
+<ul><li><a href=https://github.com/wyf9/sleepy>wyf9/sleepy</a><p>Are you sleeping?</p></li><li><a href=https://github.com/firerpa/lamda>firerpa/lamda</a><p>🤖 史上最强云手机远程桌面逆向抓包HOOK自动化取证能力集一体的安卓 RPA 框架，下一代移动数据自动化机器人。</p></li><li><a href=https://github.com/mdc-ng/mdc-ng>mdc-ng/mdc-ng</a><p>MDC next generation</p></li><li><a href=https://github.com/marcopiovanello/yt-dlp-web-ui>marcopiovanello/yt-dlp-web-ui</a><p>A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.</p></li><li><a href=https://github.com/mrtian2016/hass-panel>mrtian2016/hass-panel</a><p>史上最简单的 Home Assistant 控制面板，基于 React 开发 | 一键部署到 HAOS | 有手就能用 | 无需编程经验 | 开箱即用</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/29/25, 8:05 AM<br>下一次刷新：3/30/25, 8:05 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/30/25, 8:06 AM<br>下一次刷新：3/31/25, 8:06 AM</p>
