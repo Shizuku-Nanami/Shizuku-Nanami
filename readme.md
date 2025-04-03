@@ -68,7 +68,7 @@
 
 **🎩 | 小玩意儿**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Shizuku-Nanami/YT2RTMP target=_blank><b>Shizuku-Nanami/YT2RTMP</b></a> <a href=https://hksstudio.work/archives/YT2RTMP target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Shizuku-Nanami/YT2RTMP?style=flat-square&labelColor=343b41"></td><td>3/25/2025</td><td>3/25/2025</td></tr><tr><td><a href=https://github.com/Shizuku-Nanami/Minigeki target=_blank><b>Shizuku-Nanami/Minigeki</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Shizuku-Nanami/Minigeki?style=flat-square&labelColor=343b41"></td><td>10/24/2023</td><td>4/28/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Shizuku-Nanami/Minigeki target=_blank><b>Shizuku-Nanami/Minigeki</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Shizuku-Nanami/Minigeki?style=flat-square&labelColor=343b41"></td><td>10/24/2023</td><td>4/28/2022</td></tr><tr><td><a href=https://github.com/Shizuku-Nanami/YT2RTMP target=_blank><b>Shizuku-Nanami/YT2RTMP</b></a> <a href=https://hksstudio.work/archives/YT2RTMP target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Shizuku-Nanami/YT2RTMP?style=flat-square&labelColor=343b41"></td><td>3/25/2025</td><td>3/25/2025</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -77,13 +77,13 @@ recent_posts_inject
 
 **💖 | 最近喜欢的项目**
 
-<ul><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a><p>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</p></li><li><a href=https://github.com/Yuri-YuzuChaN/maimaiDX>Yuri-YuzuChaN/maimaiDX</a><p>基于HoshinoBot V2的舞萌DX查询插件，移植自mai-bot开源项目</p></li><li><a href=https://github.com/MokaDevelopers/mokabot2>MokaDevelopers/mokabot2</a><p>多用途QQ群机器人，基于Python和nonebot2</p></li><li><a href=https://github.com/soruly/trace.moe>soruly/trace.moe</a><p>Anime Scene Search by Image</p></li><li><a href=https://github.com/Shizuku-Nanami/HoloDexWatcher>Shizuku-Nanami/HoloDexWatcher</a><p>基于HoloAPI V2的跨平台简易直播搜索器</p></li></ul>
+<ul><li><a href=https://github.com/Nemo2011/bilibili-api>Nemo2011/bilibili-api</a><p>哔哩哔哩常用API调用。支持视频、番剧、用户、频道、音频等功能。原仓库地址：https://github.com/MoyuScript/bilibili-api</p></li><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a><p>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</p></li><li><a href=https://github.com/Yuri-YuzuChaN/maimaiDX>Yuri-YuzuChaN/maimaiDX</a><p>基于HoshinoBot V2的舞萌DX查询插件，移植自mai-bot开源项目</p></li><li><a href=https://github.com/MokaDevelopers/mokabot2>MokaDevelopers/mokabot2</a><p>多用途QQ群机器人，基于Python和nonebot2</p></li><li><a href=https://github.com/soruly/trace.moe>soruly/trace.moe</a><p>Anime Scene Search by Image</p></li></ul>
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/biliup/biliup>biliup/biliup</a><p>全自动录播、直播录制、分p投稿工具，支持twitch、ytb频道搬运。</p></li><li><a href=https://github.com/serverless-dns/serverless-dns>serverless-dns/serverless-dns</a><p>The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io</p></li><li><a href=https://github.com/jxxghp/MoviePilot>jxxghp/MoviePilot</a><p>NAS媒体库自动化管理工具</p></li><li><a href=https://github.com/firerpa/lamda>firerpa/lamda</a><p>🤖 The most powerful Android RPA framework, the next generation of mobile automation robots.</p></li><li><a href=https://github.com/marcopiovanello/yt-dlp-web-ui>marcopiovanello/yt-dlp-web-ui</a><p>A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.</p></li></ul>
+<ul><li><a href=https://github.com/Shizuku-Nanami/HoloDexWatcher>Shizuku-Nanami/HoloDexWatcher</a><p>基于HoloAPI V2的跨平台简易直播搜索器</p></li><li><a href=https://github.com/deepseek-ai/DeepSeek-R1>deepseek-ai/DeepSeek-R1</a></li><li><a href=https://github.com/deepseek-ai/DeepSeek-V3>deepseek-ai/DeepSeek-V3</a></li><li><a href=https://github.com/biliup/biliup>biliup/biliup</a><p>全自动录播、直播录制、分p投稿工具，支持twitch、ytb频道搬运。</p></li><li><a href=https://github.com/KarylDAZE/Maa-HBR>KarylDAZE/Maa-HBR</a><p>heaven burns red 炽焰天穹 自动化脚本</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：4/2/25, 8:05 AM<br>下一次刷新：4/3/25, 8:05 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：4/3/25, 8:05 AM<br>下一次刷新：4/4/25, 8:05 AM</p>
