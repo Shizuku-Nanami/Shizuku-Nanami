@@ -68,7 +68,7 @@
 
 **🎩 | 小玩意儿**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Shizuku-Nanami/YT2RTMP target=_blank><b>Shizuku-Nanami/YT2RTMP</b></a> <a href=https://hksstudio.work/archives/YT2RTMP target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Shizuku-Nanami/YT2RTMP?style=flat-square&labelColor=343b41"></td><td>3/25/2025</td><td>3/25/2025</td></tr><tr><td><a href=https://github.com/Shizuku-Nanami/Minigeki target=_blank><b>Shizuku-Nanami/Minigeki</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Shizuku-Nanami/Minigeki?style=flat-square&labelColor=343b41"></td><td>10/24/2023</td><td>4/28/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Shizuku-Nanami/Minigeki target=_blank><b>Shizuku-Nanami/Minigeki</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Shizuku-Nanami/Minigeki?style=flat-square&labelColor=343b41"></td><td>10/24/2023</td><td>4/28/2022</td></tr><tr><td><a href=https://github.com/Shizuku-Nanami/YT2RTMP target=_blank><b>Shizuku-Nanami/YT2RTMP</b></a> <a href=https://hksstudio.work/archives/YT2RTMP target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Shizuku-Nanami/YT2RTMP?style=flat-square&labelColor=343b41"></td><td>3/25/2025</td><td>3/25/2025</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/veops/cmdb>veops/cmdb</a><p>CMDB: configuration and management of IT resources</p></li><li><a href=https://github.com/Tropix126/fluent-svelte>Tropix126/fluent-svelte</a><p>A faithful implementation of Microsoft's Fluent Design System in Svelte.</p></li><li><a href=https://github.com/biliup/biliup>biliup/biliup</a><p>全自动录播、直播录制、分p投稿工具，支持twitch、ytb频道搬运。</p></li><li><a href=https://github.com/mdc-ng/mdc-ng>mdc-ng/mdc-ng</a><p>MDC next generation</p></li><li><a href=https://github.com/5ec1cff/payload-dumper>5ec1cff/payload-dumper</a><p>Dump Android's payload.bin</p></li></ul>
+<ul><li><a href=https://github.com/serverless-dns/serverless-dns>serverless-dns/serverless-dns</a><p>The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io</p></li><li><a href=https://github.com/gchq/CyberChef>gchq/CyberChef</a><p>The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis</p></li><li><a href=https://github.com/mdc-ng/mdc-ng>mdc-ng/mdc-ng</a><p>MDC next generation</p></li><li><a href=https://github.com/wyf9/sleepy>wyf9/sleepy</a><p>Are you sleeping?</p></li><li><a href=https://github.com/ombe1229/holodex>ombe1229/holodex</a><p>Holodex api Python wrapper</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：4/4/25, 8:06 AM<br>下一次刷新：4/5/25, 8:06 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：4/5/25, 8:05 AM<br>下一次刷新：4/6/25, 8:05 AM</p>
