@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/holofans/holoapi>holofans/holoapi</a><p>Platform to serve Hololive content to the community tools.</p></li><li><a href=https://github.com/MokaDevelopers/mokabot2>MokaDevelopers/mokabot2</a><p>多用途QQ群机器人，基于Python和nonebot2</p></li><li><a href=https://github.com/envyafish/AutoLadyIssue>envyafish/AutoLadyIssue</a><p>收集issue</p></li><li><a href=https://github.com/wyf9/sleepy>wyf9/sleepy</a><p>Are you sleeping?</p></li><li><a href=https://github.com/5ec1cff/payload-dumper>5ec1cff/payload-dumper</a><p>Dump Android's payload.bin</p></li></ul>
+<ul><li><a href=https://github.com/veops/cmdb>veops/cmdb</a><p>CMDB: configuration and management of IT resources</p></li><li><a href=https://github.com/soruly/trace.moe>soruly/trace.moe</a><p>Anime Scene Search by Image</p></li><li><a href=https://github.com/biliup/biliup>biliup/biliup</a><p>全自动录播、直播录制、分p投稿工具，支持twitch、ytb频道搬运。</p></li><li><a href=https://github.com/1Panel-dev/MaxKB>1Panel-dev/MaxKB</a><p>💬 MaxKB is a ready-to-use AI chatbot that integrates Retrieval-Augmented Generation (RAG) pipelines, supports robust workflows, and provides advanced MCP tool-use capabilities.</p></li><li><a href=https://github.com/Dreace/ChinaHolidayAPI>Dreace/ChinaHolidayAPI</a><p>中国大陆假期查询接口，可以指定日期或查询当天是否为工作日、周末、假期、调休和补班</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：4/11/25, 8:06 AM<br>下一次刷新：4/12/25, 8:06 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：4/12/25, 8:05 AM<br>下一次刷新：4/13/25, 8:05 AM</p>
