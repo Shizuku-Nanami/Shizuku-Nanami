@@ -68,7 +68,7 @@
 
 **🎩 | 小玩意儿**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Shizuku-Nanami/YT2RTMP target=_blank><b>Shizuku-Nanami/YT2RTMP</b></a> <a href=https://hksstudio.work/archives/YT2RTMP target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Shizuku-Nanami/YT2RTMP?style=flat-square&labelColor=343b41"></td><td>3/25/2025</td><td>3/25/2025</td></tr><tr><td><a href=https://github.com/Shizuku-Nanami/Minigeki target=_blank><b>Shizuku-Nanami/Minigeki</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Shizuku-Nanami/Minigeki?style=flat-square&labelColor=343b41"></td><td>10/24/2023</td><td>4/28/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Shizuku-Nanami/Minigeki target=_blank><b>Shizuku-Nanami/Minigeki</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Shizuku-Nanami/Minigeki?style=flat-square&labelColor=343b41"></td><td>10/24/2023</td><td>4/28/2022</td></tr><tr><td><a href=https://github.com/Shizuku-Nanami/YT2RTMP target=_blank><b>Shizuku-Nanami/YT2RTMP</b></a> <a href=https://hksstudio.work/archives/YT2RTMP target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Shizuku-Nanami/YT2RTMP?style=flat-square&labelColor=343b41"></td><td>3/25/2025</td><td>3/25/2025</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -77,13 +77,13 @@ recent_posts_inject
 
 **💖 | 最近喜欢的项目**
 
-<ul><li><a href=https://github.com/lucide-icons/lucide>lucide-icons/lucide</a><p>Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.</p></li><li><a href=https://github.com/s1null/GhostEye>s1null/GhostEye</a><p>为渗透测试而生的ssh面板</p></li><li><a href=https://github.com/Mahdi-zarei/nekoray>Mahdi-zarei/nekoray</a><p>Qt based cross-platform GUI proxy configuration manager (backend: sing-box)</p></li><li><a href=https://github.com/keiyoushi/extensions>keiyoushi/extensions</a><p>Source extensions for the Mihon/Tachiyomi app.</p></li><li><a href=https://github.com/johnpeterman72/CursorRIPER>johnpeterman72/CursorRIPER</a><p>CursorRIPER</p></li></ul>
+<ul><li><a href=https://github.com/lolishinshi/imsearch>lolishinshi/imsearch</a><p>基于特征点匹配的相似图片搜索</p></li><li><a href=https://github.com/lucide-icons/lucide>lucide-icons/lucide</a><p>Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.</p></li><li><a href=https://github.com/s1null/GhostEye>s1null/GhostEye</a><p>为渗透测试而生的ssh面板</p></li><li><a href=https://github.com/Mahdi-zarei/nekoray>Mahdi-zarei/nekoray</a><p>Qt based cross-platform GUI proxy configuration manager (backend: sing-box)</p></li><li><a href=https://github.com/keiyoushi/extensions>keiyoushi/extensions</a><p>Source extensions for the Mihon/Tachiyomi app.</p></li></ul>
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/veops/cmdb>veops/cmdb</a><p>CMDB: configuration and management of IT resources</p></li><li><a href=https://github.com/soruly/trace.moe>soruly/trace.moe</a><p>Anime Scene Search by Image</p></li><li><a href=https://github.com/biliup/biliup>biliup/biliup</a><p>全自动录播、直播录制、分p投稿工具，支持twitch、ytb频道搬运。</p></li><li><a href=https://github.com/1Panel-dev/MaxKB>1Panel-dev/MaxKB</a><p>💬 MaxKB is a ready-to-use AI chatbot that integrates Retrieval-Augmented Generation (RAG) pipelines, supports robust workflows, and provides advanced MCP tool-use capabilities.</p></li><li><a href=https://github.com/Dreace/ChinaHolidayAPI>Dreace/ChinaHolidayAPI</a><p>中国大陆假期查询接口，可以指定日期或查询当天是否为工作日、周末、假期、调休和补班</p></li></ul>
+<ul><li><a href=https://github.com/wyf9/sleepy>wyf9/sleepy</a><p>Are you sleeping?</p></li><li><a href=https://github.com/mdc-ng/mdc-ng>mdc-ng/mdc-ng</a><p>MDC next generation</p></li><li><a href=https://github.com/johnpeterman72/CursorRIPER>johnpeterman72/CursorRIPER</a><p>CursorRIPER</p></li><li><a href=https://github.com/MokaDevelopers/mokabot2>MokaDevelopers/mokabot2</a><p>多用途QQ群机器人，基于Python和nonebot2</p></li><li><a href=https://github.com/jxxghp/MoviePilot>jxxghp/MoviePilot</a><p>NAS媒体库自动化管理工具</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：4/12/25, 8:05 AM<br>下一次刷新：4/13/25, 8:05 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：4/13/25, 8:30 AM<br>下一次刷新：4/14/25, 8:30 AM</p>
