@@ -81,9 +81,9 @@ recent_posts_inject
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/mdc-ng/mdc-ng>mdc-ng/mdc-ng</a><p>MDC next generation</p></li><li><a href=https://github.com/KarylDAZE/Maa-HBR>KarylDAZE/Maa-HBR</a><p>heaven burns red 炽焰天穹 自动化脚本</p></li><li><a href=https://github.com/envyafish/AutoLadyIssue>envyafish/AutoLadyIssue</a><p>收集issue</p></li><li><a href=https://github.com/1Panel-dev/MaxKB>1Panel-dev/MaxKB</a><p>💬 MaxKB is a powerful and easy-to-use AI assistant that integrates RAG pipelines, supports robust workflows, and provides advanced MCP tool-use capabilities.</p></li><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a><p>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</p></li></ul>
+<ul><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a><p>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</p></li><li><a href=https://github.com/jxxghp/MoviePilot>jxxghp/MoviePilot</a><p>NAS媒体库自动化管理工具</p></li><li><a href=https://github.com/keiyoushi/extensions>keiyoushi/extensions</a><p>Source extensions for the Mihon/Tachiyomi app.</p></li><li><a href=https://github.com/mdc-ng/mdc-ng>mdc-ng/mdc-ng</a><p>MDC next generation</p></li><li><a href=https://github.com/Shizuku-Nanami/HoloDexWatcher>Shizuku-Nanami/HoloDexWatcher</a><p>基于HoloAPI V2的跨平台简易直播搜索器</p></li></ul>
 
 ------------
 
 <p align=center><strong> ちきゅう大爆発 どっか～ん </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：4/16/25, 8:06 AM<br>下一次刷新：4/17/25, 8:06 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：4/17/25, 8:06 AM<br>下一次刷新：4/18/25, 8:06 AM</p>
