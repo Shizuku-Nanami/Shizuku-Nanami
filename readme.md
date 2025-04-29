@@ -1,4 +1,4 @@
-
+![117782788_p0](https://github.com/user-attachments/assets/04126c45-0392-4f81-9423-9bfdf8a3d1b3)
 
 - 这里是 Shizuku Nanami 喵！
 
@@ -65,9 +65,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/Dreace/ChinaHolidayAPI>Dreace/ChinaHolidayAPI</a><p>中国大陆假期查询接口，可以指定日期或查询当天是否为工作日、周末、假期、调休和补班</p></li><li><a href=https://github.com/Shizuku-Nanami/HoloDexWatcher>Shizuku-Nanami/HoloDexWatcher</a><p>基于HoloAPI V2的跨平台简易直播搜索器</p></li><li><a href=https://github.com/serverless-dns/serverless-dns>serverless-dns/serverless-dns</a><p>The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io</p></li><li><a href=https://github.com/soruly/trace.moe>soruly/trace.moe</a><p>Anime Scene Search by Image</p></li><li><a href=https://github.com/holofans/holoapi>holofans/holoapi</a><p>Platform to serve Hololive content to the community tools.</p></li></ul>
+<ul><li><a href=https://github.com/serverless-dns/serverless-dns>serverless-dns/serverless-dns</a><p>The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io</p></li><li><a href=https://github.com/Yuri-YuzuChaN/maimaiDX>Yuri-YuzuChaN/maimaiDX</a><p>基于HoshinoBot V2的舞萌DX查询插件，移植自mai-bot开源项目</p></li><li><a href=https://github.com/Shizuku-Nanami/HoloDexWatcher>Shizuku-Nanami/HoloDexWatcher</a><p>基于HoloAPI V2的跨平台简易直播搜索器</p></li><li><a href=https://github.com/marcopiovanello/yt-dlp-web-ui>marcopiovanello/yt-dlp-web-ui</a><p>A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.</p></li><li><a href=https://github.com/johnpeterman72/CursorRIPER>johnpeterman72/CursorRIPER</a><p>CursorRIPER</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：4/29/25, 11:10 AM<br>下一次刷新：4/30/25, 11:10 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：4/29/25, 11:12 AM<br>下一次刷新：4/30/25, 11:12 AM</p>
