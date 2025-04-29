@@ -1,4 +1,4 @@
-![117782788_p0](https://github.com/user-attachments/assets/04126c45-0392-4f81-9423-9bfdf8a3d1b3)
+![117782788_p0](https://github.com/user-attachments/assets/38f4b2c6-de17-4db9-ba54-e35e7fecccc4)
 
 - 这里是 Shizuku Nanami 喵！
 
