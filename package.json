@@ -1,7 +1,7 @@
 {
-    "name": "chitsanfei",
+    "name": "Shizuku-Nanami",
     "private": true,
-    "description": "chitsanfei's profile",
+    "description": "Shizuku-Nanami's profile",
     "packageManager": "pnpm@9.7.1",
     "type": "module",
     "scripts": {
@@ -10,15 +10,15 @@
       },
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/chitsanfei/chitsanfei.git"
+        "url": "git+https://github.com/Shizuku-Nanami/Shizuku-Nanami.git"
       },
       "keywords": [],
-      "author": "chitsanfei",
+      "author": "Shizuku-Nanami",
       "license": "ISC",
       "bugs": {
-        "url": "https://github.com/chitsanfei/chitsanfei/issues"
+        "url": "https://github.com/Shizuku-Nanami/Shizuku-Nanami/issues"
       },
-      "homepage": "https://github.com/chitsanfei/chitsanfei#readme",
+      "homepage": "https://github.com/Shizuku-Nanami/Shizuku-Nanami#readme",
       "dependencies": {
         "@mx-space/api-client": "1.13.2",
         "@types/html-minifier": "4.0.5",
