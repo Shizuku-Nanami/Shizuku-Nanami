@@ -65,9 +65,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/ViRb3/wgcf>ViRb3/wgcf</a><p>🚤 Cross-platform, unofficial CLI for Cloudflare Warp</p></li><li><a href=https://github.com/keiyoushi/extensions>keiyoushi/extensions</a><p>Extension repository for Mihon and variants</p></li><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a><p>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</p></li><li><a href=https://github.com/envyafish/AutoLadyIssue>envyafish/AutoLadyIssue</a><p>收集issue</p></li><li><a href=https://github.com/EBro912/Holodex.NET>EBro912/Holodex.NET</a><p>A C# wrapper for the Holodex API</p></li></ul>
+<ul><li><a href=https://github.com/veops/cmdb>veops/cmdb</a><p>CMDB: configuration and management of IT resources</p></li><li><a href=https://github.com/ViRb3/wgcf>ViRb3/wgcf</a><p>🚤 Cross-platform, unofficial CLI for Cloudflare Warp</p></li><li><a href=https://github.com/Nemo2011/bilibili-api>Nemo2011/bilibili-api</a><p>哔哩哔哩常用API调用。支持视频、番剧、用户、频道、音频等功能。原仓库地址：https://github.com/MoyuScript/bilibili-api</p></li><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a><p>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</p></li><li><a href=https://github.com/mdc-ng/mdc-ng>mdc-ng/mdc-ng</a><p>MDC next generation</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/2/25, 8:16 AM<br>下一次刷新：5/3/25, 8:16 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/3/25, 8:15 AM<br>下一次刷新：5/4/25, 8:15 AM</p>
