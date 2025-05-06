@@ -65,9 +65,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/ombe1229/holodex>ombe1229/holodex</a><p>Holodex api Python wrapper</p></li><li><a href=https://github.com/jxxghp/MoviePilot>jxxghp/MoviePilot</a><p>NAS媒体库自动化管理工具</p></li><li><a href=https://github.com/gchq/CyberChef>gchq/CyberChef</a><p>The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis</p></li><li><a href=https://github.com/johnpeterman72/CursorRIPER>johnpeterman72/CursorRIPER</a><p>CursorRIPER</p></li><li><a href=https://github.com/Shizuku-Nanami/HoloDexWatcher>Shizuku-Nanami/HoloDexWatcher</a><p>基于HoloAPI V2的跨平台简易直播搜索器</p></li></ul>
+<ul><li><a href=https://github.com/veops/cmdb>veops/cmdb</a><p>CMDB: configuration and management of IT resources</p></li><li><a href=https://github.com/Nemo2011/bilibili-api>Nemo2011/bilibili-api</a><p>哔哩哔哩常用API调用。支持视频、番剧、用户、频道、音频等功能。原仓库地址：https://github.com/MoyuScript/bilibili-api</p></li><li><a href=https://github.com/keiyoushi/extensions>keiyoushi/extensions</a><p>Extension repository for Mihon and variants</p></li><li><a href=https://github.com/johnpeterman72/CursorRIPER>johnpeterman72/CursorRIPER</a><p>CursorRIPER</p></li><li><a href=https://github.com/lolishinshi/imsearch>lolishinshi/imsearch</a><p>基于特征点匹配的大规模相似图片搜索</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/5/25, 8:17 AM<br>下一次刷新：5/6/25, 8:17 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/6/25, 8:16 AM<br>下一次刷新：5/7/25, 8:16 AM</p>
