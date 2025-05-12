@@ -65,9 +65,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/gchq/CyberChef>gchq/CyberChef</a><p>The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis</p></li><li><a href=https://github.com/EBro912/Holodex.NET>EBro912/Holodex.NET</a><p>A C# wrapper for the Holodex API</p></li><li><a href=https://github.com/soruly/trace.moe>soruly/trace.moe</a><p>Anime Scene Search by Image</p></li><li><a href=https://github.com/ViRb3/wgcf>ViRb3/wgcf</a><p>🚤 Cross-platform, unofficial CLI for Cloudflare Warp</p></li><li><a href=https://github.com/Shizuku-Nanami/HoloDexWatcher>Shizuku-Nanami/HoloDexWatcher</a><p>基于HoloAPI V2的跨平台简易直播搜索器</p></li></ul>
+<ul><li><a href=https://github.com/s1null/GhostEye>s1null/GhostEye</a><p>为渗透测试而生的ssh面板</p></li><li><a href=https://github.com/soruly/trace.moe>soruly/trace.moe</a><p>Anime Scene Search by Image</p></li><li><a href=https://github.com/Diniboy1123/usque>Diniboy1123/usque</a><p>Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol.</p></li><li><a href=https://github.com/johnpeterman72/CursorRIPER>johnpeterman72/CursorRIPER</a><p>CursorRIPER</p></li><li><a href=https://github.com/MoonshotAI/Kimi-Audio>MoonshotAI/Kimi-Audio</a><p>Kimi-Audio, an open-source audio foundation model excelling in audio understanding, generation, and conversation</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/11/25, 8:17 AM<br>下一次刷新：5/12/25, 8:17 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/12/25, 8:17 AM<br>下一次刷新：5/13/25, 8:17 AM</p>
