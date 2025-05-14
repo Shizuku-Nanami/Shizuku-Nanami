@@ -65,9 +65,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/jxxghp/MoviePilot>jxxghp/MoviePilot</a><p>NAS媒体库自动化管理工具</p></li><li><a href=https://github.com/ombe1229/holodex>ombe1229/holodex</a><p>Holodex api Python wrapper</p></li><li><a href=https://github.com/lucide-icons/lucide>lucide-icons/lucide</a><p>Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.</p></li><li><a href=https://github.com/Shizuku-Nanami/HoloDexWatcher>Shizuku-Nanami/HoloDexWatcher</a><p>基于HoloAPI V2的跨平台简易直播搜索器</p></li><li><a href=https://github.com/mdc-ng/mdc-ng>mdc-ng/mdc-ng</a><p>MDC next generation</p></li></ul>
+<ul><li><a href=https://github.com/Dreace/ChinaHolidayAPI>Dreace/ChinaHolidayAPI</a><p>中国大陆假期查询接口，可以指定日期或查询当天是否为工作日、周末、假期、调休和补班</p></li><li><a href=https://github.com/s1null/GhostEye>s1null/GhostEye</a><p>为渗透测试而生的ssh面板</p></li><li><a href=https://github.com/Mahdi-zarei/nekoray>Mahdi-zarei/nekoray</a><p>Qt based cross-platform GUI proxy configuration manager (backend: sing-box)</p></li><li><a href=https://github.com/MokaDevelopers/mokabot2>MokaDevelopers/mokabot2</a><p>多用途QQ群机器人，基于Python和nonebot2</p></li><li><a href=https://github.com/Shizuku-Nanami/HoloDexWatcher>Shizuku-Nanami/HoloDexWatcher</a><p>基于HoloAPI V2的跨平台简易直播搜索器</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/13/25, 8:16 AM<br>下一次刷新：5/14/25, 8:16 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/14/25, 8:16 AM<br>下一次刷新：5/15/25, 8:16 AM</p>
