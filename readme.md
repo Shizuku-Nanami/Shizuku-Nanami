@@ -65,9 +65,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/mdc-ng/mdc-ng>mdc-ng/mdc-ng</a><p>MDC next generation</p></li><li><a href=https://github.com/ProbiusOfficial/ssrf-labs>ProbiusOfficial/ssrf-labs</a><p>一个ssrf的综合靶场，包含RCE，SQL注入，Tomcat，Redis，MySQL提权等ssrf攻击场景</p></li><li><a href=https://github.com/Dreace/ChinaHolidayAPI>Dreace/ChinaHolidayAPI</a><p>中国大陆假期查询接口，可以指定日期或查询当天是否为工作日、周末、假期、调休和补班</p></li><li><a href=https://github.com/Mahdi-zarei/nekoray>Mahdi-zarei/nekoray</a><p>Qt based cross-platform GUI proxy configuration manager (backend: sing-box)</p></li><li><a href=https://github.com/encode/uvicorn>encode/uvicorn</a><p>An ASGI web server, for Python. 🦄</p></li></ul>
+<ul><li><a href=https://github.com/s1null/GhostEye>s1null/GhostEye</a><p>为渗透测试而生的ssh面板</p></li><li><a href=https://github.com/Mahdi-zarei/nekoray>Mahdi-zarei/nekoray</a><p>Qt based cross-platform GUI proxy configuration manager (backend: sing-box)</p></li><li><a href=https://github.com/vbenjs/vue-vben-admin>vbenjs/vue-vben-admin</a><p>A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!</p></li><li><a href=https://github.com/BingyanStudio/github-analyzer>BingyanStudio/github-analyzer</a><p>锐评一下你都在 GitHub 写了什么</p></li><li><a href=https://github.com/johnpeterman72/CursorRIPER>johnpeterman72/CursorRIPER</a><p>CursorRIPER</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/17/25, 8:16 AM<br>下一次刷新：5/18/25, 8:16 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/18/25, 8:17 AM<br>下一次刷新：5/19/25, 8:17 AM</p>
