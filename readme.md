@@ -65,9 +65,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/Xavalon/XamlStyler>Xavalon/XamlStyler</a><p>Visual Studio extension to help format your XAML source code</p></li><li><a href=https://github.com/ombe1229/holodex>ombe1229/holodex</a><p>Holodex api Python wrapper</p></li><li><a href=https://github.com/keiyoushi/extensions>keiyoushi/extensions</a><p>Extension repository for Mihon and variants</p></li><li><a href=https://github.com/MoonshotAI/Kimi-Audio>MoonshotAI/Kimi-Audio</a><p>Kimi-Audio, an open-source audio foundation model excelling in audio understanding, generation, and conversation</p></li><li><a href=https://github.com/SKProCH/Material.Icons>SKProCH/Material.Icons</a><p>Strongly typed parsed icons set from materialdesignicons.com and display control implementations for different GUI frameworks.</p></li></ul>
+<ul><li><a href=https://github.com/Xavalon/XamlStyler>Xavalon/XamlStyler</a><p>Visual Studio extension to help format your XAML source code</p></li><li><a href=https://github.com/Diniboy1123/usque>Diniboy1123/usque</a><p>Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol.</p></li><li><a href=https://github.com/keiyoushi/extensions>keiyoushi/extensions</a><p>Extension repository for Mihon and variants</p></li><li><a href=https://github.com/ombe1229/holodex>ombe1229/holodex</a><p>Holodex api Python wrapper</p></li><li><a href=https://github.com/MokaDevelopers/mokabot2>MokaDevelopers/mokabot2</a><p>多用途QQ群机器人，基于Python和nonebot2</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/23/25, 8:16 AM<br>下一次刷新：5/24/25, 8:16 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/24/25, 8:16 AM<br>下一次刷新：5/25/25, 8:16 AM</p>
