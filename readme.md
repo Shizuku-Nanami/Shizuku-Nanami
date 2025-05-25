@@ -65,9 +65,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/Xavalon/XamlStyler>Xavalon/XamlStyler</a><p>Visual Studio extension to help format your XAML source code</p></li><li><a href=https://github.com/Diniboy1123/usque>Diniboy1123/usque</a><p>Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol.</p></li><li><a href=https://github.com/keiyoushi/extensions>keiyoushi/extensions</a><p>Extension repository for Mihon and variants</p></li><li><a href=https://github.com/ombe1229/holodex>ombe1229/holodex</a><p>Holodex api Python wrapper</p></li><li><a href=https://github.com/MokaDevelopers/mokabot2>MokaDevelopers/mokabot2</a><p>多用途QQ群机器人，基于Python和nonebot2</p></li></ul>
+<ul><li><a href=https://github.com/lolishinshi/imsearch>lolishinshi/imsearch</a><p>基于特征点匹配的大规模相似图片搜索</p></li><li><a href=https://github.com/soruly/trace.moe>soruly/trace.moe</a><p>Anime Scene Search by Image</p></li><li><a href=https://github.com/Yuri-YuzuChaN/maimaiDX>Yuri-YuzuChaN/maimaiDX</a><p>基于HoshinoBot V2的舞萌DX查询插件，移植自mai-bot开源项目</p></li><li><a href=https://github.com/s1null/GhostEye>s1null/GhostEye</a><p>为渗透测试而生的ssh面板</p></li><li><a href=https://github.com/vbenjs/vue-vben-admin>vbenjs/vue-vben-admin</a><p>A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/24/25, 8:16 AM<br>下一次刷新：5/25/25, 8:16 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/25/25, 8:18 AM<br>下一次刷新：5/26/25, 8:18 AM</p>
