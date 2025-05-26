@@ -4,6 +4,8 @@
 
 - 关注主播喵，关注主播谢谢喵！フォローして、ありがとうにゃん！
 
+- 现任 光霂科技工作室(联合创始人之一) | HoloToolsDev_Labs(创始人)
+
 - **絶対いやだ！働きたくない！！怖い！社会が怖い！！**
 
 ---
@@ -65,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/MokaDevelopers/mokabot2>MokaDevelopers/mokabot2</a><p>多用途QQ群机器人，基于Python和nonebot2</p></li><li><a href=https://github.com/Mahdi-zarei/nekoray>Mahdi-zarei/nekoray</a><p>Qt based cross-platform GUI proxy configuration manager (backend: sing-box)</p></li><li><a href=https://github.com/Nemo2011/bilibili-api>Nemo2011/bilibili-api</a><p>哔哩哔哩常用API调用。支持视频、番剧、用户、频道、音频等功能。原仓库地址：https://github.com/MoyuScript/bilibili-api</p></li><li><a href=https://github.com/ViRb3/wgcf>ViRb3/wgcf</a><p>🚤 Cross-platform, unofficial CLI for Cloudflare Warp</p></li><li><a href=https://github.com/lucide-icons/lucide>lucide-icons/lucide</a><p>Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.</p></li></ul>
+<ul><li><a href=https://github.com/Anduin2017/HowToCook>Anduin2017/HowToCook</a><p>程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).</p></li><li><a href=https://github.com/Shizuku-Nanami/HoloDexWatcher>Shizuku-Nanami/HoloDexWatcher</a><p>基于HoloAPI V2的跨平台简易直播搜索器</p></li><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a><p>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</p></li><li><a href=https://github.com/ViRb3/wgcf>ViRb3/wgcf</a><p>🚤 Cross-platform, unofficial CLI for Cloudflare Warp</p></li><li><a href=https://github.com/encode/uvicorn>encode/uvicorn</a><p>An ASGI web server, for Python. 🦄</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/26/25, 8:17 AM<br>下一次刷新：5/27/25, 8:17 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/26/25, 12:01 PM<br>下一次刷新：5/27/25, 12:01 PM</p>
