@@ -65,9 +65,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/lolishinshi/imsearch>lolishinshi/imsearch</a><p>基于特征点匹配的大规模相似图片搜索</p></li><li><a href=https://github.com/soruly/trace.moe>soruly/trace.moe</a><p>Anime Scene Search by Image</p></li><li><a href=https://github.com/Yuri-YuzuChaN/maimaiDX>Yuri-YuzuChaN/maimaiDX</a><p>基于HoshinoBot V2的舞萌DX查询插件，移植自mai-bot开源项目</p></li><li><a href=https://github.com/s1null/GhostEye>s1null/GhostEye</a><p>为渗透测试而生的ssh面板</p></li><li><a href=https://github.com/vbenjs/vue-vben-admin>vbenjs/vue-vben-admin</a><p>A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!</p></li></ul>
+<ul><li><a href=https://github.com/MokaDevelopers/mokabot2>MokaDevelopers/mokabot2</a><p>多用途QQ群机器人，基于Python和nonebot2</p></li><li><a href=https://github.com/Mahdi-zarei/nekoray>Mahdi-zarei/nekoray</a><p>Qt based cross-platform GUI proxy configuration manager (backend: sing-box)</p></li><li><a href=https://github.com/Nemo2011/bilibili-api>Nemo2011/bilibili-api</a><p>哔哩哔哩常用API调用。支持视频、番剧、用户、频道、音频等功能。原仓库地址：https://github.com/MoyuScript/bilibili-api</p></li><li><a href=https://github.com/ViRb3/wgcf>ViRb3/wgcf</a><p>🚤 Cross-platform, unofficial CLI for Cloudflare Warp</p></li><li><a href=https://github.com/lucide-icons/lucide>lucide-icons/lucide</a><p>Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/25/25, 8:18 AM<br>下一次刷新：5/26/25, 8:18 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/26/25, 8:17 AM<br>下一次刷新：5/27/25, 8:17 AM</p>
