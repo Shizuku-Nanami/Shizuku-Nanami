@@ -67,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/lolishinshi/imsearch>lolishinshi/imsearch</a><p>基于特征点匹配的大规模相似图片搜索</p></li><li><a href=https://github.com/SKProCH/Material.Icons>SKProCH/Material.Icons</a><p>Strongly typed parsed icons set from materialdesignicons.com and display control implementations for different GUI frameworks.</p></li><li><a href=https://github.com/Anduin2017/HowToCook>Anduin2017/HowToCook</a><p>程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).</p></li><li><a href=https://github.com/XIU2/CloudflareSpeedTest>XIU2/CloudflareSpeedTest</a><p>🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~</p></li><li><a href=https://github.com/nature-lang/nature>nature-lang/nature</a><p>The Nature Programming Language</p></li></ul>
+<ul><li><a href=https://github.com/Diniboy1123/usque>Diniboy1123/usque</a><p>Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol.</p></li><li><a href=https://github.com/MoonshotAI/Kimi-Audio>MoonshotAI/Kimi-Audio</a><p>Kimi-Audio, an open-source audio foundation model excelling in audio understanding, generation, and conversation</p></li><li><a href=https://github.com/ViRb3/wgcf>ViRb3/wgcf</a><p>🚤 Cross-platform, unofficial CLI for Cloudflare Warp</p></li><li><a href=https://github.com/johnpeterman72/CursorRIPER>johnpeterman72/CursorRIPER</a><p>CursorRIPER</p></li><li><a href=https://github.com/upstash/context7>upstash/context7</a><p>Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：6/5/25, 8:16 AM<br>下一次刷新：6/6/25, 8:16 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：6/6/25, 8:16 AM<br>下一次刷新：6/7/25, 8:16 AM</p>
