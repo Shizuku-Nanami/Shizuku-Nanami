@@ -67,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/ProbiusOfficial/ssrf-labs>ProbiusOfficial/ssrf-labs</a><p>【Hello-CTF labs】一个ssrf的综合靶场，包含RCE，SQL注入，Tomcat，Redis，MySQL提权等ssrf攻击场景</p></li><li><a href=https://github.com/CodePhiliaX/Chat2DB>CodePhiliaX/Chat2DB</a><p>🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.</p></li><li><a href=https://github.com/sallar/github-contributions-chart>sallar/github-contributions-chart</a><p>:octocat: Generate an image of all your Github contributions</p></li><li><a href=https://github.com/XTLS/REALITY>XTLS/REALITY</a><p>THE NEXT FUTURE</p></li><li><a href=https://github.com/BingyanStudio/github-analyzer>BingyanStudio/github-analyzer</a><p>锐评一下你都在 GitHub 写了什么</p></li></ul>
+<ul><li><a href=https://github.com/encode/uvicorn>encode/uvicorn</a><p>An ASGI web server, for Python. 🦄</p></li><li><a href=https://github.com/keiyoushi/extensions>keiyoushi/extensions</a><p>Extension repository for Mihon and variants</p></li><li><a href=https://github.com/lolishinshi/imsearch>lolishinshi/imsearch</a><p>基于特征点匹配的大规模相似图片搜索</p></li><li><a href=https://github.com/s1null/GhostEye>s1null/GhostEye</a><p>为渗透测试而生的ssh面板</p></li><li><a href=https://github.com/johnpeterman72/CursorRIPER>johnpeterman72/CursorRIPER</a><p>CursorRIPER</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：6/9/25, 8:17 AM<br>下一次刷新：6/10/25, 8:17 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：6/10/25, 8:16 AM<br>下一次刷新：6/11/25, 8:16 AM</p>
