@@ -67,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/SKProCH/Material.Icons>SKProCH/Material.Icons</a><p>Strongly typed parsed icons set from materialdesignicons.com and display control implementations for different GUI frameworks.</p></li><li><a href=https://github.com/BililiveRecorder/BililiveRecorder>BililiveRecorder/BililiveRecorder</a><p>录播姬 | mikufans 生放送录制</p></li><li><a href=https://github.com/XTLS/REALITY>XTLS/REALITY</a><p>THE NEXT FUTURE</p></li><li><a href=https://github.com/nature-lang/nature>nature-lang/nature</a><p>The Nature Programming Language</p></li><li><a href=https://github.com/BingyanStudio/github-analyzer>BingyanStudio/github-analyzer</a><p>锐评一下你都在 GitHub 写了什么</p></li></ul>
+<ul><li><a href=https://github.com/SKProCH/Material.Icons>SKProCH/Material.Icons</a><p>Strongly typed parsed icons set from materialdesignicons.com and display control implementations for different GUI frameworks.</p></li><li><a href=https://github.com/Diniboy1123/usque>Diniboy1123/usque</a><p>Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol.</p></li><li><a href=https://github.com/MoonshotAI/Kimi-Audio>MoonshotAI/Kimi-Audio</a><p>Kimi-Audio, an open-source audio foundation model excelling in audio understanding, generation, and conversation</p></li><li><a href=https://github.com/didi/dimina>didi/dimina</a><p>星河小程序 - 滴滴开源小程序 / Dimina MiniProgram - DiDi's Open-Source MiniProgram Framework</p></li><li><a href=https://github.com/XIU2/CloudflareSpeedTest>XIU2/CloudflareSpeedTest</a><p>🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：6/23/25, 8:18 AM<br>下一次刷新：6/24/25, 8:18 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：6/24/25, 8:16 AM<br>下一次刷新：6/25/25, 8:16 AM</p>
