@@ -67,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/nature-lang/nature>nature-lang/nature</a><p>The Nature Programming Language</p></li><li><a href=https://github.com/sallar/github-contributions-chart>sallar/github-contributions-chart</a><p>:octocat: Generate an image of all your Github contributions</p></li><li><a href=https://github.com/BililiveRecorder/BililiveRecorder>BililiveRecorder/BililiveRecorder</a><p>录播姬 | mikufans 生放送录制</p></li><li><a href=https://github.com/BingyanStudio/github-analyzer>BingyanStudio/github-analyzer</a><p>锐评一下你都在 GitHub 写了什么</p></li><li><a href=https://github.com/Anduin2017/HowToCook>Anduin2017/HowToCook</a><p>程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).</p></li></ul>
+<ul><li><a href=https://github.com/didi/dimina>didi/dimina</a><p>星河小程序 - 滴滴开源小程序 / Dimina MiniProgram - DiDi's Open-Source MiniProgram Framework</p></li><li><a href=https://github.com/OpenListTeam/OpenList>OpenListTeam/OpenList</a><p>A new AList Fork to Anti Trust Crisis</p></li><li><a href=https://github.com/encode/uvicorn>encode/uvicorn</a><p>An ASGI web server, for Python. 🦄</p></li><li><a href=https://github.com/MoonshotAI/Kimi-Audio>MoonshotAI/Kimi-Audio</a><p>Kimi-Audio, an open-source audio foundation model excelling in audio understanding, generation, and conversation</p></li><li><a href=https://github.com/Xavalon/XamlStyler>Xavalon/XamlStyler</a><p>Visual Studio extension to help format your XAML source code</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：7/9/25, 8:17 AM<br>下一次刷新：7/10/25, 8:17 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：7/10/25, 8:17 AM<br>下一次刷新：7/11/25, 8:17 AM</p>
