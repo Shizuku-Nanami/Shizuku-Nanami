@@ -67,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/encode/uvicorn>encode/uvicorn</a><p>An ASGI web server, for Python. 🦄</p></li><li><a href=https://github.com/upstash/context7>upstash/context7</a><p>Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors</p></li><li><a href=https://github.com/Marven11/EtherGhost>Marven11/EtherGhost</a><p>新一代Webshell管理器，兼容蚁剑与冰蝎的PHP webshell</p></li><li><a href=https://github.com/didi/dimina>didi/dimina</a><p>星河小程序 - 滴滴开源小程序 / Dimina MiniProgram - DiDi's Open-Source MiniProgram Framework</p></li><li><a href=https://github.com/XTLS/REALITY>XTLS/REALITY</a><p>THE NEXT FUTURE</p></li></ul>
+<ul><li><a href=https://github.com/gethomepage/homepage>gethomepage/homepage</a><p>A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.</p></li><li><a href=https://github.com/encode/uvicorn>encode/uvicorn</a><p>An ASGI web server, for Python. 🦄</p></li><li><a href=https://github.com/SKProCH/Material.Icons>SKProCH/Material.Icons</a><p>Strongly typed parsed icons set from materialdesignicons.com and display control implementations for different GUI frameworks.</p></li><li><a href=https://github.com/Anduin2017/HowToCook>Anduin2017/HowToCook</a><p>程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).</p></li><li><a href=https://github.com/game1024/OpenSpeedy>game1024/OpenSpeedy</a><p>🎮 An open-source game speed modifier.[一款开源的游戏变速器]</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：7/11/25, 8:17 AM<br>下一次刷新：7/12/25, 8:17 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：7/12/25, 8:16 AM<br>下一次刷新：7/13/25, 8:16 AM</p>
