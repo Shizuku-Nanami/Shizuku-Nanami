@@ -67,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/game1024/OpenSpeedy>game1024/OpenSpeedy</a><p>🎮 An open-source game speed modifier.[一款开源的游戏变速器]</p></li><li><a href=https://github.com/rocksdanister/lively>rocksdanister/lively</a><p>Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.</p></li><li><a href=https://github.com/microsoft/microsoft-ui-xaml>microsoft/microsoft-ui-xaml</a><p>WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.</p></li><li><a href=https://github.com/spin311/MicrosoftRewardsWebsite>spin311/MicrosoftRewardsWebsite</a><p>Microsoft Automatic rewards google extension and phone app</p></li><li><a href=https://github.com/liriliri/rem>liriliri/rem</a><p>Rclone desktop app</p></li></ul>
+<ul><li><a href=https://github.com/OpenListTeam/OpenList>OpenListTeam/OpenList</a><p>A new AList Fork to Anti Trust Crisis</p></li><li><a href=https://github.com/spin311/MicrosoftRewardsWebsite>spin311/MicrosoftRewardsWebsite</a><p>Microsoft Automatic rewards google extension and phone app</p></li><li><a href=https://github.com/Threekiii/Awesome-CTF>Threekiii/Awesome-CTF</a><p>一个 CTF 知识库。A knowledge base for CTF (Capture The Flag) challenges.</p></li><li><a href=https://github.com/d2phap/ImageGlass>d2phap/ImageGlass</a><p>🏞 A lightweight, versatile image viewer</p></li><li><a href=https://github.com/dotnet/csharplang>dotnet/csharplang</a><p>The official repo for the design of the C# programming language</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：7/16/25, 8:17 AM<br>下一次刷新：7/17/25, 8:17 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：7/17/25, 8:18 AM<br>下一次刷新：7/18/25, 8:18 AM</p>
