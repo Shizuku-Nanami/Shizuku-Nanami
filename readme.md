@@ -67,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/files-community/Files>files-community/Files</a><p>A modern file manager that helps users organize their files and folders.</p></li><li><a href=https://github.com/sorabug/ChangeTimestamp>sorabug/ChangeTimestamp</a><p>一键修改exe、dll的编译时间、创建时间、修改时间和访问时间</p></li><li><a href=https://github.com/gethomepage/homepage>gethomepage/homepage</a><p>A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.</p></li><li><a href=https://github.com/didi/dimina>didi/dimina</a><p>星河小程序 - 滴滴开源小程序 / Dimina MiniProgram - DiDi's Open-Source MiniProgram Framework</p></li><li><a href=https://github.com/d2phap/ImageGlass>d2phap/ImageGlass</a><p>🏞 A lightweight, versatile image viewer</p></li></ul>
+<ul><li><a href=https://github.com/Marven11/EtherGhost>Marven11/EtherGhost</a><p>新一代Webshell管理器，兼容蚁剑与冰蝎的PHP webshell</p></li><li><a href=https://github.com/spin311/MicrosoftRewardsWebsite>spin311/MicrosoftRewardsWebsite</a><p>Microsoft Automatic rewards google extension and phone app</p></li><li><a href=https://github.com/microsoft/microsoft-ui-xaml>microsoft/microsoft-ui-xaml</a><p>WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.</p></li><li><a href=https://github.com/mono/mono>mono/mono</a><p>Mono open source ECMA CLI, C# and .NET implementation.</p></li><li><a href=https://github.com/Gaoyifei1011/GetStoreApp>Gaoyifei1011/GetStoreApp</a><p>离线下载 Microsoft Store 商店应用</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：7/19/25, 8:17 AM<br>下一次刷新：7/20/25, 8:17 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：7/20/25, 8:19 AM<br>下一次刷新：7/21/25, 8:19 AM</p>
