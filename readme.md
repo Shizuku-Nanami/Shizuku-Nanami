@@ -67,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/Marven11/EtherGhost>Marven11/EtherGhost</a><p>新一代Webshell管理器，兼容蚁剑与冰蝎的PHP webshell</p></li><li><a href=https://github.com/spin311/MicrosoftRewardsWebsite>spin311/MicrosoftRewardsWebsite</a><p>Microsoft Automatic rewards google extension and phone app</p></li><li><a href=https://github.com/microsoft/microsoft-ui-xaml>microsoft/microsoft-ui-xaml</a><p>WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.</p></li><li><a href=https://github.com/mono/mono>mono/mono</a><p>Mono open source ECMA CLI, C# and .NET implementation.</p></li><li><a href=https://github.com/Gaoyifei1011/GetStoreApp>Gaoyifei1011/GetStoreApp</a><p>离线下载 Microsoft Store 商店应用</p></li></ul>
+<ul><li><a href=https://github.com/OpenListTeam/OpenList>OpenListTeam/OpenList</a><p>A new AList Fork to Anti Trust Crisis</p></li><li><a href=https://github.com/carbon-app/carbon>carbon-app/carbon</a><p>:black_heart: Create and share beautiful images of your source code</p></li><li><a href=https://github.com/rocksdanister/lively>rocksdanister/lively</a><p>Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.</p></li><li><a href=https://github.com/mono/mono>mono/mono</a><p>Mono open source ECMA CLI, C# and .NET implementation.</p></li><li><a href=https://github.com/ktxiaok/FireAxe>ktxiaok/FireAxe</a><p>A Left 4 Dead 2 addon manager that supports hierarchical organization, workshop items and collections download, addon enablement management, etc.</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：7/20/25, 8:19 AM<br>下一次刷新：7/21/25, 8:19 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：7/21/25, 8:19 AM<br>下一次刷新：7/22/25, 8:19 AM</p>
