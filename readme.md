@@ -67,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/rocksdanister/lively>rocksdanister/lively</a><p>Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.</p></li><li><a href=https://github.com/mono/mono>mono/mono</a><p>Mono open source ECMA CLI, C# and .NET implementation.</p></li><li><a href=https://github.com/OpenCut-app/OpenCut>OpenCut-app/OpenCut</a><p>The open-source CapCut alternative</p></li><li><a href=https://github.com/Marven11/EtherGhost>Marven11/EtherGhost</a><p>新一代Webshell管理器，兼容蚁剑与冰蝎的PHP webshell</p></li><li><a href=https://github.com/samzong/MacMusicPlayer>samzong/MacMusicPlayer</a><p>A clean, lightweight music player for macOS.</p></li></ul>
+<ul><li><a href=https://github.com/d2phap/ImageGlass>d2phap/ImageGlass</a><p>🏞 A lightweight, versatile image viewer</p></li><li><a href=https://github.com/mx-space/mx-admin>mx-space/mx-admin</a><p>😇 The next generation of mx-space admin dashboard built with Vue 3 and TypeScript.</p></li><li><a href=https://github.com/game1024/OpenSpeedy>game1024/OpenSpeedy</a><p>🎮 An open-source game speed modifier.[一款开源的游戏变速器]</p></li><li><a href=https://github.com/gui-cs/Terminal.Gui>gui-cs/Terminal.Gui</a><p>Cross Platform Terminal UI toolkit for .NET</p></li><li><a href=https://github.com/Marven11/EtherGhost>Marven11/EtherGhost</a><p>新一代Webshell管理器，兼容蚁剑与冰蝎的PHP webshell</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：7/27/25, 8:19 AM<br>下一次刷新：7/28/25, 8:19 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：7/28/25, 8:19 AM<br>下一次刷新：7/29/25, 8:19 AM</p>
