@@ -67,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/dotnet/csharplang>dotnet/csharplang</a><p>The official repo for the design of the C# programming language</p></li><li><a href=https://github.com/samzong/MacMusicPlayer>samzong/MacMusicPlayer</a><p>A clean, lightweight music player for macOS.</p></li><li><a href=https://github.com/gui-cs/Terminal.Gui>gui-cs/Terminal.Gui</a><p>Cross Platform Terminal UI toolkit for .NET</p></li><li><a href=https://github.com/mx-space/mx-admin>mx-space/mx-admin</a><p>😇 The next generation of mx-space admin dashboard built with Vue 3 and TypeScript.</p></li><li><a href=https://github.com/d2phap/ImageGlass>d2phap/ImageGlass</a><p>🏞 A lightweight, versatile image viewer</p></li></ul>
+<ul><li><a href=https://github.com/EhTagTranslation/EhSyringe>EhTagTranslation/EhSyringe</a><p>E 站注射器，将中文翻译注入到 E 站体内</p></li><li><a href=https://github.com/mono/mono>mono/mono</a><p>Mono open source ECMA CLI, C# and .NET implementation.</p></li><li><a href=https://github.com/dotnet/csharplang>dotnet/csharplang</a><p>The official repo for the design of the C# programming language</p></li><li><a href=https://github.com/microsoft/microsoft-ui-xaml>microsoft/microsoft-ui-xaml</a><p>WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.</p></li><li><a href=https://github.com/spin311/MicrosoftRewardsWebsite>spin311/MicrosoftRewardsWebsite</a><p>Microsoft Automatic rewards google extension and phone app</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：7/30/25, 8:18 AM<br>下一次刷新：7/31/25, 8:18 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：7/31/25, 8:17 AM<br>下一次刷新：8/1/25, 8:17 AM</p>
