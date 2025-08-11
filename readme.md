@@ -67,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/hanmin0822/MisakaTranslator>hanmin0822/MisakaTranslator</a><p>御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具</p></li><li><a href=https://github.com/dnSpyEx/dnSpy>dnSpyEx/dnSpy</a><p>Unofficial revival of the well known .NET debugger and assembly editor, dnSpy</p></li><li><a href=https://github.com/EhTagTranslation/EhSyringe>EhTagTranslation/EhSyringe</a><p>E 站注射器，将中文翻译注入到 E 站体内</p></li><li><a href=https://github.com/dotnet/csharplang>dotnet/csharplang</a><p>The official repo for the design of the C# programming language</p></li><li><a href=https://github.com/carbon-app/carbon>carbon-app/carbon</a><p>:black_heart: Create and share beautiful images of your source code</p></li></ul>
+<ul><li><a href=https://github.com/mono/mono>mono/mono</a><p>Mono open source ECMA CLI, C# and .NET implementation.</p></li><li><a href=https://github.com/IridiumIO/CompactGUI>IridiumIO/CompactGUI</a><p>Reduce the space taken up by games and programs on disk by using native Windows APIs</p></li><li><a href=https://github.com/EhTagTranslation/EhSyringe>EhTagTranslation/EhSyringe</a><p>E 站注射器，将中文翻译注入到 E 站体内</p></li><li><a href=https://github.com/gui-cs/Terminal.Gui>gui-cs/Terminal.Gui</a><p>Cross Platform Terminal UI toolkit for .NET</p></li><li><a href=https://github.com/OpenCut-app/OpenCut>OpenCut-app/OpenCut</a><p>The open-source CapCut alternative</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/10/25, 8:19 AM<br>下一次刷新：8/11/25, 8:19 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/11/25, 8:18 AM<br>下一次刷新：8/12/25, 8:18 AM</p>
