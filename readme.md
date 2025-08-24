@@ -67,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/d2phap/ImageGlass>d2phap/ImageGlass</a><p>🏞 A lightweight, versatile image viewer</p></li><li><a href=https://github.com/rocksdanister/lively>rocksdanister/lively</a><p>Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.</p></li><li><a href=https://github.com/files-community/Files>files-community/Files</a><p>A modern file manager that helps users organize their files and folders.</p></li><li><a href=https://github.com/OpenCut-app/OpenCut>OpenCut-app/OpenCut</a><p>The open-source CapCut alternative</p></li><li><a href=https://github.com/dnSpyEx/dnSpy>dnSpyEx/dnSpy</a><p>Unofficial revival of the well known .NET debugger and assembly editor, dnSpy</p></li></ul>
+<ul><li><a href=https://github.com/mono/mono>mono/mono</a><p>Mono open source ECMA CLI, C# and .NET implementation.</p></li><li><a href=https://github.com/dotnet/csharplang>dotnet/csharplang</a><p>The official repo for the design of the C# programming language</p></li><li><a href=https://github.com/OpenCut-app/OpenCut>OpenCut-app/OpenCut</a><p>The open-source CapCut alternative</p></li><li><a href=https://github.com/files-community/Files>files-community/Files</a><p>A modern file manager that helps users organize their files and folders.</p></li><li><a href=https://github.com/microsoft/microsoft-ui-xaml>microsoft/microsoft-ui-xaml</a><p>WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/23/25, 8:15 AM<br>下一次刷新：8/24/25, 8:15 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/24/25, 8:18 AM<br>下一次刷新：8/25/25, 8:18 AM</p>
