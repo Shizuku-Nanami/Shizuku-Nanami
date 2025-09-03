@@ -67,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/dotnet/csharplang>dotnet/csharplang</a><p>The official repo for the design of the C# programming language</p></li><li><a href=https://github.com/mx-space/mx-admin>mx-space/mx-admin</a><p>😇 The next generation of mx-space admin dashboard built with Vue 3 and TypeScript.</p></li><li><a href=https://github.com/dnSpyEx/dnSpy>dnSpyEx/dnSpy</a><p>Unofficial revival of the well known .NET debugger and assembly editor, dnSpy</p></li><li><a href=https://github.com/liriliri/rem>liriliri/rem</a><p>Rclone desktop app</p></li><li><a href=https://github.com/hanmin0822/MisakaTranslator>hanmin0822/MisakaTranslator</a><p>御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具</p></li></ul>
+<ul><li><a href=https://github.com/gui-cs/Terminal.Gui>gui-cs/Terminal.Gui</a><p>Cross Platform Terminal UI toolkit for .NET</p></li><li><a href=https://github.com/rocksdanister/lively>rocksdanister/lively</a><p>Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.</p></li><li><a href=https://github.com/carbon-app/carbon>carbon-app/carbon</a><p>:black_heart: Create and share beautiful images of your source code</p></li><li><a href=https://github.com/spin311/MicrosoftRewardsWebsite>spin311/MicrosoftRewardsWebsite</a><p>Microsoft Automatic rewards google extension and phone app</p></li><li><a href=https://github.com/mx-space/core>mx-space/core</a><p>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/2/25, 8:16 AM<br>下一次刷新：9/3/25, 8:16 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/3/25, 8:15 AM<br>下一次刷新：9/4/25, 8:15 AM</p>
