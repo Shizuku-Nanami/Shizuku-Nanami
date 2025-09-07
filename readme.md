@@ -67,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/liriliri/rem>liriliri/rem</a><p>Rclone desktop app</p></li><li><a href=https://github.com/dotnet/BenchmarkDotNet>dotnet/BenchmarkDotNet</a><p>Powerful .NET library for benchmarking</p></li><li><a href=https://github.com/spin311/MicrosoftRewardsWebsite>spin311/MicrosoftRewardsWebsite</a><p>Microsoft Automatic rewards google extension and phone app</p></li><li><a href=https://github.com/OpenCut-app/OpenCut>OpenCut-app/OpenCut</a><p>The open-source CapCut alternative</p></li><li><a href=https://github.com/IridiumIO/CompactGUI>IridiumIO/CompactGUI</a><p>Reduce the space taken up by games and programs on disk by using native Windows APIs</p></li></ul>
+<ul><li><a href=https://github.com/HMBSbige/NatTypeTester>HMBSbige/NatTypeTester</a><p>测试当前网络的 NAT 类型（STUN）</p></li><li><a href=https://github.com/mx-space/mx-admin>mx-space/mx-admin</a><p>😇 The next generation of mx-space admin dashboard built with Vue 3 and TypeScript.</p></li><li><a href=https://github.com/rocksdanister/lively>rocksdanister/lively</a><p>Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.</p></li><li><a href=https://github.com/mono/mono>mono/mono</a><p>Mono open source ECMA CLI, C# and .NET implementation.</p></li><li><a href=https://github.com/dnSpyEx/dnSpy>dnSpyEx/dnSpy</a><p>Unofficial revival of the well known .NET debugger and assembly editor, dnSpy</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/6/25, 8:14 AM<br>下一次刷新：9/7/25, 8:14 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/7/25, 8:17 AM<br>下一次刷新：9/8/25, 8:17 AM</p>
