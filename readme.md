@@ -67,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/dotnet/csharplang>dotnet/csharplang</a><p>The official repo for the design of the C# programming language</p></li><li><a href=https://github.com/d2phap/ImageGlass>d2phap/ImageGlass</a><p>🏞 A lightweight, versatile image viewer</p></li><li><a href=https://github.com/mx-space/core>mx-space/core</a><p>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</p></li><li><a href=https://github.com/mono/mono>mono/mono</a><p>Mono open source ECMA CLI, C# and .NET implementation.</p></li><li><a href=https://github.com/files-community/Files>files-community/Files</a><p>A modern file manager that helps users organize their files and folders.</p></li></ul>
+<ul><li><a href=https://github.com/mx-space/core>mx-space/core</a><p>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</p></li><li><a href=https://github.com/HMBSbige/NatTypeTester>HMBSbige/NatTypeTester</a><p>测试当前网络的 NAT 类型（STUN）</p></li><li><a href=https://github.com/IridiumIO/CompactGUI>IridiumIO/CompactGUI</a><p>Reduce the space taken up by games and programs on disk by using native Windows APIs</p></li><li><a href=https://github.com/gui-cs/Terminal.Gui>gui-cs/Terminal.Gui</a><p>Cross Platform Terminal UI toolkit for .NET</p></li><li><a href=https://github.com/nezhahq/nezha>nezhahq/nezha</a><p>:trollface: Self-hosted, lightweight server and website monitoring and O&M tool</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/16/25, 8:15 AM<br>下一次刷新：9/17/25, 8:15 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/17/25, 8:16 AM<br>下一次刷新：9/18/25, 8:16 AM</p>
