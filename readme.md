@@ -1,4 +1,4 @@
-![117782788_p0](https://github.com/user-attachments/assets/38f4b2c6-de17-4db9-ba54-e35e7fecccc4)
+![魔法少女ノ魔女裁判](https://github.com/user-attachments/assets/a0457d5b-5ae8-4dd1-8004-237d695122ff)
 
 - 这里是 Shizuku Nanami 喵！
 
@@ -6,7 +6,7 @@
 
 - 现任 光霂科技工作室(联合创始人之一) | HoloToolsDev_Labs(创始人)
 
-- **絶対いやだ！働きたくない！！怖い！社会が怖い！！**
+- **ボクらの時間はまだこれからだから。**
 
 ---
 
@@ -67,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/mono/mono>mono/mono</a><p>Mono open source ECMA CLI, C# and .NET implementation.</p></li><li><a href=https://github.com/hanmin0822/MisakaTranslator>hanmin0822/MisakaTranslator</a><p>御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具</p></li><li><a href=https://github.com/rocksdanister/lively>rocksdanister/lively</a><p>Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.</p></li><li><a href=https://github.com/WPFDevelopersOrg/WPFDevelopers>WPFDevelopersOrg/WPFDevelopers</a><p>🎉 Welcome to follow the "WPFDevelopers" public account! This is a sample project we share daily, covering WPF's basic controls and custom control libraries. The project will be continuously updated, welcome to give us ⭐️</p></li><li><a href=https://github.com/carbon-app/carbon>carbon-app/carbon</a><p>:black_heart: Create and share beautiful images of your source code</p></li></ul>
+<ul><li><a href=https://github.com/mono/mono>mono/mono</a><p>Mono open source ECMA CLI, C# and .NET implementation.</p></li><li><a href=https://github.com/anthropics/claude-code>anthropics/claude-code</a><p>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</p></li><li><a href=https://github.com/mx-space/mx-admin>mx-space/mx-admin</a><p>😇 The next generation of mx-space admin dashboard built with Vue 3 and TypeScript.</p></li><li><a href=https://github.com/files-community/Files>files-community/Files</a><p>A modern file manager that helps users organize their files and folders.</p></li><li><a href=https://github.com/rocksdanister/lively>rocksdanister/lively</a><p>Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/10/25, 8:16 AM<br>下一次刷新：10/11/25, 8:16 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/10/25, 6:48 PM<br>下一次刷新：10/11/25, 6:48 PM</p>
