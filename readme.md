@@ -67,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/mx-space/mx-admin>mx-space/mx-admin</a><p>😇 The next generation of mx-space admin dashboard built with Vue 3 and TypeScript.</p></li><li><a href=https://github.com/umami-software/umami>umami-software/umami</a><p>Umami is a modern, privacy-focused alternative to Google Analytics.</p></li><li><a href=https://github.com/IridiumIO/CompactGUI>IridiumIO/CompactGUI</a><p>Reduce the space taken up by games and programs on disk by using native Windows APIs</p></li><li><a href=https://github.com/FfmpegZZZ/JMComic-Api>FfmpegZZZ/JMComic-Api</a><p>jm服务</p></li><li><a href=https://github.com/carbon-app/carbon>carbon-app/carbon</a><p>:black_heart: Create and share beautiful images of your source code</p></li></ul>
+<ul><li><a href=https://github.com/WPFDevelopersOrg/WPFDevelopers>WPFDevelopersOrg/WPFDevelopers</a><p>🎉 Welcome to follow the "WPFDevelopers" public account! This is a sample project we share daily, covering WPF's basic controls and custom control libraries. The project will be continuously updated, welcome to give us ⭐️</p></li><li><a href=https://github.com/OpenCut-app/OpenCut>OpenCut-app/OpenCut</a><p>The open-source CapCut alternative</p></li><li><a href=https://github.com/HMBSbige/NatTypeTester>HMBSbige/NatTypeTester</a><p>测试当前网络的 NAT 类型（STUN）</p></li><li><a href=https://github.com/spin311/MicrosoftRewardsWebsite>spin311/MicrosoftRewardsWebsite</a><p>Microsoft Automatic rewards google extension and phone app</p></li><li><a href=https://github.com/d2phap/ImageGlass>d2phap/ImageGlass</a><p>🏞 A lightweight, versatile image viewer</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/14/25, 8:15 AM<br>下一次刷新：10/15/25, 8:15 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/15/25, 8:16 AM<br>下一次刷新：10/16/25, 8:16 AM</p>
