@@ -67,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/HyPlayer/HyPlayer>HyPlayer/HyPlayer</a><p>仅供学习交流使用 | 第三方网易云音乐播放器 | A Netease Cloud Music Player</p></li><li><a href=https://github.com/hanmin0822/MisakaTranslator>hanmin0822/MisakaTranslator</a><p>御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具</p></li><li><a href=https://github.com/deretame/Breeze>deretame/Breeze</a><p>Breeze 是哔咔(PicACG/bika)与禁漫（禁漫天堂，jm）的第三方安卓客户端，采用 Flutter 开发。</p></li><li><a href=https://github.com/sn4k3/NetSonar>sn4k3/NetSonar</a><p>Network pings and other utilities</p></li><li><a href=https://github.com/dotnet/BenchmarkDotNet>dotnet/BenchmarkDotNet</a><p>Powerful .NET library for benchmarking</p></li></ul>
+<ul><li><a href=https://github.com/nezhahq/nezha>nezhahq/nezha</a><p>:trollface: Self-hosted, lightweight server and website monitoring and O&M tool</p></li><li><a href=https://github.com/IridiumIO/CompactGUI>IridiumIO/CompactGUI</a><p>Reduce the space taken up by games and programs on disk by using native Windows APIs</p></li><li><a href=https://github.com/hanmin0822/MisakaTranslator>hanmin0822/MisakaTranslator</a><p>御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具</p></li><li><a href=https://github.com/Timess/manosaba-MultiLocalize-Patch>Timess/manosaba-MultiLocalize-Patch</a><p>manosaba 魔法少女的魔女审判 中日双语MOD，同时显示中文与日文</p></li><li><a href=https://github.com/d2phap/ImageGlass>d2phap/ImageGlass</a><p>🏞 A lightweight, versatile image viewer</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/24/25, 8:14 AM<br>下一次刷新：10/25/25, 8:14 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/25/25, 8:16 AM<br>下一次刷新：10/26/25, 8:16 AM</p>
