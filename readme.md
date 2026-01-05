@@ -67,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/HMBSbige/NatTypeTester>HMBSbige/NatTypeTester</a><p>测试当前网络的 NAT 类型（STUN）</p></li><li><a href=https://github.com/SecNN/AiScan-N>SecNN/AiScan-N</a><p>AiScan-N 来了！这是一款基于人工智能的Ai全自动化渗透测试工具，专为企业和个人用户打造，尤其适合初学者（小白）快速上手使用，让你轻松迈入智能安全攻防时代！适用场景 ：如（红队演练、CTF比赛、Web应用渗透测试、内网横向移动、密码破解与暴力攻击、流量分析与威胁检测、APT攻击模拟、CTF逆向题、漏洞赏金挑战等场景）🎥在线演示视频（文章中）：https://mp.weixin.qq.com/s/7lsUdbrxkDy4P5pZhEWv7Q</p></li><li><a href=https://github.com/FfmpegZZZ/JMComic-Api>FfmpegZZZ/JMComic-Api</a><p>jm服务</p></li><li><a href=https://github.com/vastsa/FileCodeBox>vastsa/FileCodeBox</a><p>文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）</p></li><li><a href=https://github.com/HyPlayer/HyPlayer>HyPlayer/HyPlayer</a><p>仅供学习交流使用 | 第三方网易云音乐播放器 | A Netease Cloud Music Player</p></li></ul>
+<ul><li><a href=https://github.com/Lianues/manosaba_ai>Lianues/manosaba_ai</a></li><li><a href=https://github.com/Tokeii0/LovelyMem>Tokeii0/LovelyMem</a><p>基于Memprocfs和Volatility的可视化内存取证工具</p></li><li><a href=https://github.com/sn4k3/NetSonar>sn4k3/NetSonar</a><p>Network pings and other utilities</p></li><li><a href=https://github.com/hect0x7/JMComic-Crawler-Python>hect0x7/JMComic-Crawler-Python</a><p>Python API for JMComic | 提供Python API访问禁漫天堂，同时支持网页端和移动端 | 禁漫天堂GitHub Actions下载器🚀</p></li><li><a href=https://github.com/FfmpegZZZ/JMComic-Api>FfmpegZZZ/JMComic-Api</a><p>jm服务</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：1/4/26, 8:20 AM<br>下一次刷新：1/5/26, 8:20 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：1/5/26, 8:20 AM<br>下一次刷新：1/6/26, 8:20 AM</p>
