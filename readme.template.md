@@ -1,4 +1,4 @@
-![魔法少女ノ魔女裁判](https://github.com/user-attachments/assets/a0457d5b-5ae8-4dd1-8004-237d695122ff)
+![117782788_p0](https://github.com/user-attachments/assets/38f4b2c6-de17-4db9-ba54-e35e7fecccc4)
 
 - 这里是 Shizuku Nanami 喵！
 
@@ -6,7 +6,7 @@
 
 - 现任 光霂科技工作室(联合创始人之一) | HoloToolsDev_Labs(创始人)
 
-- **ボクらの時間はまだこれからだから。**
+- **絶対いやだ！働きたくない！！怖い！社会が怖い！！**
 
 ---
 
