@@ -1,4 +1,4 @@
-![魔法少女ノ魔女裁判](https://github.com/user-attachments/assets/a0457d5b-5ae8-4dd1-8004-237d695122ff)
+![117782788_p0](https://github.com/user-attachments/assets/38f4b2c6-de17-4db9-ba54-e35e7fecccc4)
 
 - 这里是 Shizuku Nanami 喵！
 
@@ -6,7 +6,7 @@
 
 - 现任 光霂科技工作室(联合创始人之一) | HoloToolsDev_Labs(创始人)
 
-- **ボクらの時間はまだこれからだから。**
+- **絶対いやだ！働きたくない！！怖い！社会が怖い！！**
 
 ---
 
@@ -67,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/Lianues/manosaba_ai>Lianues/manosaba_ai</a></li><li><a href=https://github.com/songquanpeng/message-pusher>songquanpeng/message-pusher</a><p>搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用</p></li><li><a href=https://github.com/Tokeii0/LovelyMem>Tokeii0/LovelyMem</a><p>基于Memprocfs和Volatility的可视化内存取证工具</p></li><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li><li><a href=https://github.com/LorisYounger/VPet>LorisYounger/VPet</a><p>虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序</p></li></ul>
+<ul><li><a href=https://github.com/qjfoidnh/BaiduPCS-Go>qjfoidnh/BaiduPCS-Go</a><p>iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能</p></li><li><a href=https://github.com/bee-san/Ciphey>bee-san/Ciphey</a><p>⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡</p></li><li><a href=https://github.com/x64dbg/x64dbg>x64dbg/x64dbg</a><p>An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.</p></li><li><a href=https://github.com/FfmpegZZZ/JMComic-Api>FfmpegZZZ/JMComic-Api</a><p>jm服务</p></li><li><a href=https://github.com/sn4k3/NetSonar>sn4k3/NetSonar</a><p>Network pings and other utilities</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：1/27/26, 8:20 AM<br>下一次刷新：1/28/26, 8:20 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：1/27/26, 2:28 PM<br>下一次刷新：1/28/26, 2:28 PM</p>
