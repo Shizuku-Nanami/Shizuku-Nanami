@@ -67,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/LorisYounger/VPet>LorisYounger/VPet</a><p>虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序</p></li><li><a href=https://github.com/estkme-group/openeuicc>estkme-group/openeuicc</a><p>Mirror of OpenEUICC, a fully open-source LPA implementation for Android</p></li><li><a href=https://github.com/straight-tamago/misaka26>straight-tamago/misaka26</a><p>iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</p></li><li><a href=https://github.com/localsend/localsend>localsend/localsend</a><p>An open-source cross-platform alternative to AirDrop</p></li><li><a href=https://github.com/qjfoidnh/BaiduPCS-Go>qjfoidnh/BaiduPCS-Go</a><p>iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能</p></li></ul>
+<ul><li><a href=https://github.com/Timess/manosaba-MultiLocalize-Patch>Timess/manosaba-MultiLocalize-Patch</a><p>manosaba 魔法少女的魔女审判 中日双语MOD，同时显示中文与日文</p></li><li><a href=https://github.com/LorisYounger/VPet>LorisYounger/VPet</a><p>虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序</p></li><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li><li><a href=https://github.com/vastsa/FileCodeBox>vastsa/FileCodeBox</a><p>文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）</p></li><li><a href=https://github.com/x64dbg/x64dbg>x64dbg/x64dbg</a><p>An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/9/26, 8:22 AM<br>下一次刷新：3/10/26, 8:22 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/10/26, 8:19 AM<br>下一次刷新：3/11/26, 8:19 AM</p>
