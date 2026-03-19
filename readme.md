@@ -67,9 +67,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/sn4k3/NetSonar>sn4k3/NetSonar</a><p>Network pings and other utilities</p></li><li><a href=https://github.com/Rem0o/FanControl.Releases>Rem0o/FanControl.Releases</a><p>This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.</p></li><li><a href=https://github.com/vastsa/FileCodeBox>vastsa/FileCodeBox</a><p>文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）</p></li><li><a href=https://github.com/BBleae/hrt-book>BBleae/hrt-book</a><p>跨性别女性 GAHT 资料 / トランス女性へのGAHTのガイド / Shizu's GAHT guide for trans woman</p></li><li><a href=https://github.com/klxiaoniu/QQVersionList>klxiaoniu/QQVersionList</a><p>QQ 版本列表实用工具</p></li></ul>
+<ul><li><a href=https://github.com/MrIkso/ArscEditor>MrIkso/ArscEditor</a><p>An open source editor for resources.arsc with GUI.</p></li><li><a href=https://github.com/qjfoidnh/BaiduPCS-Go>qjfoidnh/BaiduPCS-Go</a><p>iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能</p></li><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li><li><a href=https://github.com/Rem0o/FanControl.Releases>Rem0o/FanControl.Releases</a><p>This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.</p></li><li><a href=https://github.com/soybeanjs/soybean-admin>soybeanjs/soybean-admin</a><p>A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, TypeScript, Pinia, NaiveUI 和 UnoCSS。</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/18/26, 8:24 AM<br>下一次刷新：3/19/26, 8:24 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/19/26, 8:24 AM<br>下一次刷新：3/20/26, 8:24 AM</p>
