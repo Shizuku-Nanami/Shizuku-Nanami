@@ -27,6 +27,7 @@
 
 <p>
   <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&style=for-the-badge&logoColor=white">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&logo=Flutter&logoColor=white&style=for-the-badge">
   <img alt="GO" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white&style=for-the-badge">
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge">
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
