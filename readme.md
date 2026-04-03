@@ -68,9 +68,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/LorisYounger/VPet>LorisYounger/VPet</a><p>虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序</p></li><li><a href=https://github.com/BBleae/hrt-book>BBleae/hrt-book</a><p>跨性别女性 GAHT 资料 / トランス女性へのGAHTのガイド / Shizu's GAHT guide for trans woman</p></li><li><a href=https://github.com/Lianues/manosaba_ai>Lianues/manosaba_ai</a></li><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li><li><a href=https://github.com/Rem0o/FanControl.Releases>Rem0o/FanControl.Releases</a><p>This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.</p></li></ul>
+<ul><li><a href=https://github.com/ant-design/ant-design-pro>ant-design/ant-design-pro</a><p>👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!</p></li><li><a href=https://github.com/MrIkso/ArscEditor>MrIkso/ArscEditor</a><p>An open source editor for resources.arsc with GUI.</p></li><li><a href=https://github.com/straight-tamago/misaka26>straight-tamago/misaka26</a><p>iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</p></li><li><a href=https://github.com/qjfoidnh/BaiduPCS-Go>qjfoidnh/BaiduPCS-Go</a><p>iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能</p></li><li><a href=https://github.com/Timess/manosaba-MultiLocalize-Patch>Timess/manosaba-MultiLocalize-Patch</a><p>manosaba 魔法少女的魔女审判 中日双语MOD，同时显示中文与日文</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：4/2/26, 8:24 AM<br>下一次刷新：4/3/26, 8:24 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：4/3/26, 8:26 AM<br>下一次刷新：4/4/26, 8:26 AM</p>
