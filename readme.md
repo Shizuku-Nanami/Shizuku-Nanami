@@ -68,9 +68,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/kqcoxn/MaaDuDuL>kqcoxn/MaaDuDuL</a><p>嘟嘟脸恶作剧（Trickcal）自动化小助手，由 MaaFramework 强力驱动！</p></li><li><a href=https://github.com/klxiaoniu/QQVersionList>klxiaoniu/QQVersionList</a><p>QQ 版本列表实用工具</p></li><li><a href=https://github.com/vastsa/FileCodeBox>vastsa/FileCodeBox</a><p>文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）</p></li><li><a href=https://github.com/estkme-group/openeuicc>estkme-group/openeuicc</a><p>Mirror of OpenEUICC, a fully open-source LPA implementation for Android</p></li><li><a href=https://github.com/ant-design/ant-design-pro>ant-design/ant-design-pro</a><p>👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!</p></li></ul>
+<ul><li><a href=https://github.com/soybeanjs/soybean-admin>soybeanjs/soybean-admin</a><p>A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, TypeScript, Pinia, NaiveUI 和 UnoCSS。</p></li><li><a href=https://github.com/sn4k3/NetSonar>sn4k3/NetSonar</a><p>Network pings and other utilities</p></li><li><a href=https://github.com/klxiaoniu/QQVersionList>klxiaoniu/QQVersionList</a><p>QQ 版本列表实用工具</p></li><li><a href=https://github.com/open-meteo/open-meteo>open-meteo/open-meteo</a><p>Free Weather Forecast API for non-commercial use</p></li><li><a href=https://github.com/kqcoxn/MaaDuDuL>kqcoxn/MaaDuDuL</a><p>嘟嘟脸恶作剧（Trickcal）自动化小助手，由 MaaFramework 强力驱动！</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：4/10/26, 8:26 AM<br>下一次刷新：4/11/26, 8:26 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：4/11/26, 8:25 AM<br>下一次刷新：4/12/26, 8:25 AM</p>
