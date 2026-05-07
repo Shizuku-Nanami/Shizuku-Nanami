@@ -68,9 +68,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/estkme-group/openeuicc>estkme-group/openeuicc</a><p>Mirror of OpenEUICC, a fully open-source LPA implementation for Android</p></li><li><a href=https://github.com/Lianues/manosaba_ai>Lianues/manosaba_ai</a></li><li><a href=https://github.com/vastsa/FileCodeBox>vastsa/FileCodeBox</a><p>文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）</p></li><li><a href=https://github.com/songquanpeng/message-pusher>songquanpeng/message-pusher</a><p>搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用</p></li><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li></ul>
+<ul><li><a href=https://github.com/BBleae/hrt-book>BBleae/hrt-book</a><p>跨性别女性 GAHT 资料 / トランス女性へのGAHTのガイド / Shizu's GAHT guide for trans woman</p></li><li><a href=https://github.com/Chzxxuanzheng/Stapxs-QQ-Lite-X>Chzxxuanzheng/Stapxs-QQ-Lite-X</a><p>一个跨协议的 Stapxs QQ Lite 发行版。</p></li><li><a href=https://github.com/qjfoidnh/BaiduPCS-Go>qjfoidnh/BaiduPCS-Go</a><p>iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能</p></li><li><a href=https://github.com/vastsa/FileCodeBox>vastsa/FileCodeBox</a><p>文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）</p></li><li><a href=https://github.com/estkme-group/openeuicc>estkme-group/openeuicc</a><p>Mirror of OpenEUICC, a fully open-source LPA implementation for Android</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/6/26, 8:34 AM<br>下一次刷新：5/7/26, 8:34 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/7/26, 8:36 AM<br>下一次刷新：5/8/26, 8:36 AM</p>
