@@ -68,9 +68,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/open-meteo/open-meteo>open-meteo/open-meteo</a><p>Free Weather Forecast API for non-commercial use</p></li><li><a href=https://github.com/Tokeii0/LovelyMem>Tokeii0/LovelyMem</a><p>基于Memprocfs和Volatility的可视化内存取证工具</p></li><li><a href=https://github.com/ant-design/ant-design-pro>ant-design/ant-design-pro</a><p>👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!</p></li><li><a href=https://github.com/x64dbg/x64dbg>x64dbg/x64dbg</a><p>An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.</p></li><li><a href=https://github.com/kqcoxn/MaaDuDuL>kqcoxn/MaaDuDuL</a><p>嘟嘟脸恶作剧（Trickcal）自动化小助手，由 MaaFramework 强力驱动！</p></li></ul>
+<ul><li><a href=https://github.com/Tokeii0/LovelyMem>Tokeii0/LovelyMem</a><p>基于Memprocfs和Volatility的可视化内存取证工具</p></li><li><a href=https://github.com/straight-tamago/misaka26>straight-tamago/misaka26</a><p>iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</p></li><li><a href=https://github.com/kqcoxn/MaaDuDuL>kqcoxn/MaaDuDuL</a><p>嘟嘟脸恶作剧（Trickcal）自动化小助手，由 MaaFramework 强力驱动！</p></li><li><a href=https://github.com/x64dbg/x64dbg>x64dbg/x64dbg</a><p>An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.</p></li><li><a href=https://github.com/LorisYounger/VPet>LorisYounger/VPet</a><p>虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/27/26, 8:43 AM<br>下一次刷新：5/28/26, 8:43 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/28/26, 8:39 AM<br>下一次刷新：5/29/26, 8:39 AM</p>
