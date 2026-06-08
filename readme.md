@@ -68,9 +68,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li><li><a href=https://github.com/qjfoidnh/BaiduPCS-Go>qjfoidnh/BaiduPCS-Go</a><p>iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能</p></li><li><a href=https://github.com/songquanpeng/message-pusher>songquanpeng/message-pusher</a><p>搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用</p></li><li><a href=https://github.com/LorisYounger/VPet>LorisYounger/VPet</a><p>虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序</p></li><li><a href=https://github.com/Rem0o/FanControl.Releases>Rem0o/FanControl.Releases</a><p>This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.</p></li></ul>
+<ul><li><a href=https://github.com/Timess/manosaba-MultiLocalize-Patch>Timess/manosaba-MultiLocalize-Patch</a><p>manosaba 魔法少女的魔女审判 中日双语MOD，同时显示中文与日文</p></li><li><a href=https://github.com/BBleae/hrt-book>BBleae/hrt-book</a><p>跨性别女性 GAHT 资料 / トランス女性へのGAHTのガイド / Shizu's GAHT guide for trans woman</p></li><li><a href=https://github.com/Tokeii0/LovelyMem>Tokeii0/LovelyMem</a><p>基于Memprocfs和Volatility的可视化内存取证工具</p></li><li><a href=https://github.com/songquanpeng/message-pusher>songquanpeng/message-pusher</a><p>搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用</p></li><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：6/7/26, 8:47 AM<br>下一次刷新：6/8/26, 8:47 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：6/8/26, 8:48 AM<br>下一次刷新：6/9/26, 8:48 AM</p>
