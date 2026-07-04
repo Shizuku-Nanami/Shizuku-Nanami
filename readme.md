@@ -68,9 +68,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li><li><a href=https://github.com/Chzxxuanzheng/Stapxs-QQ-Lite-X>Chzxxuanzheng/Stapxs-QQ-Lite-X</a><p>一个跨协议的 Stapxs QQ Lite 发行版。</p></li><li><a href=https://github.com/gubaiovo/endfield-trade>gubaiovo/endfield-trade</a></li><li><a href=https://github.com/SecNN/AiScan-N>SecNN/AiScan-N</a><p>AiScan-N 来了！这是一款基于人工智能驱动的Ai自动化网络安全（运维）工具，专注于网络安全评估、漏洞扫描、运维、应急响应、渗透测试自动化，Ai大模型工具集【CLI Agent】 ，Ai驱动的安全检测技术，提升安全测试（运维）效率，专为企业和个人用户打造，尤其适合初学者（小白）快速上手使用，让你轻松迈入智能安全攻防时代！适用场景 ：如（红队演练、CTF比赛、Web应用渗透测试、内网横向移动、密码破解与暴力攻击、流量分析与威胁检测、APT攻击模拟、漏洞赏金挑战等场景）🎥演示视频（文章中）：https://mp.weixin.qq.com/s/7lsUdbrxkDy4P5pZhEWv7Q</p></li><li><a href=https://github.com/soybeanjs/soybean-admin>soybeanjs/soybean-admin</a><p>A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite8, TypeScript, Pinia, NaiveUI 和 UnoCSS。</p></li></ul>
+<ul><li><a href=https://github.com/Rem0o/FanControl.Releases>Rem0o/FanControl.Releases</a><p>This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.</p></li><li><a href=https://github.com/straight-tamago/misaka26>straight-tamago/misaka26</a><p>iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</p></li><li><a href=https://github.com/ant-design/ant-design-pro>ant-design/ant-design-pro</a><p>👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!</p></li><li><a href=https://github.com/estkme-group/openeuicc>estkme-group/openeuicc</a><p>Mirror of OpenEUICC, a fully open-source LPA implementation for Android</p></li><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：7/3/26, 10:35 AM<br>下一次刷新：7/4/26, 10:35 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：7/4/26, 10:33 AM<br>下一次刷新：7/5/26, 10:33 AM</p>
