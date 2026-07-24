@@ -68,9 +68,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/klxiaoniu/QQVersionList>klxiaoniu/QQVersionList</a><p>QQ 版本列表实用工具</p></li><li><a href=https://github.com/songquanpeng/message-pusher>songquanpeng/message-pusher</a><p>搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用</p></li><li><a href=https://github.com/soybeanjs/soybean-admin>soybeanjs/soybean-admin</a><p>A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite8, TypeScript, Pinia, NaiveUI 和 UnoCSS。</p></li><li><a href=https://github.com/open-meteo/open-meteo>open-meteo/open-meteo</a><p>Free Weather Forecast API for non-commercial use</p></li><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li></ul>
+<ul><li><a href=https://github.com/LorisYounger/VPet>LorisYounger/VPet</a><p>虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序</p></li><li><a href=https://github.com/BBleae/hrt-book>BBleae/hrt-book</a><p>跨性别女性 GAHT 资料 / トランス女性へのGAHTのガイド / Shizu's GAHT guide for trans woman</p></li><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li><li><a href=https://github.com/bee-san/Ciphey>bee-san/Ciphey</a><p>⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡</p></li><li><a href=https://github.com/vastsa/FileCodeBox>vastsa/FileCodeBox</a><p>文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：7/23/26, 10:24 AM<br>下一次刷新：7/24/26, 10:24 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：7/24/26, 10:21 AM<br>下一次刷新：7/25/26, 10:21 AM</p>
