@@ -14,10 +14,10 @@
 
 <p align="center">
   <a href="https://github.com/Shizuku-Nanami/">
-    <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shizuku-Nanami&show_icons=true&include_all_commits=true&theme=transparent" />
+    <img align="center" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=Shizuku-Nanami&show_icons=true&include_all_commits=true&theme=transparent" />
   </a>
   <a href="https://github.com/Shizuku-Nanami/">
-    <img align="center" alt="Top Langs" height="200" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shizuku-Nanami&layout=compact&theme=transparent" />
+    <img align="center" alt="Top Langs" height="200" width="360" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shizuku-Nanami&layout=compact&theme=transparent" />
   </a>
 </p>
 
