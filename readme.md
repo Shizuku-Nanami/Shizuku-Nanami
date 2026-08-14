@@ -68,9 +68,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/Chzxxuanzheng/Stapxs-QQ-Lite-X>Chzxxuanzheng/Stapxs-QQ-Lite-X</a><p>一个跨协议的 Stapxs QQ Lite 发行版。</p></li><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li><li><a href=https://github.com/kqcoxn/MaaDuDuL>kqcoxn/MaaDuDuL</a><p>嘟嘟脸恶作剧（Trickcal）自动化小助手，由 MaaFramework 强力驱动！</p></li><li><a href=https://github.com/BBleae/hrt-book>BBleae/hrt-book</a><p>跨性别女性 GAHT 资料 / トランス女性へのGAHTのガイド / Shizu's GAHT guide for trans woman</p></li><li><a href=https://github.com/yujincheng08/BiliRoaming>yujincheng08/BiliRoaming</a><p>哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.</p></li></ul>
+<ul><li><a href=https://github.com/gubaiovo/endfield-trade>gubaiovo/endfield-trade</a></li><li><a href=https://github.com/Tokeii0/LovelyMem>Tokeii0/LovelyMem</a><p>基于Memprocfs和Volatility的可视化内存取证工具</p></li><li><a href=https://github.com/bouob/tickets_hunter>bouob/tickets_hunter</a><p>Tickets Hunter (獵票機器人) - automated ticket purchasing. 科技決定你搶票的速度！ Previously named tixcraft_bot</p></li><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li><li><a href=https://github.com/JiangXu26710/etalien-auto>JiangXu26710/etalien-auto</a><p>免广告领外星仔加速器时长</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/13/26, 9:39 AM<br>下一次刷新：8/14/26, 9:39 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/14/26, 9:38 AM<br>下一次刷新：8/15/26, 9:38 AM</p>
