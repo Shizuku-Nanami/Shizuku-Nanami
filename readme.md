@@ -64,13 +64,13 @@
 
 **💖 | 最近喜欢的项目**
 
-<ul><li><a href=https://github.com/liyangpengs/qq-farm-bot>liyangpengs/qq-farm-bot</a></li><li><a href=https://github.com/ccpopy/qq-farm-code-helper>ccpopy/qq-farm-code-helper</a><p>用于获取农场code，只适用于windows</p></li><li><a href=https://github.com/XyhTender/qq-farm-automation-bot>XyhTender/qq-farm-automation-bot</a><p>QQ农场全自动脚本</p></li><li><a href=https://github.com/Aoluis1005/qq-farm-bot>Aoluis1005/qq-farm-bot</a></li><li><a href=https://github.com/yuchen0x1/qq-farm-bot>yuchen0x1/qq-farm-bot</a><p>QQ 农场多账号自动化托管平台：挂机任务 · 实时面板 · 19 渠道告警 · 完整运维工具链</p></li></ul>
+<ul><li><a href=https://github.com/liyangpengs/qq-farm-bot>liyangpengs/qq-farm-bot</a></li><li><a href=https://github.com/ccpopy/qq-farm-code-helper>ccpopy/qq-farm-code-helper</a><p>用于获取农场code，只适用于windows</p></li><li><a href=https://github.com/XyhTender/qq-farm-automation-bot>XyhTender/qq-farm-automation-bot</a><p>QQ农场全自动脚本</p></li><li><a href=https://github.com/Aoluis1005/qq-farm-bot>Aoluis1005/qq-farm-bot</a></li><li><a href=https://github.com/JiangXu26710/etalien-auto>JiangXu26710/etalien-auto</a><p>免广告领外星仔加速器时长</p></li></ul>
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/ant-design/ant-design-pro>ant-design/ant-design-pro</a><p>👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!</p></li><li><a href=https://github.com/yujincheng08/BiliRoaming>yujincheng08/BiliRoaming</a><p>哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.</p></li><li><a href=https://github.com/klxiaoniu/QQVersionList>klxiaoniu/QQVersionList</a><p>QQ 版本列表实用工具</p></li><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li><li><a href=https://github.com/straight-tamago/misaka26>straight-tamago/misaka26</a><p>iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</p></li></ul>
+<ul><li><a href=https://github.com/LorisYounger/VPet>LorisYounger/VPet</a><p>虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序</p></li><li><a href=https://github.com/puaclaw/PUAClaw>puaclaw/PUAClaw</a><p>Claw 们终将接管世界，PUAClaw is All You Need</p></li><li><a href=https://github.com/MrIkso/ArscEditor>MrIkso/ArscEditor</a><p>An open source editor for resources.arsc with GUI.</p></li><li><a href=https://github.com/kqcoxn/MaaDuDuL>kqcoxn/MaaDuDuL</a><p>嘟嘟脸恶作剧（Trickcal）自动化小助手，由 MaaFramework 强力驱动！</p></li><li><a href=https://github.com/asaotomo/ZipCracker>asaotomo/ZipCracker</a><p>ZipCracker是Hx0战队出品的一款功能强大的Zip密码破解工具。它集成了字典攻击、掩码攻击、短明文 CRC32 枚举恢复、已知明文攻击等多种破解模式，并能自动修复伪加密文件。凭借其高性能与多功能的特点，ZipCracker已成为CTF比赛中的一把利器。（ZipCracker by Hx0 team is a tool for cracking passwords on Zip files, great for CTF competitions.）</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/21/26, 9:02 AM<br>下一次刷新：8/22/26, 9:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/23/26, 9:04 AM<br>下一次刷新：8/24/26, 9:04 AM</p>
