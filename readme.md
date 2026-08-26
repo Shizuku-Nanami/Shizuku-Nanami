@@ -68,9 +68,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/localsend/localsend>localsend/localsend</a><p>An open-source cross-platform alternative to AirDrop</p></li><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li><li><a href=https://github.com/bee-san/Ciphey>bee-san/Ciphey</a><p>⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡</p></li><li><a href=https://github.com/XcantloadX/kotones-auto-assistant>XcantloadX/kotones-auto-assistant</a><p>学园偶像大师自动日常、培育脚本</p></li><li><a href=https://github.com/LorisYounger/VPet>LorisYounger/VPet</a><p>虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序</p></li></ul>
+<ul><li><a href=https://github.com/gubaiovo/endfield-trade>gubaiovo/endfield-trade</a></li><li><a href=https://github.com/asaotomo/ZipCracker>asaotomo/ZipCracker</a><p>ZipCracker是Hx0战队出品的一款功能强大的Zip密码破解工具。它集成了字典攻击、掩码攻击、短明文 CRC32 枚举恢复、已知明文攻击等多种破解模式，并能自动修复伪加密文件。凭借其高性能与多功能的特点，ZipCracker已成为CTF比赛中的一把利器。（ZipCracker by Hx0 team is a tool for cracking passwords on Zip files, great for CTF competitions.）</p></li><li><a href=https://github.com/Terra-Online/Atlos>Terra-Online/Atlos</a><p>Online interactive map for Arknights: Endfield.｜终末地互动地图。</p></li><li><a href=https://github.com/MrIkso/ArscEditor>MrIkso/ArscEditor</a><p>An open source editor for resources.arsc with GUI.</p></li><li><a href=https://github.com/yujincheng08/BiliRoaming>yujincheng08/BiliRoaming</a><p>哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/25/26, 9:01 AM<br>下一次刷新：8/26/26, 9:01 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/26/26, 9:03 AM<br>下一次刷新：8/27/26, 9:03 AM</p>
