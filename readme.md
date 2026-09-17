@@ -68,9 +68,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/JiangXu26710/etalien-auto>JiangXu26710/etalien-auto</a><p>功能已失效，请勿再使用此项目</p></li><li><a href=https://github.com/klxiaoniu/QQVersionList>klxiaoniu/QQVersionList</a><p>QQ 版本列表实用工具</p></li><li><a href=https://github.com/XcantloadX/kotones-auto-assistant>XcantloadX/kotones-auto-assistant</a><p>学园偶像大师自动日常、培育脚本</p></li><li><a href=https://github.com/open-meteo/open-meteo>open-meteo/open-meteo</a><p>Free Weather Forecast API for non-commercial use</p></li><li><a href=https://github.com/bee-san/Ciphey>bee-san/Ciphey</a><p>⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡</p></li></ul>
+<ul><li><a href=https://github.com/bee-san/Ciphey>bee-san/Ciphey</a><p>⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡</p></li><li><a href=https://github.com/XcantloadX/kotones-auto-assistant>XcantloadX/kotones-auto-assistant</a><p>学园偶像大师自动日常、培育脚本</p></li><li><a href=https://github.com/MrIkso/ArscEditor>MrIkso/ArscEditor</a><p>An open source editor for resources.arsc with GUI.</p></li><li><a href=https://github.com/straight-tamago/misaka26>straight-tamago/misaka26</a><p>iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</p></li><li><a href=https://github.com/localsend/localsend>localsend/localsend</a><p>An open-source cross-platform alternative to AirDrop</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/16/26, 11:07 AM<br>下一次刷新：9/17/26, 11:07 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/17/26, 11:11 AM<br>下一次刷新：9/18/26, 11:11 AM</p>
