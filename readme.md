@@ -68,9 +68,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/ant-design/ant-design-pro>ant-design/ant-design-pro</a><p>👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!</p></li><li><a href=https://github.com/x64dbg/x64dbg>x64dbg/x64dbg</a><p>An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.</p></li><li><a href=https://github.com/kqcoxn/MaaDuDuL>kqcoxn/MaaDuDuL</a><p>嘟嘟脸恶作剧（Trickcal）自动化小助手，由 MaaFramework 强力驱动！</p></li><li><a href=https://github.com/XcantloadX/kotones-auto-assistant>XcantloadX/kotones-auto-assistant</a><p>学园偶像大师自动日常、培育脚本</p></li><li><a href=https://github.com/JiangXu26710/etalien-auto>JiangXu26710/etalien-auto</a><p>功能已失效，请勿再使用此项目</p></li></ul>
+<ul><li><a href=https://github.com/Terra-Online/Atlos>Terra-Online/Atlos</a><p>Online interactive map for Arknights: Endfield.｜终末地互动地图。</p></li><li><a href=https://github.com/x64dbg/x64dbg>x64dbg/x64dbg</a><p>An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.</p></li><li><a href=https://github.com/XcantloadX/kotones-auto-assistant>XcantloadX/kotones-auto-assistant</a><p>学园偶像大师自动日常、培育脚本</p></li><li><a href=https://github.com/puaclaw/PUAClaw>puaclaw/PUAClaw</a><p>Claw 们终将接管世界，PUAClaw is All You Need</p></li><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/6/26, 12:38 PM<br>下一次刷新：10/7/26, 12:38 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/7/26, 12:04 PM<br>下一次刷新：10/8/26, 12:04 PM</p>
