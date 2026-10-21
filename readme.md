@@ -64,13 +64,13 @@
 
 **💖 | 最近喜欢的项目**
 
-<ul><li><a href=https://github.com/YuKongA/Mishka>YuKongA/Mishka</a><p>[Android] A mihomo GUI</p></li><li><a href=https://github.com/YuKongA/miuix-mcp>YuKongA/miuix-mcp</a></li><li><a href=https://github.com/Project-N-E-K-O/N.E.K.O>Project-N-E-K-O/N.E.K.O</a><p>A catgirl who lives with you in real time — reaching out first, sharing your media, and actually getting things done, powered by an embodied emotional engine.🐱❤️一只会主动找你玩的 AI 猫娘。</p></li><li><a href=https://github.com/ccpopy/qq-farm-code-helper>ccpopy/qq-farm-code-helper</a><p>用于获取农场code，只适用于windows</p></li><li><a href=https://github.com/XyhTender/qq-farm-automation-bot>XyhTender/qq-farm-automation-bot</a><p>QQ农场全自动脚本</p></li></ul>
+<ul><li><a href=https://github.com/ProjectMile/Mile.Xaml>ProjectMile/Mile.Xaml</a><p>The lightweight XAML Islands toolchain with the Windows 11 controls styles.</p></li><li><a href=https://github.com/YuKongA/Mishka>YuKongA/Mishka</a><p>[Android] A mihomo GUI</p></li><li><a href=https://github.com/YuKongA/miuix-mcp>YuKongA/miuix-mcp</a></li><li><a href=https://github.com/Project-N-E-K-O/N.E.K.O>Project-N-E-K-O/N.E.K.O</a><p>A catgirl who lives with you in real time — reaching out first, sharing your media, and actually getting things done, powered by an embodied emotional engine.🐱❤️一只会主动找你玩的 AI 猫娘。</p></li><li><a href=https://github.com/ccpopy/qq-farm-code-helper>ccpopy/qq-farm-code-helper</a><p>用于获取农场code，只适用于windows</p></li></ul>
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/Terra-Online/Atlos>Terra-Online/Atlos</a><p>Online interactive map for Arknights: Endfield.｜终末地互动地图。</p></li><li><a href=https://github.com/open-meteo/open-meteo>open-meteo/open-meteo</a><p>Free Weather Forecast API for non-commercial use</p></li><li><a href=https://github.com/BBleae/hrt-book>BBleae/hrt-book</a><p>跨性别女性 GAHT 资料 / トランス女性へのGAHTのガイド / Shizu's GAHT guide for trans woman</p></li><li><a href=https://github.com/puaclaw/PUAClaw>puaclaw/PUAClaw</a><p>Claw 们终将接管世界，PUAClaw is All You Need</p></li><li><a href=https://github.com/Chzxxuanzheng/Stapxs-QQ-Lite-X>Chzxxuanzheng/Stapxs-QQ-Lite-X</a><p>一个跨协议的 Stapxs QQ Lite 发行版。</p></li></ul>
+<ul><li><a href=https://github.com/JiangXu26710/etalien-auto>JiangXu26710/etalien-auto</a><p>功能已失效，请勿再使用此项目</p></li><li><a href=https://github.com/kqcoxn/MaaDuDuL>kqcoxn/MaaDuDuL</a><p>嘟嘟脸恶作剧（Trickcal）自动化小助手，由 MaaFramework 强力驱动！</p></li><li><a href=https://github.com/Tokeii0/LovelyMem>Tokeii0/LovelyMem</a><p>基于Memprocfs和Volatility的可视化内存取证工具</p></li><li><a href=https://github.com/straight-tamago/misaka26>straight-tamago/misaka26</a><p>iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</p></li><li><a href=https://github.com/gubaiovo/endfield-trade>gubaiovo/endfield-trade</a></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/20/26, 11:12 AM<br>下一次刷新：10/21/26, 11:12 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/21/26, 11:07 AM<br>下一次刷新：10/22/26, 11:07 AM</p>
