@@ -68,9 +68,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/lumina-layer-studio/Lumina-Layers>lumina-layer-studio/Lumina-Layers</a><p>Full-color flat FDM printing with calibrated filament layer mixing. Reproduce image colors and tonal detail, fine-tune local recipes, and export slicer-ready 3MF files.</p></li><li><a href=https://github.com/Tokeii0/LovelyMem>Tokeii0/LovelyMem</a><p>基于Memprocfs和Volatility的可视化内存取证工具</p></li><li><a href=https://github.com/bouob/tickets_hunter>bouob/tickets_hunter</a><p>Tickets Hunter (獵票機器人) - automated ticket purchasing. 科技決定你搶票的速度！ Previously named tixcraft_bot</p></li><li><a href=https://github.com/Terra-Online/Atlos>Terra-Online/Atlos</a><p>Online interactive map for Arknights: Endfield.｜终末地互动地图。</p></li><li><a href=https://github.com/bee-san/Ciphey>bee-san/Ciphey</a><p>⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡</p></li></ul>
+<ul><li><a href=https://github.com/MrIkso/ArscEditor>MrIkso/ArscEditor</a><p>An open source editor for resources.arsc with GUI.</p></li><li><a href=https://github.com/straight-tamago/misaka26>straight-tamago/misaka26</a><p>iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</p></li><li><a href=https://github.com/open-meteo/open-meteo>open-meteo/open-meteo</a><p>Free Weather Forecast API for non-commercial use</p></li><li><a href=https://github.com/JiangXu26710/etalien-auto>JiangXu26710/etalien-auto</a><p>功能已失效，请勿再使用此项目</p></li><li><a href=https://github.com/ant-design/ant-design-pro>ant-design/ant-design-pro</a><p>👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/4/26, 12:40 PM<br>下一次刷新：11/5/26, 12:40 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/5/26, 12:54 PM<br>下一次刷新：11/6/26, 12:54 PM</p>
