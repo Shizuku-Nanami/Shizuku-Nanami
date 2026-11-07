@@ -68,9 +68,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/lumina-layer-studio/Lumina-Layers>lumina-layer-studio/Lumina-Layers</a><p>Full-color flat FDM printing with calibrated filament layer mixing. Reproduce image colors and tonal detail, fine-tune local recipes, and export slicer-ready 3MF files.</p></li><li><a href=https://github.com/puaclaw/PUAClaw>puaclaw/PUAClaw</a><p>Claw 们终将接管世界，PUAClaw is All You Need</p></li><li><a href=https://github.com/straight-tamago/misaka26>straight-tamago/misaka26</a><p>iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</p></li><li><a href=https://github.com/Tokeii0/LovelyMem>Tokeii0/LovelyMem</a><p>基于Memprocfs和Volatility的可视化内存取证工具</p></li><li><a href=https://github.com/JiangXu26710/etalien-auto>JiangXu26710/etalien-auto</a><p>功能已失效，请勿再使用此项目</p></li></ul>
+<ul><li><a href=https://github.com/XcantloadX/kotones-auto-assistant>XcantloadX/kotones-auto-assistant</a><p>学园偶像大师自动日常、培育脚本</p></li><li><a href=https://github.com/lumina-layer-studio/Lumina-Layers>lumina-layer-studio/Lumina-Layers</a><p>Full-color flat FDM printing with calibrated filament layer mixing. Reproduce image colors and tonal detail, fine-tune local recipes, and export slicer-ready 3MF files.</p></li><li><a href=https://github.com/Tokeii0/LovelyMem>Tokeii0/LovelyMem</a><p>基于Memprocfs和Volatility的可视化内存取证工具</p></li><li><a href=https://github.com/WinMerge/winmerge>WinMerge/winmerge</a><p>WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.</p></li><li><a href=https://github.com/Terra-Online/Atlos>Terra-Online/Atlos</a><p>Online interactive map for Arknights: Endfield.｜终末地互动地图。</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/6/26, 12:54 PM<br>下一次刷新：11/7/26, 12:54 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/7/26, 12:26 PM<br>下一次刷新：11/8/26, 12:26 PM</p>
