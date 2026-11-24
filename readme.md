@@ -68,9 +68,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/XcantloadX/kotones-auto-assistant>XcantloadX/kotones-auto-assistant</a><p>学园偶像大师自动日常、培育脚本</p></li><li><a href=https://github.com/bee-san/Ciphey>bee-san/Ciphey</a><p>⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡</p></li><li><a href=https://github.com/Chzxxuanzheng/Stapxs-QQ-Lite-X>Chzxxuanzheng/Stapxs-QQ-Lite-X</a><p>一个跨协议的 Stapxs QQ Lite 发行版。</p></li><li><a href=https://github.com/Tokeii0/LovelyMem>Tokeii0/LovelyMem</a><p>基于Memprocfs和Volatility的可视化内存取证工具</p></li><li><a href=https://github.com/JiangXu26710/etalien-auto>JiangXu26710/etalien-auto</a><p>功能已失效，请勿再使用此项目</p></li></ul>
+<ul><li><a href=https://github.com/x64dbg/x64dbg>x64dbg/x64dbg</a><p>An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.</p></li><li><a href=https://github.com/straight-tamago/misaka26>straight-tamago/misaka26</a><p>iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</p></li><li><a href=https://github.com/klxiaoniu/QQVersionList>klxiaoniu/QQVersionList</a><p>QQ 版本列表实用工具</p></li><li><a href=https://github.com/Terra-Online/Atlos>Terra-Online/Atlos</a><p>Online interactive map for Arknights: Endfield.｜终末地互动地图。</p></li><li><a href=https://github.com/yujincheng08/BiliRoaming>yujincheng08/BiliRoaming</a><p>哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/23/26, 1:32 PM<br>下一次刷新：11/24/26, 1:32 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/24/26, 4:10 PM<br>下一次刷新：11/25/26, 4:10 PM</p>
