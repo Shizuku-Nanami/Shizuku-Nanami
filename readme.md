@@ -68,9 +68,9 @@
 
 **🌟 | 赏的星星**
 
-<ul><li><a href=https://github.com/bouob/tickets_hunter>bouob/tickets_hunter</a><p>Tickets Hunter (獵票機器人) - automated ticket purchasing. 科技決定你搶票的速度！ Previously named tixcraft_bot</p></li><li><a href=https://github.com/XyhTender/qq-farm-automation-bot>XyhTender/qq-farm-automation-bot</a><p>QQ农场全自动脚本</p></li><li><a href=https://github.com/Tokeii0/LovelyMem>Tokeii0/LovelyMem</a><p>基于Memprocfs和Volatility的可视化内存取证工具</p></li><li><a href=https://github.com/x64dbg/x64dbg>x64dbg/x64dbg</a><p>An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.</p></li><li><a href=https://github.com/klxiaoniu/QQVersionList>klxiaoniu/QQVersionList</a><p>QQ 版本列表实用工具</p></li></ul>
+<ul><li><a href=https://github.com/XcantloadX/kotones-auto-assistant>XcantloadX/kotones-auto-assistant</a><p>学园偶像大师自动日常、培育脚本</p></li><li><a href=https://github.com/Chzxxuanzheng/Stapxs-QQ-Lite-X>Chzxxuanzheng/Stapxs-QQ-Lite-X</a><p>一个跨协议的 Stapxs QQ Lite 发行版。</p></li><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li><li><a href=https://github.com/Aoluis1005/qq-farm-bot>Aoluis1005/qq-farm-bot</a></li><li><a href=https://github.com/ant-design/ant-design-pro>ant-design/ant-design-pro</a><p>👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> ちきゅう大爆発 どっか～ん  </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/25/26, 2:48 PM<br>下一次刷新：11/26/26, 2:48 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/chitsanfei/chitsanfei>chitsanfei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/26/26, 2:39 PM<br>下一次刷新：11/27/26, 2:39 PM</p>
